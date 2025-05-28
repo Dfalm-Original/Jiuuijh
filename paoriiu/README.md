@@ -4,7 +4,7 @@
 
 <hr>
 
-### A - [Presentation en Résumé](Presentation.2.Resume.md)<br>B - [Presentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](paoriiu/Lire.md)
+### A - [Presentation en Résumé](Presentation.2.Resume.md)<br>B - [Presentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](Lire.md)
 
 ----
 
