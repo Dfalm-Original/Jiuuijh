@@ -8,7 +8,7 @@ Présentation du projet pour commencer je t’invite à lire la [licence WTFPL](
 > Mais si tu veux juste une version résumé ou si tu as la flemme ( ou les deux ) :  > [Tu peux cliquer ici](Presentation.2.Resume.md) <  
 
 J’ai commencé à écrire vers 1997 et formalisé entre 2002 et 2004, ce projet a toujours eu pour vocation le partage libre et gratuit.
-Avec l'émergence de plateformes collaboratives telles que [GitHub](https://github.com/Dfalm-Original/jiuuijh/paoriiu) et [Quora](https://paoriiujiuuijh.quora.com/), il est aujourd'hui possible de concrétiser pleinement cette vision.
+Avec l'émergence de plateformes collaboratives telles que [GitHub](https://github.com/Dfalm-Original/jiuuijh) et [Quora](https://paoriiujiuuijh.quora.com/), il est aujourd'hui possible de concrétiser pleinement cette vision.
 
 J’écris pour moi, si des gens aiment ; tant mieux.
 Je mets à ta disposition le fruit du travail d'écriture, mais également *el famoso* « processus créatif ».
@@ -51,12 +51,12 @@ Et si des gens veulent vendre, revendre et en tirer des intérêts lucratifs : 
 Si il y a des étudiants en cinéma ou des fous pétés de thunes qui veulent en faire un métrage ou des auteurs de bédé et manga qui veulent l’adapter graphiquement : **c’est possible.**
 Même si tu es pas doué en dessin mais que tu sais te servir de comfyUI, midjourney ou autre IA générative d’image : **c’est possible.**
 
-Le projet sera principalement hébergé sur [GitHub](https://github.com/Dfalm-Original/jiuuijh/paoriiu), qui constituera la version "CANON" et officielle.
+Le projet sera principalement hébergé sur [GitHub](https://github.com/Dfalm-Original/jiuuijh), qui constituera la version "CANON" et officielle.
 Pour le suivi facile des modifications et des contributions via les fonctionnalités de la plateforme (pull requests, issues, etc.).
 
 
 > 🄯 La licence libre WTFPL : https://paoriiu.jiuuijh.fr/licence/<br>
-> 🐱 GitHub : https://github.com/Dfalm-Original/jiuuijh/paoriiu ( l’arborescence est inversée volontairement )<br>
+> 🐱 GitHub : https://github.com/Dfalm-Original/jiuuijh ( l’arborescence est inversée volontairement )<br>
 > 👁 Un site "rolling release" sous Wordpress : https://paoriiu.jiuuijh.fr<br>
 > 👩🏽‍🏫  Un dépôt « J I T » sur Quora : https://paoriiujiuuijh.quora.com/<br>
 > 📜 Il y a une version MarkDown sur Medium https://medium.com/@dfalm<br>

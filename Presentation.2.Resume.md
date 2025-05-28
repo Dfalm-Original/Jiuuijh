@@ -18,7 +18,7 @@ Et [la licence, la WTFPL](https://fr.wikipedia.org/wiki/WTFPL), elle est claire 
 Ça te dit de jeter un œil, viens voir et si ça te chauffe… ben amuse-toi avec wink-wink !
 
 Alors ça se passe sur GitHub ( c’est la version « CANON » ) :<br>
-- <https://github.com/Dfalm-Original/jiuuijh/paoriiu><br>Si tu connais pas ou que tu sais pas comment ça marche ou que tu as peur, pas de panique ;
+- <https://github.com/Dfalm-Original/jiuuijh><br>Si tu connais pas ou que tu sais pas comment ça marche ou que tu as peur, pas de panique ;
 - Y a aussi un dépôt (une version « [J I T](https://fr.wikipedia.org/wiki/Juste-%C3%A0-temps_\(gestion\)) »)  sur Quora :<br> https://paoriiujiuuijh.quora.com/
  - Et si tu connais pas Quora ou ça te fait peur ou que tu as « *juste *» envie de lire ; <br>
  - C’est possible avec un bon vieux site web, c’est la version "[rolling release](https://fr.wikipedia.org/wiki/Rolling_release)" :
