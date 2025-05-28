@@ -54,7 +54,6 @@ Même si tu es pas doué en dessin mais que tu sais te servir de comfyUI, midjou
 Le projet sera principalement hébergé sur [GitHub](https://github.com/Dfalm-Original/jiuuijh), qui constituera la version "CANON" et officielle.
 Pour le suivi facile des modifications et des contributions via les fonctionnalités de la plateforme (pull requests, issues, etc.).
 
-
 > 🄯 La licence libre WTFPL : https://paoriiu.jiuuijh.fr/licence/<br>
 > 🐱 GitHub : https://github.com/Dfalm-Original/jiuuijh ( l’arborescence est inversée volontairement )<br>
 > 👁 Un site "rolling release" sous Wordpress : https://paoriiu.jiuuijh.fr<br>
