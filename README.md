@@ -2,14 +2,14 @@
 
 ## **Objet : Proposition d'un projet de roman libre, gratuit et participatif** : *Jiuuijh*
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Concept-Art_17-51-42_SDXL--novaOrangeXL_v60_UPSCALER(hires)%3D4x_foolhardy_Remacri_multiplicateur_X3_1--WIDE.webp" width="85%" height="85%">
-<hr>
 
-### A - [Présentation en Résumé](Presentation.2.Resume.md)<br>B - [Présentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/tree/main/paoriiu)
-
+----
+### A - [Présentation en Résumé](Presentation.2.Resume.md)<br>B - [Présentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
 ----
 
 ### Le premier élément est la Langue : 
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
+To distinguish French from English I will use the following icons:<br>
 
 🔵⚪️🔴 En Français : Eléments en Français<br>
 **Il n'y a pas et il n'y aura pas de version traduite en Anglais ( de ma part)**
@@ -29,8 +29,8 @@ Ici nous sommes sur la version « [CANON](https://fr.wikipedia.org/wiki/Canon_(f
 - Si tu connais pas ou que tu sais pas comment ça marche ou que tu as peur, pas de panique ;
 Il y a plein d'autre liens tu peux retrouver la liste ici 👉 https://paoriiu.jiuuijh.fr/liens/ <br>
 Et là 👇<br>
->  👁 Un site « rolling release » sous WordPress : https://paoriiu.jiuuijh.fr<br>
-> 👩🏽‍🏫  Un dépôt « J I T » sur Quora : https://paoriiujiuuijh.quora.com/<br>
+> 👁 Le site web « rolling release » : https://paoriiu.jiuuijh.fr<br>
+> 👩🏽‍🏫 Un dépôt « J I T » sur Quora : https://paoriiujiuuijh.quora.com/<br>
 > 📜 Il y a une version MarkDown sur Medium https://medium.com/@dfalm<br>
 > 💻 Il y a une version sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version sur Somee : https://somee.social/Dfalm<br>
@@ -108,7 +108,7 @@ Here you are at the root of the project. You can start by reading the first part
 Here we are on the "[CANON](https://fr.wikipedia.org/wiki/Canon_(fiction))" version
 - If you don't know how it works, or you're scared, don't panic; There are plenty of other links, you can find the list here 👉 https://paoriiu.jiuuijh.fr/liens/ <br>
 And here 👇<br>
-> 👁 A rolling release site on WordPress: https://paoriiu.jiuuijh.fr<br>
+> 👁 The rolling release web site : https://paoriiu.jiuuijh.fr<br>
 > 👩🏽‍🏫 A JIT repository on Quora: https://paoriiujiuuijh.quora.com/<br>
 > 📜 There's a MarkDown version on Medium https://medium.com/@dfalm<br>
 > 💻 There's a version on MINDS: https://www.minds.com/dfalm/<br>
