@@ -14,7 +14,7 @@ To distinguish French from English I will use the following icons:<br>
 
 ## ⚠️ There is not and there will not be a translated version of the *project* in English (from me)
 
-> however f you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](Licence.md).
+> however if you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](Licence.md).
 ----
 
 
