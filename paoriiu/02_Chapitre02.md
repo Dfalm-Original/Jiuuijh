@@ -39,7 +39,6 @@ Rappel : les mots avec une couleur différente c’est des liens cliquables. �
 
 ---
 
-# TITRE
 - AVANT [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
 
 # Chapitre 2
