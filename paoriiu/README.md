@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Concept-Art_17-51-42_SDXL--novaOrangeXL_v60_UPSCALER(hires)%3D4x_foolhardy_Remacri_multiplicateur_X3_1--WIDE.webp" width="85%" height="85%">
 
 ----
-### A - [Présentation en Résumé](Presentation.2.Resume.md)<br>B - [Présentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
+### A - [Présentation en Résumé](Presentation.2.Resume.md)<br>B - [Présentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFPL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
 ----
 
 ### Le premier élément est la Langue : 
@@ -18,7 +18,7 @@ To distinguish French from English I will use the following icons:<br>
 
 ## ⚠️ There is not and there will not be a translated version of the *project* in English (from me)
 
-> however f you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](Licence.md).
+> however if you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](Licence.md).
 ----
 # - 🔵⚪️🔴  Présentation du projet « Jiuuijh »
 Ici tu es à la racine du projet tu peux commencer par lire le premier volet ["p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/tree/main/paoriiu) : SPOILER  🫣 il y a plusieurs volets
@@ -27,13 +27,14 @@ Ici tu es à la racine du projet tu peux commencer par lire le premier volet ["p
 
 Ici nous sommes sur la version « [CANON](https://fr.wikipedia.org/wiki/Canon_(fiction)) » 
 - Si tu connais pas ou que tu sais pas comment ça marche ou que tu as peur, pas de panique ;
-Il y a plein d'autre liens tu peux retrouver la liste ici 👉 https://paoriiu.jiuuijh.fr/liens/ <br>
+Il y a plein d'autres liens tu peux retrouver la liste ici 👉 https://paoriiu.jiuuijh.fr/liens/ <br>
 Et là 👇<br>
 > 👁 Le site web « rolling release » : https://paoriiu.jiuuijh.fr<br>
 > 👩🏽‍🏫 Un dépôt « J I T » sur Quora : https://paoriiujiuuijh.quora.com/<br>
 > 📜 Il y a une version MarkDown sur Medium https://medium.com/@dfalm<br>
 > 💻 Il y a une version sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version sur Somee : https://somee.social/Dfalm<br>
+> 📖 Une version sur Wattpad https://www.wattpad.com/user/Dfalm_<br>
 
 Et lien des 'RS' :<br>
 - Pour me joindre sur BlueSky je n’utilise pas l’autre réseau ; trop  N*zi à mon goût<br>
@@ -74,10 +75,10 @@ Ou mieux si tu as une partie que tu aimes bien mais que tu trouves « *pas bien 
 
 L’objectif est de permettre de faire vivre et évoluer grâce aux contributions de la communauté puisque c’est un projet open source.<br>
 N’hésite pas à participer, à proposer tes contributions et enrichir, à ta manière.
-#### FIN DE LE PRÉSENTATION EN PLUSIEUR PHRASES
+#### FIN DE LE PRÉSENTATION EN PLUSIEURS PHRASES
 
-# C - La Licence WTPF
-### Je t'invite vivement à lire la [licence WTFL](Licence.md), c'est une licence "zéro" mais c'est important que tu la lises pour comprendre ce que cela signifie.
+# C - La Licence WTFPL
+### Je t'invite vivement à lire la [licence WTFPL](Licence.md), c'est une licence "zéro" mais c'est important que tu la lises pour comprendre ce que cela signifie.
 C'est "plus" qu'une licence "ZERO" : domaine public.
 
 #### DONC : RTFM [licence](Licence.md) 😉, merci tu me fais plaisir
@@ -113,6 +114,7 @@ And here 👇<br>
 > 📜 There's a MarkDown version on Medium https://medium.com/@dfalm<br>
 > 💻 There's a version on MINDS: https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version on Somee: https://somee.social/Dfalm<br>
+> 📖 Version on Wattpad https://www.wattpad.com/user/Dfalm_<br>
 
 And the 'RS' link: <br>
 - To reach me on BlueSky, I don't use the other network; too N*zi for my taste<br>
@@ -153,8 +155,8 @@ Or better, if you have a part you like but find "not well written" or the famous
 The goal is to keep it alive and evolving thanks to community contributions since it's an open source project.
 #### END OF THE PRESENTATION IN SEVERAL SENTENCES
 
-# C - The WTPF License
-### I strongly encourage you to read the [WTFL License](License.md). It's a "zero" license, but it's important that you read it to understand what it means. It's "more" than a "ZERO" license: public domain.
+# C - The WTFPL License
+### I strongly encourage you to read the [WTFPL License](License.md). It's a "zero" license, but it's important that you read it to understand what it means. It's "more" than a "ZERO" license: public domain.
 
 #### SO: RTFM [license](Licence.md) 😉, thank you, you please me
 

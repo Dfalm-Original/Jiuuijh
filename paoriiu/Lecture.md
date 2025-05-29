@@ -20,6 +20,7 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 📜 Sur Medium https://medium.com/@dfalm<br>
 > 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
+> 📖 Sur Wattpad https://www.wattpad.com/user/Dfalm_<br>
 
 # Et tu peux cliquer en dessous pour lire ici  ⏬
 

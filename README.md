@@ -30,11 +30,11 @@ Ici nous sommes sur la version « [CANON](https://fr.wikipedia.org/wiki/Canon_(f
 Il y a plein d'autres liens tu peux retrouver la liste ici 👉 https://paoriiu.jiuuijh.fr/liens/ <br>
 Et là 👇<br>
 > 👁 Le site web « rolling release » : https://paoriiu.jiuuijh.fr<br>
-> Une version sur Wattpad https://www.wattpad.com/user/Dfalm_<br>
 > 👩🏽‍🏫 Un dépôt « J I T » sur Quora : https://paoriiujiuuijh.quora.com/<br>
 > 📜 Il y a une version MarkDown sur Medium https://medium.com/@dfalm<br>
 > 💻 Il y a une version sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version sur Somee : https://somee.social/Dfalm<br>
+> 📖 Une version sur Wattpad https://www.wattpad.com/user/Dfalm_<br>
 
 Et lien des 'RS' :<br>
 - Pour me joindre sur BlueSky je n’utilise pas l’autre réseau ; trop  N*zi à mon goût<br>
@@ -114,6 +114,7 @@ And here 👇<br>
 > 📜 There's a MarkDown version on Medium https://medium.com/@dfalm<br>
 > 💻 There's a version on MINDS: https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version on Somee: https://somee.social/Dfalm<br>
+> 📖 Version on Wattpad https://www.wattpad.com/user/Dfalm_<br>
 
 And the 'RS' link: <br>
 - To reach me on BlueSky, I don't use the other network; too N*zi for my taste<br>
