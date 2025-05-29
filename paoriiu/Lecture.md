@@ -9,8 +9,6 @@
 
 # Merci et bonne lecture,
 
-
-
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
 Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :

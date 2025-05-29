@@ -8,8 +8,6 @@
 ----
 
 ### Le premier élément est la Langue : 
-Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
-
 🔵⚪️🔴 En Français : Eléments en Français<br>
 **Il n'y a pas et il n'y aura pas de version traduite en Anglais ( de ma part)**
 
@@ -26,7 +24,7 @@ Si tu l'as pas déjà fait, je t'invite à lire le [READ-ME](README.md) pour pre
 ### [PRENDRE CONNAISSANCE DU PROJET](README.md)
 ----
 
-# [ \[ SINON CLIQUE ICI ET BONNE LECTURE À TOI \] ](Lecture.md)
+# [ \[ CLIQUE ICI ET BONNE LECTURE \] ](Lecture.md)
 
 Avant de lire je tiens à rappeler que tu as le droit de pas aimer,
 tu as même le droit de dire que c’est de la merde.
@@ -37,7 +35,7 @@ Et si ce que tu lis ne te plaît pas : ne t’inflige pas la lecture, arrête-to
 Vraiment et sincèrement on ne peut pas plaire à tout le monde, ce que j’écris n’est pas pour toi et c’est pas grave,
 tu vas certainement trouver chez d’autres autrices et auteurs des choses qui parlent plus à ta sensibilité et c’est tant mieux.
 
-Bref arrête toi de lire si tu n’aimes pas; je le prendrais pas mal.
+# Bref arrête toi de lire si tu n’aimes pas; je le prendrais pas mal.
 
 Si tu veux participer pour dire ce que tu n'aimes pas ou ce que tu aimes ou pour améliorer, modifier ; ce sera avec plaisir. [c’est le but du projet](https://paoriiu.jiuuijh.fr/resume/)
 
@@ -66,7 +64,7 @@ If you haven't already, I invite you to read the [READ-ME](README.md) to learn a
 ### [READ-ME THE PROJECT](README.md)
 ----
 
-# [ \[ OTHERWISE CLICK HERE AND ENJOY YOUR READING \] ](Lecture.md)
+# [ \[ CLICK HERE AND HAVE NICE READ \] ](Lecture.md)
 
 Before reading, I want to remind you that you have the right not to like it,
 you even have the right to say it's crap.
@@ -78,7 +76,7 @@ And if you don't like what you read: don't force yourself to read it, stop as so
 Really and sincerely, we can't please everyone. What I write isn't for you, and that's okay.
 You'll certainly find things in other authors that speak more to your sensibilities, and that's good.
 
-In short, stop reading if you don't like it; I wouldn't take it personally.
+# So, stop reading if you don't like it; I wouldn't take it personally.
 
 If you'd like to contribute, share your thoughts on what you like or dislike, or suggest improvements or changes, you'd be happy to do so. [That's the goal of the project](https://paoriiu.jiuuijh.fr/resume/)
 
