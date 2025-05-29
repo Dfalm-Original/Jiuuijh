@@ -1,7 +1,7 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## PREMIER VOLET :  *p’Aoriiu Jiuuijh*
-<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Concept-Art_17-51-42_SDXL--novaOrangeXL_v60_UPSCALER(hires)%3D4x_foolhardy_Remacri_multiplicateur_X3_1--WIDE.webp" width="85%" height="85%">
+<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Concept-Art_16-36-53_SDXL--asyncsMIXILLUSTRIOUS_ilV40_UPSCALER(hires)=4x_foolhardy_Remacri_multiplicateur_X3_3.webp" width="85%" height="85%">
 <hr>
 
 ----
@@ -26,7 +26,7 @@ Si tu l'as pas déjà fait, je t'invite à lire le [READ-ME](README.md) pour pre
 ### [PRENDRE CONNAISSANCE DU PROJET](README.md)
 ----
 
-# [ \[ SINON CLIQUE ICI ET BONNE LECTURE À TOI \] ](Lecteur.md)
+# [ \[ SINON CLIQUE ICI ET BONNE LECTURE À TOI \] ](Lecture.md)
 
 Avant de lire je tiens à rappeler que tu as le droit de pas aimer,
 tu as même le droit de dire que c’est de la merde.
@@ -56,7 +56,7 @@ NOTE ; j’ai écrit cette dernière précision en aparté dans les années 200
 
 Merci de ton indulgence. 🙏
 
-# [ \[ SINON CLIQUE ICI ET BONNE LECTURE À TOI \] ](Lecteur.md)
+# [ \[ SINON CLIQUE ICI ET BONNE LECTURE À TOI \] ](Lecture.md)
 
 ----
 # - 🌎🌍🌏 Presentation of the "Jiuijh" project
@@ -66,7 +66,7 @@ If you haven't already, I invite you to read the [READ-ME](README.md) to learn a
 ### [READ-ME THE PROJECT](README.md)
 ----
 
-# [ \[ OTHERWISE CLICK HERE AND ENJOY YOUR READING \] ](Lecteur.md)
+# [ \[ OTHERWISE CLICK HERE AND ENJOY YOUR READING \] ](Lecture.md)
 
 Before reading, I want to remind you that you have the right not to like it,
 you even have the right to say it's crap.
@@ -96,7 +96,7 @@ NOTE: I wrote this last clarification as an aside in the 2000s, at a time when w
 
 Thank you for your indulgence. 🙏
 
-# [ \[ OTHERWISE CLICK HERE AND ENJOY YOUR READING \] ](Lecteur.md)
+# [ \[ OTHERWISE CLICK HERE AND ENJOY YOUR READING \] ](Lecture.md)
 
 ----
 ----
