@@ -406,8 +406,7 @@ natif d'une petite agglomération se trouvant près de la surface. Son
 menton duveteux marque son âge post-pubère sur sa mâchoire. Les joues
 rondes, comme le reste du corps remplis de graisse, font ressortir, avec
 de longs cils, ses yeux malicieux. La
-[[nord'I](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI)](file:///\\Freebox_Server\Dfalm\Google%20Drive\ecrire\a-pAoriiu-jiuuijh\index.php%3fmilieu=3)
-apprécie d'y plonger dedans. Ses sourcils fins ressemblent à un simple
+[[nord'I](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI)] apprécie d'y plonger dedans. Ses sourcils fins ressemblent à un simple
 trait. Il a un nez plat et large qui est plutôt petit pour un mâle. Ses
 lèvres pulpeuses [violacées](https://encycolorpedia.fr/6c0277) cachent
 ses dents blanches aiguës, et sa langue agile à la parole,
