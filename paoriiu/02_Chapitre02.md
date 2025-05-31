@@ -40,7 +40,7 @@ Rappel : les mots avec une couleur différente c’est des liens cliquables. �
 
 ---
 
-- AVANT [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
+- [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
 
 # Chapitre 2
 
@@ -70,7 +70,10 @@ d'une chaleureuse voix féminine :
 
 - Voyons C°Fet pourquoi là ? Là ! à cet endroit ? (*prononcer Seuphet*)
 
-- Je regarde la cité d'ici, elle est si belle<br>Avec ses lumières pâles qui dansent, si sensuelle<br>Le balai souple des<br>[*lymantas*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lymanta) et<br>autres engins,<br>Je n'arrive pas à comprendre : pourquoi ici ? Hein !? »
+- Je regarde la cité d'ici, elle est si belle<br>
+- Avec ses lumières pâles qui dansent, si sensuelle<br>
+- Le balai souple des [*lymantas*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lymanta) et autres engins,<br>
+- Je n'arrive pas à comprendre : pourquoi ici ? Hein !? »
 
 XeAr baisse le regard et le ton de sa voix, mélancolique de l'absurdité
 de son emportement.
@@ -489,9 +492,8 @@ la porte.
 - Il grandi ... tu verrais. »
 
 - Tu les embrasseras de ma part. »
-
-
-- SUITE [ ... sort en quelques coups ... ](04_Chapitre04.md)
+---
+- [ ... sort en quelques coups ... ](04_Chapitre04.md)
 ----
 ## [RETOUR A L INDEX](Lecture.md)
 ----

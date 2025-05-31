@@ -151,7 +151,7 @@ qu'il était en train d'écrire...
 ha oui ;
 
 « *Il était une fois sous l'eau...*
-- SUITE [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
+- [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
 
 
 
