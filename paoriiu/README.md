@@ -35,8 +35,7 @@ Et là 👇<br>
 > 💻 Il y a une version sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version sur Somee : https://somee.social/Dfalm<br>
 > 📖 Sur Wattpad : https://www.wattpad.com/user/Dfalm_<br>
-> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
-
+> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/author/1555148436/dfalm<br>
 
 Et lien des 'RS' :<br>
 - Pour me joindre sur BlueSky je n’utilise pas l’autre réseau ; trop  N*zi à mon goût<br>
@@ -117,6 +116,8 @@ And here 👇<br>
 > 💻 There's a version on MINDS: https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version on Somee: https://somee.social/Dfalm<br>
 > 📖 Version on Wattpad https://www.wattpad.com/user/Dfalm_<br>
+> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/author/1555148436/dfalm<br>
+
 
 And the 'RS' link: <br>
 - To reach me on BlueSky, I don't use the other network; too N*zi for my taste<br>
