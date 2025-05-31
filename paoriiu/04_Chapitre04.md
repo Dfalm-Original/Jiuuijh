@@ -114,8 +114,7 @@ quatre [berdaches](https://fr.wikipedia.org/wiki/Bispiritualit%C3%A9) et
 trois filles. Des jeunes, cinq sont habillés de cette mode ridicule mais
 tendance des ramasseurs de nodules et les quatre autres n'ayant guère
 plus de goût. Une particulièrement, est habillée comme les prostitués
-des camps de
-[nodulistes](https://paoriiu.jiuuijh.fr/encyclopedie/#Noduliste). Une
+des camps de [nodulistes](https://paoriiu.jiuuijh.fr/encyclopedie/#Noduliste). Une
 combinaison [topaze](https://fr.wikipedia.org/wiki/Topaze_(couleur)) aux
 reflets argentés soulignant les seins par un [cinabre
 pâle](https://encycolorpedia.fr/f8e2d1). Les manches
@@ -151,7 +150,7 @@ la fenêtre pour regarder dehors, ils ont déjà quitté le coin de la zone
 active. L'eau a un léger goût
 [cinnamique](https://fr.wikipedia.org/wiki/Ald%C3%A9hyde_cinnamique)
 assez agréable et calmement apaisant, une odeur douceâtre et intense,
-s\'épanouissant en une chaleur veloutée à son exhalation. Les jeunes au
+s'épanouissant en une chaleur veloutée à son exhalation. Les jeunes au
 fond sont toujours aussi bruyants, la personne âgée se lève pour son
 arrêt. Son couvre-chef est vraiment très classe, ça rappelle à XeAr ceux
 de son village, ils doivent être voisins tous les deux. Il n'ose lui
@@ -187,8 +186,7 @@ naturel et vivant, ce sont les habitants qui les cultivent eux-mêmes. Le
 seul bâtiment un peu haut est l'observatoire de migration. Son
 grand-père maternel, Faloudense, l'y emmenait parfois et lui racontait
 des histoires de [lipotidae](https://fr.wikipedia.org/wiki/Lipotidae),
-une vielle
-[[*coralaustatue*](https://paoriiu.jiuuijh.fr/encyclopedie/#Coralaustatue)](https://paoriiu.jiuuijh.fr/encyclopedie/#Coralaustatue)
+une vielle [[*coralaustatue*](https://paoriiu.jiuuijh.fr/encyclopedie/#Coralaustatue)]
 de sa grand-mère posée sur le bureau.
 
 Son village lui manque vraiment et ses recherches n'avancent pas, la
@@ -237,7 +235,7 @@ répartis un peu partout dans la grotte, son toujours très élégantes. Les
 bio-matériaux renforcés, sur une base d'inspiration de
 l'[agar-agar](https://fr.wikipedia.org/wiki/Agar-agar) justement, leur
 confère une résistance à la traction et à la compression surnaturelle,
-ça permet d\'atteindre des hauteurs vertigineuses tout en restant
+ça permet d'atteindre des hauteurs vertigineuses tout en restant
 minces, très minces, très très minces. C'est ce qui offre ce mélange de
 fragilité et l'illusion que ça ondoie comme des algues dont ils
 s'inspirent.
@@ -261,7 +259,7 @@ quartiers sont mal fréquentés ou même dangereux. En fait l'activité
 s'étale tout au fil de cette longue journée. Il y a tout le temps du
 monde dans les quartiers, même les banlieues résidentielles. Il n'y a
 pas d'heures de pointes comme dans les autres villes, ici à la capitale.
-Mais ce calme est en total contraste avec l\'allant de la cité pendant
+Mais ce calme est en total contraste avec l'allant de la cité pendant
 le jour, et une toute autre animation la nuit.
 
 Moins « remuante » mais plus sérieuse. Ce sont les tâches de
@@ -290,17 +288,17 @@ hauts et ça donne cette architecture ''rétrécissante '' pour donner un
 dégradé de taille, et on arrive à de simples étages en bordure de la
 place. Les [Kombloqs](https://paoriiu.jiuuijh.fr/encyclopedie/#Kombloq)
 sont agrémentés de grands coraux, aussi grand qu'eux, laissant croire
-qu'à cet endroit la nature a été plus forte que l\'urbanisme, pour
-finalement aboutir à ce parc. On trouve de tout, blocs d\'appartements
-ou d\'espaces mixtes,
+qu'à cet endroit la nature a été plus forte que l'urbanisme, pour
+finalement aboutir à ce parc. On trouve de tout, blocs d'appartements
+ou d'espaces mixtes,
 [Kombloqs](https://paoriiu.jiuuijh.fr/encyclopedie/#Kombloq)
 résidentiels, commerciaux ça forme un quartier de taille moyenne avec
 partout des coraux magnifiques de toutes couleurs. La plupart des
 [Kombloqs](https://paoriiu.jiuuijh.fr/encyclopedie/#Kombloq) sont en
 dur, mais il y a quelques
 [Tidalk'oms](https://paoriiu.jiuuijh.fr/encyclopedie/#Tidalkom)
-modulaires. Elles peuvent changer légèrement de forme ou d\'emplacement
-en fonction de l\'environnement et de la saison, c'est l'intérêt des
+modulaires. Elles peuvent changer légèrement de forme ou d'emplacement
+en fonction de l'environnement et de la saison, c'est l'intérêt des
 [Tidalk'oms](https://paoriiu.jiuuijh.fr/encyclopedie/#Tidalkom), et en
 plus celles-ci sont vraiment jolies. Le coin où a débarqué XeAr est une
 grande gare d'arrêt, un HUB pour différents transports. Il est descendu
@@ -340,11 +338,10 @@ parvenu assez prêt il lit sur le petit piédestal, « *alallat'n* » et un
 petit poème de sa composition *''paradoxes sentimentaux de la complexité
 des sens''* qu'elle avait dédiée à *Choxnœ* (*prononcer Alalyan et Chox
 noé*). La statue fait deux fois la hauteur naturelle, en corail,
-blanche, éclatante, belle, qui rayonne d\'une chaleur intense invisible,
+blanche, éclatante, belle, qui rayonne d'une chaleur intense invisible,
 ce blanc [Igniblan](https://paoriiu.jiuuijh.fr/encyclopedie/#Igniblan)
 qui est associé à la puissance, ardent mais sans flammes. Elle est comme
-toutes les
-[[Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe)](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe)
+toutes les [Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe)
 élégante, fine, élancée comme la tige d'une fleur. Elle adopte une
 posture altière qui la rend d'autant plus ravissante dans sa
 « *configuration-citoyenne* ». Sa beauté irradie encore de tout l'amour

@@ -240,7 +240,7 @@ regards amusés. Son père se lève à son tour.
 XeAr range rapidement les affaires du repas, sa belle-sœur lui fait
 signe de laisser, quelle s'en occupera.
 
-- Bon ok, je vais à [salle de bain]{.underline}. (🡨 *Faute d'un autre
+- Bon ok, je vais à [salle de bain]. (🡨 *Faute d'un autre
   mot que je chercherai*)
 
 Il s'éloigne. Figz le regarde partir, les yeux plissés. Dergfe pose une
@@ -265,7 +265,7 @@ main réconfortante sur son bras.
   embrassant doucement sa compagne, un geste tendre sur son ventre.
 
 XeAr s'est laissé glisser à l'étage d'une nage flegmatique, il entre
-dans la [salle de bain]{.underline}. Il ôte son boxer et son haut qu'il
+dans la [salle de bain]. Il ôte son boxer et son haut qu'il
 jette dans un panier, et dépose les propres dans la niche prévue. Il
 ouvre et pénètre dans la cabine. La porte se ferme automatiquement, il
 passe le sas, la deuxième porte se ferme à son tour. Nu il tapote sur le
@@ -620,7 +620,7 @@ XeAr, un léger froncement de sourcils, mais il est curieux.
 
 - Ah. Je vois le problème. Eh bien... si tu as vraiment envie de...
   \"subir\" le caractère de mon ami
-  [[Jobotahe]{.underline}](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe)
+  [[Jobotahe]](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe)
   en tant que prof... » Il marque une pause le regard est amusé. Et il
   continue « ...je ferais de mon mieux pour te filer un coup de
   pouce. » D'un ton conspirateur et ludique.

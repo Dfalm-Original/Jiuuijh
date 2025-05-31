@@ -99,9 +99,9 @@ l'aspiration générale et la répartir. Il y a moins de pression, il y a
 moins de débit. Le tout est équipées de filtres de sécurité, et balisés
 par de petites lumières clignotantes
 [Blanÿdro](https://paoriiu.jiuuijh.fr/encyclopedie/#Blanÿdro)
-réglementaire. Spécifiquement adapté à l\'environnement aquatique,
+réglementaire. Spécifiquement adapté à l'environnement aquatique,
 utilisé pour le balisage ou les signaux lumineux qui portent aussi une
-signature thermique identifiable sous l\'eau.
+signature thermique identifiable sous l'eau.
 
 Juste avant les cavités naturelles et artificielles, il a été ajouté une
 série de filtres depuis que la grotte est aussi devenue un lieu de
@@ -624,8 +624,8 @@ bien sûr il y a d'autre quartiers résidentiels répartis un peu partout,
 ici des [Lwandorias](https://paoriiu.jiuuijh.fr/encyclopedie/#Lwandoria)
 ont été bâties spécifiquement sur les collines de l'entrée de la grotte.
 Comme ce sont des habitations sculptées et cultivées à partir de récifs
-artificiels intelligents, elles s\'intègrent parfaitement à
-l\'environnement et surtout elles changent de couleur selon les saisons.
+artificiels intelligents, elles s'intègrent parfaitement à
+l'environnement et surtout elles changent de couleur selon les saisons.
 Le reste de l'[Ileomis](https://paoriiu.jiuuijh.fr/encyclopedie/#Ileomi)
 et de la communauté est en grande partie constitué de grandes
 [Baharimbas](https://paoriiu.jiuuijh.fr/encyclopedie/#Baharimba)

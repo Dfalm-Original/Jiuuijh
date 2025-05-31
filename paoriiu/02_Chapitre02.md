@@ -104,9 +104,9 @@ On dirait avec le jeu de d'illuminations de simples traits si discrets.
 L'architecture stalagmite, leur donne des aspects vivants. Les lumières
 du centre varient avec diffraction induite de la chaleur. Le [Voile de
 Pauzy'édon](https://paoriiu.jiuuijh.fr/encyclopedie/#Voile-de-Pauzyédon).
-C'est le nom populaire de toutes ces tours élancées lorsqu\'elles sont
+C'est le nom populaire de toutes ces tours élancées lorsqu'elles sont
 vues ensemble. Leurs formes fines et leurs mouvements subtils dus aux
-courants donnent l\'impression l'algues figés mais élégantes dans les
+courants donnent l'impression l'algues figés mais élégantes dans les
 profondeurs.
 
 Les [Pilia'Watas](https://paoriiu.jiuuijh.fr/encyclopedie/#Pila-Wata)
@@ -127,7 +127,7 @@ Le regard posé sur le
 [*lumphar*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lumphar) revient le
 long du plafond. Sans pensée, il suit un petit
 [*lymantas*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lymanta) de
-service qui quitte l\'agglomération, puis sort du champ de vision. Dans
+service qui quitte l'agglomération, puis sort du champ de vision. Dans
 le reflet de la vitre, le miroitement de la silhouette qu'il y a
 derrière lui croise son regard et elle l'invite à discuter.
 
@@ -429,7 +429,7 @@ descend jusqu'à la cambrure des reins. Les surplis
 Le voile de sa coiffe se déploie sur ses épaules pour former de
 magnifiques dessins stratifiant. De couleur
 [incarnat](https://encycolorpedia.fr/search?q=incarnat), les dessins
-vont jusqu\'à son avant-bras. Là ils se fondent dans un
+vont jusqu'à son avant-bras. Là ils se fondent dans un
 [parme](https://encycolorpedia.fr/search?q=parme) très clair à la fin
 des manches rompant ainsi la ligne. Ses mains, sont mi-palmées. Il a une
 bague à l'annulaire droit. Il a cinq doigts et des ongles triangulaires
