@@ -34,7 +34,9 @@ Et là 👇<br>
 > 📜 Il y a une version MarkDown sur Medium https://medium.com/@dfalm<br>
 > 💻 Il y a une version sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version sur Somee : https://somee.social/Dfalm<br>
-> 📖 Une version sur Wattpad https://www.wattpad.com/user/Dfalm_<br>
+> 📖 Sur Wattpad : https://www.wattpad.com/user/Dfalm_<br>
+> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
+
 
 Et lien des 'RS' :<br>
 - Pour me joindre sur BlueSky je n’utilise pas l’autre réseau ; trop  N*zi à mon goût<br>

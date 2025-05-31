@@ -81,7 +81,9 @@ Pour le suivi facile des modifications et des contributions via les fonctionnali
 > 📜 Il y a une version MarkDown sur Medium https://medium.com/@dfalm<br>
 > 💻 Il y a une version sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version sur Somee : https://somee.social/Dfalm<br>
-> 📖 Une version sur Wattpad https://www.wattpad.com/user/Dfalm_<br>
+> 📖 Sur Wattpad : https://www.wattpad.com/user/Dfalm_<br>
+> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
+
 
 
 L'objectif est de permettre de faire vivre et évoluer grâce aux contributions de la communauté puisque c’est un projet open source.
@@ -156,7 +158,9 @@ For easy tracking of changes and contributions via the platform's features (pull
 > 📜 There's a MarkDown version on Medium https://medium.com/@dfalm<br>
 > 💻 There's a version on MINDS: https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version on Somee: https://somee.social/Dfalm<br>
-> 📖 Version on Wattpad https://www.wattpad.com/user/Dfalm_<br>
+> 📖 Sur Wattpad : https://www.wattpad.com/user/Dfalm_<br>
+> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
+
 
 
 
