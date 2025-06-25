@@ -1,0 +1,579 @@
+### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
+
+## PREMIER VOLET :  *p’Aoriiu Jiuuijh*
+<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Concept-Art_17-51-42_SDXL--novaOrangeXL_v60_UPSCALER(hires)%3D4x_foolhardy_Remacri_multiplicateur_X3_1--WIDE.webp" width="85%" height="85%">
+
+----
+----
+Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
+
+> 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
+> 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
+> 📜 Sur Medium https://medium.com/@dfalm<br>
+> 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
+> 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
+> 📖 Sur Wattpad : https://www.wattpad.com/user/Dfalm_<br>
+> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/author/1555148436/dfalm
+
+Et tu peux lire ici  ⏬
+
+----
+Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
+
+## ↩️ [RETOUR A L INDEX](Lecture.md)
+- [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
+- [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
+- [ ... sort en quelques coups ... ](04_Chapitre04.md)
+- [ ... pénètre le premier dans ... ](06_Chapitre06.md)
+- [ ... se réveille avec  ... ](08_Chapitre08.md)
+- [ ... *Il sort de la ... ](10_Chapitre10.md)
+- [ ... s’agrippe quand  ... ](12_Chapitre12.md)
+- [ ... quitte ses quartiers ... ](14_Chapitre14.md)
+- [ ... chez lui, il a dans la main ... ](16_Chapitre16.md)
+- [ ... quitte le labo après ... ](18_Chapitre18.md)
+- [ ... se fait éjecter.](20_Chapitre20.md)
+- [ Elle est apparue.](22_Chapitre22.md)
+- [ ... apparait, il se tient debout devant ... ](24_Chapitre24.md)
+- [ ... C’est ainsi que ce fini sur ce paysage cette aventure. » ](26_FIN.md)
+
+## 🚧🚧 EN PREPARATION ; "LIRE EN UNE SEULE FOIS" 🚧🚧
+
+---
+
+- [ ... se réveille avec  ... ](08_Chapitre08.md)
+
+# Chapitre 10
+
+XeAR sort de la bouche du
+[*sousharroyeur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Sousharroyeur)
+la même ligne que pour aller au parc ( NOTE vérifier que ça soit bon !!
+). La lumière claire opaline pénètre ses yeux, il est à une des entrées
+du campus, ici il y a beaucoup d'espace. Ici c'est essentiellement des
+[coralliumas](https://paoriiu.jiuuijh.fr/encyclopedie/#Coralliuma), la
+plupart du temps ce sont des maisons d'habitations, là ça fait office de
+chambres pour les étudiants, elles sont littéralement cultivées comme
+une forme de corail géant et intelligent, parce qu'elles offrent une
+protection naturelle et des parois bioluminescentes. En effet les campus
+sont des rares endroits de la cité où il y a des animaux et aussi des
+plantes [endémiques](https://fr.wikipedia.org/wiki/End%C3%A9misme). Des
+poissons en banc, des crustacés, des mollusques, une grande variété
+d'algues. L'éclairage bioluminescent donne aux écailles des poissons des
+reflets joueurs et argentés.
+
+Au passage il salue la gardienne. Une très belle
+[Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) fine
+élancée, plus grande que son ami, d'une tête. Elle ne porte pas les
+bottes qu'ont habituellement les
+[Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe). Elle a des
+chausses basses qui lui permettent d'avoir beaucoup d'appuis au sol, en
+point d'ancrage, quand elle a des objets très lourds à déplacer. Elle
+refait très souvent le jardin du camp, déplaçant rochers, bancs etc.
+Mais toujours en prenant garde aux animaux et plantes. Bref tout un
+petit écosystème sur lequel elle veille avec amour. Et elle arrive aussi
+à concilier la beauté du regard. C'est vraiment une grande jardinière,
+il n'a pas souvent pris le temps de bavarder avec elle, mais les rares
+fois furent un réel plaisir.
+
+XeAr continue dans les allées bordées d'algues aux couleurs
+[sarcelle](https://encycolorpedia.fr/search?q=Sarcelle). En grande
+partie l'intérieur du campus de composé
+d'[amani-Habs](https://paoriiu.jiuuijh.fr/encyclopedie/#Amani-Hab) pour
+les centres communautaires administratifs, infirmeries et même une
+petite clinique. Des bâtiments conçus pour la vie sociale et les
+services. De l'autre côté, les salles de cours, dont on ne voit que le
+haut des dômes de
+[Shel\'kons](https://paoriiu.jiuuijh.fr/encyclopedie/#Shel-kon), sont
+couverte d'algues courtes afin de donner une harmonie de colline tout en
+conservant un espace découvert. Avec l'ambiance claire de cette journée
+les dômes des salles sont impressionnants et les algues paraissent être
+du velours. Chacun des
+[Shel\'kons](https://paoriiu.jiuuijh.fr/encyclopedie/#Shel-kon) abrite
+deux cours. Ils sont divisés à l'intérieur en deux parties, coupés par
+la verticale. Ils font dans les quinze mètres. Du sol n'émerge que la
+moitié, le reste servant aux fondations et locaux techniques. Au creux
+des dômes nichent variété d'animaux et coraux. XeAr nage dans les allées
+pour rejoindre le cours de son ami. Ils se sont donnés rendez-vous au
+pied du bâtiment de mathématiques, d\'une élégance épurée, sa forme fine
+et ramifiée rappelle la croissance délicate de certaines algues. Les
+[Caulerpa
+Gracilis](https://paoriiu.jiuuijh.fr/encyclopedie/#Caulerpa-Gracilis)
+sont conçus pour minimiser la résistance aux courants grâce à leur forme
+et à des matériaux flexibles quasi-indestructibles. Il est facile à
+reconnaitre avec son beau [bleu
+klein](https://fr.wikipedia.org/wiki/International_Klein_Blue). Il y a
+plusieurs autres [Caulerpa
+Gracilis](https://paoriiu.jiuuijh.fr/encyclopedie/#Caulerpa-Gracilis)
+éparses au travers du campus, dans d'autres champs de couleurs.
+
+Il arrive, AgI est déjà là, elle l'attend à l'entrée de l'immeuble.
+Habillée comme une étudiante
+[*lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lec). Uniforme sombre,
+plus clair que celui des « titulaires ». Un liseré
+[flavescent](https://www.cnrtl.fr/definition/flavescent) appuie sa
+silhouette et la couleur des étudiants de premières années. Une odeur
+caractéristique, à la fois légère et riche d'un parfum floral et anisé,
+légèrement citronné. L'insigne au-dessus du sein gauche, à la clavicule,
+rappelle son statut. AgI a des cuissardes de cuir, qui finissent brodées
+de dentelles lactées. Un ceinturon discret, jaune, et un sac à flanc,
+couleur [jais](https://fr.wikipedia.org/wiki/Jais). Sa coiffe est...
+réglementaire.
+
+Il salue rapidement AgI, un peu intimidée de le revoir, heureuse avec
+toujours ce sentiment bêta de l'erreur qu'elle a commise à la grotte. Il
+lui fait signe en direction d'un
+[Shel\'kon](https://paoriiu.jiuuijh.fr/encyclopedie/#Shel-kon) dont le
+dôme [amarante](https://encycolorpedia.fr/search?q=amarante) est à peine
+recouvert d'algues, ils se dirigent vers l'entrée. Le hall légèrement
+oblong est gravé de milliers de dictons du travers des âges. Un nouveau
+court va commencer. Avec un sourire XeAr la met à l'aise et l'invite à
+entrer dans le bâtiment pour rejoindre son ami. Ils entrent par le *sas*
+des enseignants, quelques-uns les regardent à leur passage, intrigués.
+XeAr en profite pour saluer quelques amis. AgI se fait toute petite,
+gênée, discrète. Elle essaye de faire en sorte qu'elle n'existe pas,
+c'est pas elle, elle n'est pas là. xxsioo passe rapidement, d'un
+hululement XeAr l'appelle, il se retourne sans hésiter, ses grands bras
+ouverts et accueillants pour l'embrasser. Ils se saluent comme s'ils ne
+s'étaient pas vus depuis longtemps. La veille seulement. XeAr glisse un
+clin d'œil à son amie
+[Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe), car
+malgré tout il est content d'avoir revue la charmante AgI. Il lui
+demande pour ses cours si elle peut les prendre alors qu'ils ont
+commencé depuis un petit moment. En répondant à son ami il s'adresse à
+elle, et lui dit que ça ne gêne pas, que son premier examen il en sera
+tenu compte et que si elle a quelqu'un pour l'aider elle pourra
+rapidement rattraper ce petit retard. Elle acquiesce studieuse, xxsioo
+est déçu de ne pas percevoir plus de compréhension au message subliminal
+qu'il vient de faire passer. Il chasse d'un sourire cette pensée pour en
+suivre une autre, et les invites à aller s'asseoir pour le cours. XeAr
+proteste pour la forme. Mais se fait mener par son ami vers la salle
+proprement dite du cours. AgI suit d'un coup de rein. Ils se retrouvent
+tous trois dans la salle, xxsiio poussant énergiquement à l'épaule son
+ami, et allant ensuite à sa place de maître de conférences. AgI arrive à
+ce moment, pénétrant dans une salle de court de magie. Elle entre, le
+regard attentif, les yeux grands ouvert, comme si elle avait un air
+ébahi de quelqu'un qui n'en avait jamais vu, ces salles sont plus
+grandes que celles de ses cours officiels.
+
+Quelques regards se tournent vers elle, certains marmonnent, elle essaie
+de se faire encore plus petite, ses mains s'agitent dans de petits
+gestes fébriles. Dans ses cours à elle, les cours de
+[*lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lec) ; la salle est
+« plate », en 2 dimensions et ils sont devant des consoles C°fet ou leur
+ordinateur. Là, la salle parait légèrement déformée pour une sphère,
+elle ressemble presque à un grand œuf. Coupé en deux. Par la verticale.
+Ça doit faire presque 80 mètres... au moins trois fois plus grand à
+l'intérieur qu'à l'extérieur.
+
+AgI regarde xxsioo se diriger vers le mur immense, d'un bleu
+[safre](https://encycolorpedia.fr/0131b4) tendre sur les bords et se
+dégradant dans un vert [limule](https://fr.wikipedia.org/wiki/Limulidae)
+au centre. On dirait qu'il y a des fines stries qui parcourent ce
+dégradé, allant vers le milieu. Au centre, mais vraiment au centre, une
+niche où le maître de conférences peut poser ses documents entre autres.
+Il y a aussi un cercle, assez grand, une dizaine de mètre de rayon tracé
+légèrement jaune, une surface de « courtoisie » que l'enseignant ne
+franchit pas, étant ainsi à portée de vue et de voix de tous. Il peut
+ainsi aller et venir pendant ses cours et discours. AgI lève la tête
+pour voir XeAr aller prendre une place à la gauche de son ami, une place
+plutôt en hauteur. Elle le rejoint et est doublée par d'autres élèves
+qui montent prendre place au plafond, tout lui jetant un regard plein de
+curiosité. Elle détourne le regard, il y a des élèves partout, les
+parois son constellées de sièges, même le plafond en est sertit. Elle
+l'avait vu, mais elle n'y avait pas fait attention, elle regarde
+partout. D'étrange siège à l'envers où sont installées essentiellement
+des [Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe). Comme
+si, il y avait une ségrégation. Alors qu'il y a quand même des
+[Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) dans
+l'assistance équitablement réparties et ceux malgré qu'il reste des
+places libres éparses. xxsioo est déjà à sa place, les deux étudiants
+improvisés prennent place.
+
+Quand AgI s'installe près de XeAr elle l'interroge du regard sur les
+places au plafond, il lui fait signe « *après* ». xxsioo commence son
+cour magistral. Il repend un poncif de base, mais répéter c'est aussi la
+base de l'enseignement. Ou bien il fait ce petit rappel à l'intention de
+sa nouvelle élève. Soit ! Il répète donc ; ce qu'est la
+[Mirabilité](https://fr.wikipedia.org/wiki/Mirabilis) et que les
+aptitudes des
+[mlrao'eao](https://paoriiu.jiuuijh.fr/encyclopedie/#Mlraoeao) sont
+inéquitablement répartie. Les
+[p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) étant les
+moins enclin à la magie. Les
+[Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) y étant un
+peu plus disposés et que les
+[*nord'Iës*](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI) maîtrisent
+parfaitement ces techniques. xxsioo insiste bien sur la notion
+d'aptitudes et non pas de talent ni de travail. Il parlera plus tard de
+l'histoire de la magie et de la différence entre
+[théurgie](https://www.cnrtl.fr/definition/théurgie) et
+[goétie](https://www.cnrtl.fr/definition/goétie).
+
+Dans l'immédiat il revient à son sujet en faisant une arabesque entre
+les aptitudes de camouflages d'une pieuvre et sa peau pigmentée et les
+aptitudes d'un crustacé. Mettant en exergue deux animaux du règne
+animal, le crustacé peut trouver d'autres moyen de camouflages. Talent
+et travail. Mais jamais il ne pourra faire la même chose que la pieuvre
+même si au final les deux animaux sont camouflés, et efficacement. Il
+tend à en faire la démonstration. Il se place au centre de la salle
+après l'avoir parcouru dans sa démonstration, afin d'être vu de tous. Et
+il effectue un
+[tentactif](https://paoriiu.jiuuijh.fr/encyclopedie/#Tentactif), il
+commence à tordre la réalité et à la faire pencher sur sa droite, puis
+il la fait pivoter pour la rassembler près de lui. Elle s'amasse
+doucement, les étudiants ont le vertige. Puis il ouvre large ses bras,
+dans un mouvement de rotation des poignets et signe avec ses doigts une
+magnifique
+[aquaglyphe](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquaglyphe) qui
+reste en suspens quelques seconde. La salle se déploie. Lentement,
+délicatement comme le tentacule d'une pieuvre à l'affût... xxsioo tends
+encore plus ses bras qui deviennent immense, alors que déjà grand. La
+salle bondie et ondule comme le dos d'une raie. Les étudiants sont
+sonnés, certains essayent de garder leur esprit et reprennent les
+incantations des débuts d'année afin de saisir la réalité. La main de
+xxsioo se ferme et la salle reprend sa forme. Tous les étudiants n'ont
+pas compris la démonstration. xxsioo enchaîne pour placer quelques
+remontrances à ceux qui ne suivent pas les cours et ne révisent pas leur
+équations des cycles précédents ni leur [identités
+remaquables](https://fr.wikipedia.org/wiki/Identit%C3%A9_remarquable).
+AgI est chamboulée, XeAr amusé. xxsioo poursuit maintenant qu'il est
+convaincu que certains vont y réfléchir à deux fois sur les premiers
+cours et d'avoir si vites oubliés leurs [expressions
+régulières](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re#Impl%C3%A9mentations_et_complexit%C3%A9_algorithmique).
+Et il reprend sur les aptitudes et les talents. En effet ceci est un
+exercice très simple à faire, pour la
+[Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) qu'il est.
+Cela s'avère plus technique pour un
+[p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu), mais pas
+infaisable. Il y arrivera autrement. Pour un
+[nord'I](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI) il s'agit d'un
+exercice rudimentaire, aussi rudimentaire que les formules
+[algorithmiques](https://fr.wikipedia.org/wiki/Algorithmique) que tous
+n'ont pas apprises. Deuxième couche. xxsioo se marre intérieurement.
+D'ailleurs... XeAr sent un frisson. xxsioo de sa voix profonde dit qu'il
+y a ici un ami
+[p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) qui lui
+fait la joie d'être parmi eux ; il leur fera volontiers une
+démonstration. Et « ça » se prétend un ami. xxsioo fait un mouvement
+pour que ses étudiants l'encouragent. Les deux amis se regardent, XeAr
+fait un signe à AgI et quitte son siège pour rejoindre le centre de la
+salle. Les deux amis sont au centre, échanges de sourires, xxsioo fait
+un rapide éloge des talents de son ami, et le présente.
+
+Il est un des plus talentueux
+[p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) de ces
+dernières générations. Les étudiants ont entendu son nom, entouré d'une
+aura de mystères et de légendes urbaines. Il serait très très fort mais
+il aurait arrêté net et se serait retiré. xxsioo termine son éloge en
+laissant la parole à son ami, après avoir évoqué rapidement les légendes
+à son sujet. Deuxième coup vache, débrouille-toi avec lance-t-il d'un
+sourire en lui cédant la parole. XeAr ne dit rien, il fait juste un
+signe, certains étudiants ont décidés de ne pas se faire avoir une
+deuxième fois. XeAr commence par faire du bout de ses doigts une petite
+danse, directement une
+[hydroglyphe](https://paoriiu.jiuuijh.fr/encyclopedie/#Hydroglyphe), de
+sa gorge il fait ronronner l'eau. Le mouvement de ses doigts remonte à
+ses bras et arrive à ses épaules, de sa gorge il a commencé un autre
+chant plus aigu et il a accentué le ronronnement. Son chant cantique à
+deux octaves commence à entrer en résonance. Il diminue régulièrement de
+demi ton son chant des basses et fait augmenter de tierce à chaque
+mouvement amplifié des bras vers ses épaules le chant dans l'aiguë.
+Quand il a deux octaves d'écart il ajoute un troisième chant au milieu
+en arythmie qui fait le chant principal. La salle commence à vibrer le
+chant cantique comment à se déployer. Les étudiants qui avaient entonné
+leurs [expressions
+régulières](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re#Impl%C3%A9mentations_et_complexit%C3%A9_algorithmique)
+afin de croiser la réalité se sont tous tus. XeAr rapproche ses mains,
+la salle se contracte et bat comme un cœur au rythme de ce nouveau
+champ\*. (\* bonne orthographe) Ses bras s'entrecroisent dans une
+étrange danse, il fait augmenter le chant des basses et écarte
+brusquement les bras comme pour embrasser quelqu'un d'imaginaire. La
+salle s'est retournée. Elle est complètement retroussée, le chant
+cantique vient de se métamorphoser en un champ de continuum. La salle
+vient de s'épanouir comme une
+[anémone](https://fr.wikipedia.org/wiki/An%C3%A9mone_de_mer). En plus il
+y a ajouté des couleurs chamarrées. XeAr a mis la réalité ainsi,
+complètement soulevée, et il continue la danse des bras et ... il
+s'arrête. Net ! La réalité reprend sa place et lui aussi. xxsioo sourit
+et applaudit la démonstration, les étudiants sont eux encore à l'envers.
+La [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) s'est
+faite surprendre au début du retroussement, le sourire qu'il lance
+signifie ''salop, tu m'as eu'' et XeAr lui répond d'un autre sourire ;
+''un partout''.
+
+Ils sont les deux seuls dans cette private joke. Les étudiants n'ont pas
+tout suivit. XeAr aide AgI à retrouver sa réalité. L'assistance remise,
+xxsioo continue son court et remercie son ami. Il explique la différence
+de méthode mais la similarité du résultat. Chez les
+[p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) il faudra
+beaucoup de travail pour en arriver là. Mais ça n'est pas infaisable. La
+preuve ! Il a réalisé un magnifique
+[Anémal](https://paoriiu.jiuuijh.fr/encyclopedie/#Anémal), et xxsioo
+rassure ses étudiants en expliquant que son ami peut faire beaucoup
+mieux, rivaliser avec les
+[Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) même. Mais
+assez d'éloge, c'est son ami et il existe d'autres sorciers tout aussi
+doués et qui exercent, donnent des cours même, et de qualité. On
+reparlera demain du sort de son ami, quand on y regarde de plus près
+c'est assez élémentaire, un enchainement d'algorithme d'[identités
+remaquables](https://fr.wikipedia.org/wiki/Identit%C3%A9_remarquable)
+entrelacées, simple, facile et poétique. Vous devriez y arriver d'ici la
+dernière session d'examens lance xxsioo plein d'encouragements. Le cours
+continue quelques bavardages, XeAr regardant AgI boire avec assiduité le
+cours, tout en observant la salle. Il est heureux de son regard.
+Finalement il a bien fait de l'accompagner. Ce sourire enchanté valait
+bien le sacrifice de sa démonstration. Il n'aime vraiment pas en faire
+étalage, ce côté ''il est super doué'' le gêne toujours autant, il n'est
+pas vantard.
+
+Après le cours xxsioo rejoint son ami, dans un sourire d'excuse, ils
+discutent un peu tous les trois, de tout, de rien, de l'intégration
+d'AgI au cours, de l'heure du repas qui approche. XeAr propose d'aller
+manger ses chez parents, s'ils y sont, ça n'est pas trop loin. Ça leur
+fera plaisir de les voir et de revoir xxsioo. AgI un peu gênée se fait
+petite, xxsioo d'un grand mouvement de bras lui dit qu'elle doit venir,
+XeAr approuve comment cela aurait-il pu être autrement **‽** (**‽**
+[point
+exclarrogatif](https://fr.wikipedia.org/wiki/Point_exclarrogatif)) Elle
+était du repas, c'est évident ! Elle bredouille, XeAr coupe vexé et
+plein de conviction, elle se laisse convaincre. Tous trois partent. XeAr
+contacte ses parents, sa mère répond, ils sont présents tous les deux,
+il lui dit qu'il vient déjeuner et entend au loin son père dire un «
+super ». Sa mère lui demande dans combien de temps il sera là, il lui
+répond qu'« ils » arriveront d'ici une demi-heure. ''Ils'' ? demande sa
+mère. Une amie et une surprise. Son père toujours au loin, « qui ?» et
+sa mère puisque c'est une surprise voyons, « ah oui ». Ils se quittent
+sur un « à tout de suite ». xxsioo ouvre la marche, ils vont y à la
+nage. La journée est belle, illuminée d'une couleur
+[clématite](https://fr.wikipedia.org/wiki/Cl%C3%A9matite), ça serait
+bête de ne pas en profiter. Tous les trois vont et discutent, des études
+de chacun. XeAr rappelle à son ami qu'ils doivent voir ensemble
+certaines choses, faisant allusion à ses recherches et glissant
+discrètement dans la conversation qu'encore ce matin...
+
+AgI a été ravie d'assister à un cours de
+[thaumaturgie](https://fr.wikipedia.org/wiki/Thaumaturgie), elle
+regrette que cela ne soit pas au programme. Ils discutent comme cela un
+peu de la spécialité de xxsioo pour laquelle il est intarissable,
+expliquant que beaucoup de
+[p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) ont de
+vrais talent et ... XeAr le coupe net. xxsioo n'insiste pas sur ce
+terrain. AgI est fascinée par la démonstration de XeAr, mais sentant que
+ça le met mal à l'aise elle glisse sur la démonstration du professeur.
+Pour avoir plus d'information et d'un regard complice avec XeAr elle
+demande pourquoi les salles sont rondes. xxsioo étonné par cette
+question venant d'une jeune
+[p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) qui veut se
+mettre à la sorcellerie. Il lui explique. C'est tout simplement à cause
+de la réalité. Ici sous l'eau nous subissons les lois de l'attraction de
+la planète il n'en demeure pas moins qu'il n'y a pas 'réellement' de
+haut et de bas. Et c'est la première attaque, déstabiliser l'adversaire
+afin qu'il ne sache pas où est son haut et son bas ni sa droite de sa
+gauche. Ainsi les cours mettent déjà dans une ambiance propice. AgI
+enchaîne sur la présence d'élèves au plafond. Essentiellement des
+[Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe). Uniquement
+lui confirme-t-elle xxsioo. En effet elles n'ont pas de système
+cardio-vasculaire et elles sont par ailleurs plus spontanées à la magie.
+C'est devenu une coutume, comme le cercle de « courtoisie » c'est écrit
+nulle part. Et aucun
+[p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) n'y va...
+en principe\... XeAr regarde devant lui **⸮** (**⸮** [point
+d'ironie](https://fr.wikipedia.org/wiki/Point_d%27ironie))
+
+AgI demande si parfois des
+[*nord'Iës*](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI) viennent ?
+fetyW est une grande conférencière et elle donne des cours
+régulièrement. xxsioo profite de ça pour lui demander pourquoi une
+[*lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lec) s'intéresse à la
+sorcellerie. C'est inutile pour ces cours et elle risque d'avoir besoin
+de beaucoup de temps. En effet le cursus
+[*lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lec) ce n'est pas de
+tout repos. C'est même bien plus difficile que mage ou simple
+incantateur. Mais elle n'a pas trop le temps de répondre, ils arrivent
+en vue de la maison des parents de XeAr. Il a fait un signe à son ami.
+Ils accélèrent jusqu'à la porte et il laisse la
+[Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) se faire
+annoncer. C'est son père qui ouvre dans le contre-jour de l'entrée, il
+met une main à ses yeux, la couleur
+[Eden](https://encycolorpedia.fr/search?q=blanc+eden) de cette
+magnifique journée l'a un instant aveuglé. Il saute littéralement de
+joie et au cou de xxsioo. En annonçant cela à sa femme de sa gorge de
+ténor au travers des couloirs. Il les invite à rentrer. Ils vont au
+petit salon où les rejoint sa mère.
+
+XeAr d'un regard simple présente AgI et ses parents.
+
+- *H'ulinl* ma mère, *Çij,Sivns*, mon père. (*Prononcer Uulinne et Sir
+  sivens -- la virgule faire partie du prénom*)
+
+- Nous sommes heureux de vous connaître. AgI cela vient de frek ga coela
+  kera, les grands
+
+champs des
+[cœlacanthes ](https://fr.wikipedia.org/wiki/Latimeria_chalumnae)?
+(Prononcer frè ga céla kouéra, cœlacanthe se prononce célacante )
+
+- Ouiii répond-elle. Mais ? » Comment a-t-elle su ?
+
+- Et toi xxsioo comment vas-tu depuis le temps. Tu nous manquais » Dit
+  Çij,Sivns.
+
+- C'est déjà la nouvelle lune **⸮** » Ajoute sa mère un regard complice
+  a XeAr. (**⸮** [point
+  d'ironie](https://fr.wikipedia.org/wiki/Point_d%27ironie))
+
+H'ulinl invite tout ce petit monde à venir dans
+l'[oecus](https://fr.wikipedia.org/wiki/Oecus) où sont disposés les
+fauteuils de coraux. Ils s'installent, le père de XeAr va d'un mouvement
+de hanche chercher de quoi manger. XeAr propose un siège a AgI, xxssioo
+s'installe sur un corail bleu, et lui-même dans une éponge jaune clair.
+Ils sont ainsi tous les cinq à moitié affalés à discuter. Comment AgI,
+imprudente a rencontrée XeAr. xxssioo donnant de ses nouvelles aux
+parents de XeAr. Ils ne s'étaient pas revus depuis pas mal de temps. Ils
+prennent mutuellement des nouvelles des uns et des autres. Vient l'heure
+du repas et tous se restaurent. Le repas se passe en toute convivialité
+en discutant rigolant, d'anecdotes. Ils restent dans le salon
+d'hospitalité.
+
+D'un geste Çij,Sivns a rehaussé la table. Chacun a arrangé son siège
+afin d'être plus confortablement assis. H'ulinl a apporté le début du
+repas. XeAr nourris l'éponge
+[celata](https://fr.wikipedia.org/wiki/Cliona_celata) de son siège avec
+quelques miettes. Contente elle chante à sa façon. AgI qui a vu faire
+XeAr veut faire pareil quand elle s'aperçoit que son siège est un corail
+recouvert en cuir de
+[kempi](https://fr.wikipedia.org/wiki/Tortue_de_Kemp). XeAr prend dans
+un plat un petit mollusque qu'il déguste. Au regard d'AgI elle n'a pas
+l'air de connaître. Il passe le plat à son ami xxssioo afin de faire
+circuler. AgI picore et remet le plat devant elle. La discussion ainsi
+que le repas vont bon train. ( NOTE : il me faudra un peu plus élaborer)
+Et l'heure de rentrer approche. xxsioo remercie les parents pour cette
+entrevue, et eux de dire qu'ils sont heureux de l'avoir revu, ainsi
+pendant quelques minutes dans une joute de remerciements. Tous se
+dirigent vers le sas de sortie et là embrassades et aurevoirs. D'un clin
+d'œil XeAr met fin à cela avec ses parents, ils se quittent vraiment. Le
+sas se ferme, mais on les entendant encore un peu tous les deux discuter
+sur la soirée et la joie de les voir. XeAr va rentrer chez lui il a pas
+mal de rangement à faire ces temps-ci il a plus travaillé qu'autre chose
+et son garde-manger fait de l'écho. xxsioo doit y aller, il laisse son
+ami, mais il se fait tard et il doit se dépêcher de rentrer, il a encore
+un cour à donner. Courtoisie et délicatesse, les deux amis s'embrassent.
+AgI salue la
+[Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) et se
+tourne vers XeAr pour lui demander de la raccompagner un bout de chemin.
+xxsioo d'un mouvement de hanche s'en va puissamment, il soulève un peu
+de vase au passage. XeAr accepte, de toute façon ils vont aller dans la
+même direction pendant un petit moment. Elle lui propose de nager un
+peu. Il vérifie l'heure. Allez jusqu'au *[sousharroyeur](https://paoriiu.jiuuijh.fr/encyclopedie/#Sousharroyeur)* !
+Ensuite il faudra vraiment qu'il y aille. Tous deux partent en nageant.
+A un des grands hublots, de la maison des parents de XeAr, une
+silhouette passe dans une douce lumière
+[béryl](https://fr.wikipedia.org/wiki/B%C3%A9ryl) et claire ! L'eau a
+une senteur chaude, sucrée, et profondément boisée, avec une pointe
+d'effluves épicés et gourmandes, invitant à la l'apaisement et à la
+sérénité.
+
+Ils empruntent tous deux les rues aux bâtiments bas. Elle lui demande
+pourquoi les immeubles sont plus bas ici en effet elle n'était jamais
+venue en bordure de la bouche. Il lui explique que pour différente
+raison il y a ici des maisons, sur les lèvres de la bouche les édifices
+sont aussi plus bas. Et un peu au centre de la
+[pangomaji](https://paoriiu.jiuuijh.fr/encyclopedie/#Pangomaji) aussi,
+là où il y a les grands parcs.
+
+C'est pour laisser entrer des
+[*Balainnes*](https://paoriiu.jiuuijh.fr/encyclopedie/#Balainne)
+spéciales. En effet il en existe des bien plus grandes. Les très rares
+[mYsticètes](http://vbeaud.free.fr/Sciences/Biologie/Paleontologie/#baleine),
+elles parcourent les eaux, et elles passent parfois dans la capitale. Ce
+n'est pas une légende lui demande-t-elle ? Non, son grand-père les a vu
+lors de migrations. Et elles seraient venus toutes à la cité il y a
+assez longtemps. Mais ça c'est ce que lui avait raconté son propre grand
+père. XeAr ne se souvient pas si cet arrière-arrière grand-père l'avait
+vécu lui-même où si c'était une histoire racontée. En tout cas son grand
+père a des
+[*coralaustatues*](https://paoriiu.jiuuijh.fr/encyclopedie/#Coralaustatue)
+des
+[mYsticètes](http://vbeaud.free.fr/Sciences/Biologie/Paleontologie/#baleine).
+Toute joyeuse elle lui dit qu'elle aimerait en voir. Mais elles doivent
+être immense si la bouche est faite pour elles ! remarque-t-elle
+soudainement. Ça n'est pas la seule raison pour la hauteur des
+bâtiments. Les habitations ne se trouvent en grande partie sur les
+bords, au cas où il y aurait un accident. Sur le centre de la bouche il
+n'y a que des bâtiments de stockage et les horaires de travail sont
+synchronisés avec les heures où il y a le moins de circulation. La
+taille c'est aussi pour permettre une bonne circulation de l'eau. AgI a
+vu où elle finissait, rappelant ainsi la grotte des tourbillons, il faut
+bien qu'elle vienne de quelque part toute cette eau. Ce « quelque
+part », c'est là ; l'entrée, lui dit-il en se retournant vers la bouche
+de la cité. Ils sont vraiment tout au bord et ils sentent l'eau
+légèrement parfumée ainsi que le courant. AgI frissonne, XeAr sort de
+son sac à flanc une *surpeau*
+[incarnat](https://www.cnrtl.fr/definition/incarnat) claire qu'il lui
+tend. L'eau ici est un peu plus fraîche.
+
+Un banc de petit poisson passe par là. AgI fini de mettre la *surpeau*,
+elle règle la température et d'un regard remercie XeAr. Ils regardent
+tout les deux l'entrée ; à peine si c'est un point quand on est à
+l'autre bout de la cité, mais de là... c'est impressionnant ! Ils sont à
+moins d'un kilomètre. Tous deux le cou tendu vers le haut, leurs yeux
+parcourent le plafond. Quelques
+*[lumphars](https://paoriiu.jiuuijh.fr/encyclopedie/#Lumphar)* pendent,
+la couleur déclinante qui simule le jour leur donne une tendre couleur
+[ivoire](https://encycolorpedia.fr/search?q=ivoire). XeAr invite AgI à
+continuer. Ils se tournent pour aller dans la direction de la cité,
+profonde, longue. De l'entrée avec cette vue dégagée les immeubles
+s'élancent, comme à l'orée d'un champ d'algue. AgI paraît impressionnée.
+On voit à peine le
+[*lumphar*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lumphar) principal
+qui tombe, malgré la lumière. Les bâtiments sont tous différents,
+ressemblants à une algue, un corail, un coquillage, mais toujours
+immenses. Retraçant ainsi l'histoire de leur capitale, par
+l'architecture. XeAr et AgI nagent sous la lumière écrue de la
+mi-journée. (...) Vient le moment de se séparer, chacun allant de son
+côté. AgI à l'air embarrassée, il essaye de la mettre à l'aise, mais...
+Elle veut lui demander quelque chose mais ni arrive visiblement pas, il
+ne sait pas trop comment s'y prendre.
+
+Il conclut en disant qu'il a passé une agréable soirée et que le repas
+était très bon. AgI voit là une issue et approuve en disant que son père
+cuisine très bien. Elle aussi a bien mangé mais que ce n'est pas ainsi
+qu'elle voyait son invitation. XeAr hausse ses fins sourcils. Elle lui
+avait demandé un rendez-vous à manger et ça ne correspond pas à son
+« idée », elle aurait aimé l'emmener manger quelque part, lui.
+
+XeAr se sent un peu piégé là, mais il a essayé de l'aider dans ce
+qu'elle voulait lui dire, il assume. AgI continue, lancée, en lui
+demandant ce qu'il fait en fin de soirée. Audace. Il admire son courage,
+car ça n'a pas l'air facile pour elle, il y réfléchit une demie seconde,
+en effet il n'a trop rien prévu ce soir. En tout cas pas quelque chose
+d'important. Et cette invitation à l'air importante pour elle. D'un
+sourire, avec ses grands yeux pliés il lui répond qu'il serait ravi de
+finir la soirée avec elle. Elle se détend, visiblement heureuse qu'il
+lui facilite la tâche. L'eau a un goût sucré et floral, avec une pointe
+anisée.
+
+AgI lui demande de rentrer chez elle, se préparer et faire quelques
+bricoles à la maison, sa journée n'est pas finie, et elle a toujours ses
+cours du matin dans son sac à flanc. XeAr aussi n'a pas fini sa journée
+et il aimerait terminer deux ou trois trucs. Tous deux d'accord, elle
+soulagée, ils se donnent rendez-vous. Elle lui propose un quartier
+plutôt chic du centre. Un endroit qu'il ne connaît que de nom, c'est au
+cœur de la cité parmi les immenses
+[Pilia'Watas](https://paoriiu.jiuuijh.fr/encyclopedie/#Pila-Wata).
+L'heure est fixée, ils s'embrassent, dans les bras et partent chacun de
+leur côté, enfin. AgI va rejoindre la rame qui la mène chez elle, calme.
+
+NOTE !! il faudrait peut-être reprendre des parties pour leur donner une
+forme de dialogue !
+ 
+- [ ... s’agrippe quand  ... ](12_Chapitre12.md)
+
+----
+## [RETOUR A L INDEX](Lecture.md)
+----
+----
+
+### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
+
+<p><img alt="Github" src="http://Dfalm.fr/ComfyUI/Git-Logo-Dfalm.png" width="48"> github : <a href="https://github.com/Dfalm-Original/jiuuijh" target="_blank">https://github.com/Dfalm-Original/jiuuijh</a></p>
+<p><img alt="Youtube" src="http://Dfalm.fr/ComfyUI/youtube+logoToon.png" width="48"> Youtube : <a href="https://www.youtube.com/@Dfalm" target="_blank">https://www.youtube.com/@Dfalm</a></p>
