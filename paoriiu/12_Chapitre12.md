@@ -4,7 +4,6 @@
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Concept-Art_17-51-42_SDXL--novaOrangeXL_v60_UPSCALER(hires)%3D4x_foolhardy_Remacri_multiplicateur_X3_1--WIDE.webp" width="85%" height="85%">
 
 ----
-----
 Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
 
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>

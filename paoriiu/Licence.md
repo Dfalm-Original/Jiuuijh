@@ -1,5 +1,9 @@
 # <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="64"></a><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="64"></a> <u>p’Aoriiu Jiuuijh</u>
 
+----
+### A - [Présentation en Résumé](Presentation.2.Resume.md)<br>B - [Présentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFPL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
+----
+
 <h3>🔵⚪️🔴<b>Quand_une_idee_est_bonne_elle_appartient_a_tout_le_monde</b>.<i><a href="https://fr.wikipedia.org/wiki/WTFPL" target="_blank">licence</a></i>
 </h1>
 <h3>🌎🌍🌏<b>When_an_idea_is_good_it_belongs_to_everyone</b></font>.<i><a href="https://en.wikipedia.org/wiki/WTFPL" target="_blank">licence</a></i>
@@ -20,7 +24,6 @@ Otherwise, you attribute to yourself the value of another person or worse you co
 However I believe in you, you are not a greedy person
 
 ---
-
 ---
 
 🔵⚪️🔴 Tout ce que je produits est en <b>"zero"</b> licence <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="32"></a><br>
@@ -44,7 +47,6 @@ You are free to use it as you need or find useful <a href="https://en.wikipedia.
 > <u>GITHUB Guide</u> : https://docs.github.com/fr/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 
 ---
-
 ## <u>Vous avez le droit de :</u>
 
 partager<br>

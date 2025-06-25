@@ -4,6 +4,8 @@
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Lo_Art-Work_00-01-39_SDXL--fantasyWorld_v10_2--WIDE.webp" width="85%" height="85%">
 
 ----
+### A - [Présentation en Résumé](Presentation.2.Resume.md)<br>B - [Présentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFPL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
+----
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
 To distinguish French from English I will use the following icons:<br>
 
@@ -83,9 +85,6 @@ Thanks,
 ### Dfalm
 
 > And if you want the long version with more details: > [click here](Presentation.1.Longue.md) <
-
-
-
 
 ----
 

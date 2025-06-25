@@ -45,8 +45,6 @@ https://matrix.to/#/#Dfalm:matrix.org
 - Et bien sûr il y a Discord<br>
 https://discord.gg/bf8uzxec
 
-
-
 # A - Présentation en Résumé
 ### Je t'invite à lire le texte plus exhaustif de la présentation en [résumé](Presentation.2.Resume.md)
 

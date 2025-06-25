@@ -20,7 +20,7 @@ To distinguish French from English I will use the following icons:<br>
 
 > however if you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](Licence.md).
 ----
-# - 🔵⚪️🔴  Présentation du projet « Jiuuijh »
+# 🔵⚪️🔴  Présentation du projet « Jiuuijh »
 Ici tu es à la racine du projet tu peux commencer par lire le premier volet ["p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/tree/main/paoriiu) : SPOILER  🫣 il y a plusieurs volets
 
 #### Alors ça se passe sur GitHub : https://github.com/Dfalm-Original/jiuuijh
@@ -44,8 +44,6 @@ https://bsky.app/profile/dfalm-original.bsky.social
 https://matrix.to/#/#Dfalm:matrix.org
 - Et bien sûr il y a Discord<br>
 https://discord.gg/bf8uzxec
-
-
 
 # A - Présentation en Résumé
 ### Je t'invite à lire le texte plus exhaustif de la présentation en [résumé](Presentation.2.Resume.md)
@@ -98,7 +96,7 @@ Le premier volet l'appelle ["p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Origi
 
 ----
 ----
-# - 🌎🌍🌏 Presentation of the "Jiuijh" project
+# 🌎🌍🌏 Presentation of the "Jiuijh" project
 Here you are at the root of the project. You can start by reading the first part ["p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/tree/main/paoriiu): SPOILER 🫣 there are several parts
 
 ## SORRY ⚠️ There is not and there will not be a translated version of the *project* in English (from me)

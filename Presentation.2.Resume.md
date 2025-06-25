@@ -16,7 +16,6 @@ To distinguish French from English I will use the following icons:<br>
 
 > however if you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](Licence.md).
 ----
-
 # 🔵⚪️🔴 Salut, 
 L'idée, c'est un texte que je lâche comme ça dans la nature dispo librement et gratos.
 Tu peux lire, bien sûr.

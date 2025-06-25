@@ -5,7 +5,7 @@
 <h3>🌎🌍🌏<b>When_an_idea_is_good_it_belongs_to_everyone</b></font>.<i><a href="https://en.wikipedia.org/wiki/WTFPL" target="_blank">licence</a></i>
 </h1>
 
-<hr>
+---
 
 🔵⚪️🔴 Si vous êtes une bonne personne vous citez vos sources et l'auteur qui vous a inspiré
 

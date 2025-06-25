@@ -4,7 +4,6 @@
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Val_Concept-art_18-59-15_SDXL--nightvisionxl_V900_2.png" width="85%" height="85%">
 
 ----
-----
 Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
 
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>

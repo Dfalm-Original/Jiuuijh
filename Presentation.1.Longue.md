@@ -17,7 +17,6 @@ To distinguish French from English I will use the following icons:<br>
 > however if you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](Licence.md).
 ----
 
-
 # 🔵⚪️🔴 Bonjour,
 
 Présentation du projet pour commencer je t’invite à lire la [licence WTFPL](https://fr.wikipedia.org/wiki/WTFPL) ; en gros c’est une licence « [zéro ](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)», je vais y revenir.

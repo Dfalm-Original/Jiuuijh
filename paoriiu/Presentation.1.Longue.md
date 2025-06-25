@@ -4,6 +4,8 @@
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Val_Concept-Art_04-37-10_SDXL--fantasyWorld_v1_1.png" width="85%" height="85%">
 
 ----
+### A - [Présentation en Résumé](Presentation.2.Resume.md)<br>B - [Présentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFPL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
+----
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
 To distinguish French from English I will use the following icons:<br>
 
@@ -16,7 +18,6 @@ To distinguish French from English I will use the following icons:<br>
 
 > however if you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](Licence.md).
 ----
-
 
 # 🔵⚪️🔴 Bonjour,
 

@@ -2,9 +2,9 @@
 
 ## PREMIER VOLET :  *p’Aoriiu Jiuuijh*
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Concept-Art_16-36-53_SDXL--asyncsMIXILLUSTRIOUS_ilV40_UPSCALER(hires)=4x_foolhardy_Remacri_multiplicateur_X3_3.webp" width="85%" height="85%">
-<hr>
 
 ----
+### A - [Présentation en Résumé](Presentation.2.Resume.md)<br>B - [Présentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFPL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
 ----
 
 ### Le premier élément est la Langue : 
@@ -17,7 +17,7 @@
 
 > however f you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](Licence.md).
 ----
-# - 🔵⚪️🔴  Présentation du projet « Jiuuijh »
+# 🔵⚪️🔴  Présentation du projet « Jiuuijh »
 
 ## PETIT RAPPEL : 
 Si tu l'as pas déjà fait, je t'invite à lire le [READ-ME](README.md) pour prendre connaissance du projet, son but et la licence
@@ -57,7 +57,7 @@ Merci de ton indulgence. 🙏
 # [ \[ SINON CLIQUE ICI ET BONNE LECTURE À TOI \] ](Lecture.md)
 
 ----
-# - 🌎🌍🌏 Presentation of the "Jiuijh" project
+# 🌎🌍🌏 Presentation of the "Jiuijh" project
 
 ## REMINDER:
 If you haven't already, I invite you to read the [READ-ME](README.md) to learn about the project, its purpose, and the license.

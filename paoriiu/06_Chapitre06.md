@@ -4,7 +4,6 @@
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Val_Concept-Art_15-19-47_SDXL--sd_xl_base_1.0.png" width="85%" height="85%">
 
 ----
-----
 Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
 
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
