@@ -35,6 +35,8 @@ Rappel : les mots avec une couleur différente c’est des liens cliquables. �
 - [ ... apparait, il se tient debout devant ... ](24_Chapitre24.md)
 - [ ... C’est ainsi que ce fini sur ce paysage cette aventure. » ](26_FIN.md)
 
+- [**Lexique**](a-pAoriiu-jiuuijh_Volet1-lexique.md)
+
 ## 🚧🚧 EN PREPARATION ; "LIRE EN UNE SEULE FOIS" 🚧🚧
 
 ---
