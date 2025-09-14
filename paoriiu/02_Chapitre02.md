@@ -11,7 +11,7 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 📜 Sur Medium https://medium.com/@dfalm<br>
 > 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
-> 📖 Sur Wattpad : https://www.wattpad.com/user/Dfalm_<br>
+> 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
 > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/author/1555148436/dfalm<br>
 
 
@@ -74,9 +74,9 @@ d'une chaleureuse voix féminine :
 - Voyons C°Fet pourquoi là ? Là ! à cet endroit ? (*prononcer Seuphet*)
 
 - Je regarde la cité d'ici, elle est si belle<br>
-- Avec ses lumières pâles qui dansent, si sensuelle<br>
-- Le balai souple des [*lymantas*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lymanta) et autres engins,<br>
-- Je n'arrive pas à comprendre : pourquoi ici ? Hein !? »
+Avec ses lumières pâles qui dansent, si sensuelle<br>
+Le balai souple des [*lymantas*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lymanta) et autres engins,<br>
+Je n'arrive pas à comprendre : pourquoi ici ? Hein !? »
 
 XeAr baisse le regard et le ton de sa voix, mélancolique de l'absurdité
 de son emportement.
@@ -252,9 +252,7 @@ l'inquiète un peu qu'il mette des barrières entre eux. Il change d'air,
 - Hé bien raconte... »
 
 - Des documents tronqués dans la bibliothèque, les D°Fet (*prononcer
-  dfet, ou djet*) qui répondent à côte de la plaque aux critères de
-  recherche que je lance...
-
+  dfet, ou djet*) qui répondent à côte de la plaque aux critères de recherche que je lance...
 <br> hummmm une impression seulement ... »
 
 fetyW l'encourage, d'une simple phéromone sucrée, à parler et lui dire

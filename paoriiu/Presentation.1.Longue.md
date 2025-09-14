@@ -82,7 +82,7 @@ Pour le suivi facile des modifications et des contributions via les fonctionnali
 > 📜 Il y a une version MarkDown sur Medium https://medium.com/@dfalm<br>
 > 💻 Il y a une version sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version sur Somee : https://somee.social/Dfalm<br>
-> 📖 Sur Wattpad : https://www.wattpad.com/user/Dfalm_<br>
+> 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
 > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/author/1555148436/dfalm<br>
 
 

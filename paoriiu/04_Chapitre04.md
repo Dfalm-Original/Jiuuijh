@@ -11,7 +11,7 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 📜 Sur Medium https://medium.com/@dfalm<br>
 > 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
-> 📖 Sur Wattpad : https://www.wattpad.com/user/Dfalm_<br>
+> 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
 > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/author/1555148436/dfalm<br>
 
 Et tu peux lire ici  ⏬
@@ -45,24 +45,20 @@ Rappel : les mots avec une couleur différente c’est des liens cliquables. �
 # Chapitre 4
 
 XeAr sort en quelques coups de nage gracile et efficace. Il descend
-joyeux et virevoltant
-l'[*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) de
-service pour rejoindre ses amis. C'est un long boyau, couvert de
-minuscules vers
-[claveline](https://fr.wikipedia.org/wiki/Clavelina_lepadiformis), qui
-oscillent tous dans le même sens. XeAr glisse ainsi sur ces petits cils,
-un peu un toboggan. Il y a deux
-[*escalresses*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse),
-chacune allant dans une direction inverse. Elles sont entortillées dans
-une tresse en colimaçon plus ou moins rectiligne. Les milliers de cils
+joyeux et virevoltant l'[*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) de
+service pour rejoindre ses amis.
+XeAr glisse le long du toboggan tapis de minuscules vers [claveline](https://fr.wikipedia.org/wiki/Clavelina_lepadiformis), qui
+oscillent tous dans le même sens. Il y a deux [*escalresses*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) entortillées dans
+une tresse en colimaçon. Il glisse à l'intérieur du boyau tout en caressant les
+[zoïdes](https://fr.wikipedia.org/wiki/Zo%C3%AFde) tout doux et
+agréables le long de son parcours, des milliers de cils
 bioluminescents, des
 [céphalocrests](https://paoriiu.jiuuijh.fr/encyclopedie/#Céphalocrest)
 roses ou bleues
 [noctiluint](https://paoriiu.jiuuijh.fr/encyclopedie/#Noctiluint), en
-fonction de leur fonction ; monter ou descendre. Il se glisse à
-l'intérieur tout en caressant les
-[zoïdes](https://fr.wikipedia.org/wiki/Zo%C3%AFde) tout doux et
-agréables le long de son parcours.
+fonction de leur fonction ; monter ou descendre. 
+
+
 
 En bas, il arrive à de longs couloirs qu'il parcourt plus en bondissant
 qu'en nageant, ils relient les étages de cette dernière strate vers le

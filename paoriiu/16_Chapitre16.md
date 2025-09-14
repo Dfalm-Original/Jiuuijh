@@ -11,7 +11,7 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 📜 Sur Medium https://medium.com/@dfalm<br>
 > 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
-> 📖 Sur Wattpad : https://www.wattpad.com/user/Dfalm_<br>
+> 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
 > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/author/1555148436/dfalm
 
 Et tu peux lire ici  ⏬
@@ -43,7 +43,7 @@ Rappel : les mots avec une couleur différente c’est des liens cliquables. �
 
 - [ ... quitte ses quartiers ... ](14_Chapitre14.md)
 
-# Chapitre 
+# Chapitre 16
 
 XeAr chez lui, il a dans la main un livre en cuir bleu de [denton](https://fr.wikipedia.org/wiki/Dentex_dentex).
 Il se dirige dans sa chambre, se déshabille pour mettre une tenue de
