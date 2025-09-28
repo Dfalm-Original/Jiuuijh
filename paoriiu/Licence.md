@@ -2,12 +2,12 @@
 
 ----
 # LE PROJET
-a. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
-a. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler.](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
-a. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)
-a. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.1.Longue.md)
-a. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md)
-a. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
+1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
+1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler.](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
+1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)
+1. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.1.Longue.md)
+1. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md)
+1. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
 ---
 
 <h3>🔵⚪️🔴<b>Quand_une_idee_est_bonne_elle_appartient_a_tout_le_monde</b>.<i><a href="https://fr.wikipedia.org/wiki/WTFPL" target="_blank">licence</a></i>
