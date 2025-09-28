@@ -4,9 +4,14 @@
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/affiche01_wide.webp" width="85%" height="85%">
 
 ----
-### A - [Présentation en Résumé](Presentation.2.Resume.md)<br>B - [Présentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFPL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
-----
-
+# LE PROJET
+a. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
+a. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler.](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
+a. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)
+a. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.1.Longue.md)
+a. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md)
+a. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
+---
 ### Le premier élément est la Langue : 
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
 To distinguish French from English I will use the following icons:<br>
@@ -28,9 +33,10 @@ Ici tu es à la racine du projet tu peux commencer par lire le premier volet ["p
 Ici nous sommes sur la version « [CANON](https://fr.wikipedia.org/wiki/Canon_(fiction)) » 
 - Si tu connais pas ou que tu sais pas comment ça marche ou que tu as peur, pas de panique ;
 Il y a plein d'autres liens tu peux retrouver la liste ici 👉 https://paoriiu.jiuuijh.fr/liens/ <br>
-Et là 👇<br>
+### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
 > 👁 Le site web « rolling release » : https://paoriiu.jiuuijh.fr<br>
 > 👩🏽‍🏫 Un dépôt « J I T » sur Quora : https://paoriiujiuuijh.quora.com/<br>
+> 🔖 Version sur Substack : https://substack.com/@dfalm<br>
 > 📜 Il y a une version MarkDown sur Medium https://medium.com/@dfalm<br>
 > 💻 Il y a une version sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version sur Somee : https://somee.social/Dfalm<br>

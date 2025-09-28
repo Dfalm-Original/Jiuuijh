@@ -1,16 +1,9 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## PREMIER VOLET :  *p’Aoriiu Jiuuijh*
-<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Lecture.png" width="85%" height="85%">
-<hr>
+<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Concept-Art_17-51-42_SDXL--novaOrangeXL_v60_UPSCALER(hires)%3D4x_foolhardy_Remacri_multiplicateur_X3_1--WIDE.webp" width="85%" height="85%">
 
 ----
-----
-
-# Merci et bonne lecture,
-
-Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
-
 Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
 ### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
@@ -22,8 +15,12 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
 > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
-# Et tu peux cliquer en dessous pour lire ici  ⏬
+Et tu peux lire ici  ⏬
 
+----
+Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
+
+## ↩️ [RETOUR A L INDEX](Lecture.md)
 - [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
 - [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
 - [ ... sort en quelques coups ... ](04_Chapitre04.md)
@@ -41,9 +38,6 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 
 - [**Lexique**](a-pAoriiu-jiuuijh_Volet1-lexique.md)
 
-## 🚧🚧 EN PREPARATION ; "LIRE EN UNE SEULE FOIS" 🚧🚧
-
-----
 ----
 
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>

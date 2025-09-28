@@ -4,8 +4,15 @@
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Presentation.1.Longue.png" width="85%" height="85%">
 
 ----
-### A - [Présentation en Résumé](Presentation.2.Resume.md)<br>B - [Présentation version Longue](Presentation.1.Longue.md)<br>C - [La licence WTFPL](Licence.md)<br>D - [Encyclopédie](https://paoriiu.jiuuijh.fr/encyclopedie)<br>E - [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
-----
+# LE PROJET
+a. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
+a. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler.](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
+a. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)
+a. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.1.Longue.md)
+a. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md)
+a. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
+---
+
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
 To distinguish French from English I will use the following icons:<br>
 
@@ -79,6 +86,7 @@ Pour le suivi facile des modifications et des contributions via les fonctionnali
 > 🐱 GitHub : https://github.com/Dfalm-Original/jiuuijh ( l’arborescence est inversée volontairement )<br>
 > 👁 Le site web « rolling release » : https://paoriiu.jiuuijh.fr<br>
 > 👩🏽‍🏫 Un dépôt « J I T » sur Quora : https://paoriiujiuuijh.quora.com/<br>
+> 🔖 Version sur Substack : https://substack.com/@dfalm<br>
 > 📜 Il y a une version MarkDown sur Medium https://medium.com/@dfalm<br>
 > 💻 Il y a une version sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version sur Somee : https://somee.social/Dfalm<br>
@@ -155,6 +163,7 @@ For easy tracking of changes and contributions via the platform's features (pull
 > 🐱 GitHub: https://github.com/Dfalm-Original/jiuuijh (the tree structure is intentionally reversed)<br>
 > 👁 The rolling release web site : https://paoriiu.jiuuijh.fr<br>
 > 👩🏽‍🏫 A JIT repository on Quora: https://paoriiujiuuijh.quora.com/<br>
+> 🔖 Version sur Substack : https://substack.com/@dfalm<br>
 > 📜 There's a MarkDown version on Medium https://medium.com/@dfalm<br>
 > 💻 There's a version on MINDS: https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Version on Somee: https://somee.social/Dfalm<br>
