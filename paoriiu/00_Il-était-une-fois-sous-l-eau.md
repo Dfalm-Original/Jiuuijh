@@ -5,15 +5,15 @@
 
 ----
 Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
-
+### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
 > 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
+> 🔖 Sur Substack : https://substack.com/@dfalm<br>
 > 📜 Sur Medium https://medium.com/@dfalm<br>
 > 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
 > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
-> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/author/1555148436/dfalm<br>
-
+> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
 Et tu peux lire ici  ⏬
 
@@ -21,142 +21,172 @@ Et tu peux lire ici  ⏬
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
 ## ↩️ [RETOUR A L INDEX](Lecture.md)
-- [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
-- [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
-- [ ... sort en quelques coups ... ](04_Chapitre04.md)
-- [ ... pénètre le premier dans ... ](06_Chapitre06.md)
-- [ ... se réveille avec  ... ](08_Chapitre08.md)
-- [ ... *Il sort de la ... ](10_Chapitre10.md)
-- [ ... s’agrippe quand  ... ](12_Chapitre12.md)
-- [ ... quitte ses quartiers ... ](14_Chapitre14.md)
-- [ ... chez lui, il a dans la main ... ](16_Chapitre16.md)
-- [ ... quitte le labo après ... ](18_Chapitre18.md)
-- [ ... se fait éjecter.](20_Chapitre20.md)
-- [ Elle est apparue.](22_Chapitre22.md)
-- [ ... apparait, il se tient debout devant ... ](24_Chapitre24.md)
-- [ ... C’est ainsi que ce fini sur ce paysage cette aventure. » ](26_FIN.md)
+1) - [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
+1) - [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
+1) - [ ... sort en quelques coups ... ](04_Chapitre04.md)
+1) - [ ... pénètre le premier dans ... ](06_Chapitre06.md)
+1) - [ ... se réveille avec  ... ](08_Chapitre08.md)
+1) - [ ... arrive à son « labo »](10_Chapitre10.md)
+1) - [ ... *Il sort de la ... ](12_Chapitre12.md)
+1) - [ ... lance un regard circulaire ](14_Chapitre14.md)
+1) - [ ... s’agrippe quand  ... ](16_Chapitre16.md)
+1) - [ ... quitte ses quartiers ... ](18_Chapitre18.md)
+1) - [ ... chez lui, il a dans la main ... ](20_Chapitre20.md)
+1) - [ ... quitte le labo après ... ](22_Chapitre22.md)
+1) - [ ... se fait éjecter.](24_Chapitre24.md)
+1) - [ Elle est apparue.](26_Chapitre26.md)
+1) - [ ... apparait, il se tient debout devant ... ](28_Chapitre28.md)
+1) - [ ... C’est ainsi que ce fini sur ce paysage cette aventure. » ](30_FIN.md)
 
 - [**Lexique**](a-pAoriiu-jiuuijh_Volet1-lexique.md)
 
-## 🚧🚧 EN PREPARATION ; "LIRE EN UNE SEULE FOIS" 🚧🚧
-
 ---
 
-# « *Il était une fois sous l'eau...* »
+# **« *Il était une fois sous l'eau...* »**
 
-Tudidu tudidu tudidu... Le regard absent sur le logo ; un téléphone
-barré. Rémi exaspéré, se retourne et dévisage celui qui décroche son
-portable. Ce n'est visiblement pas un simple pictogramme rayé en rouge
-qui va y changer grand-chose, ni la civilité. Irrité, il continue sa
-course pour rejoindre son siège et quitte cette voiture dite sans
-portable.
+Tudidu tudidu tudidu... Le regard vide, absent sur le logo ; un
+téléphone barré. Rémi exaspéré, se retourne et dévisage celui qui
+décroche son portable. Ce n'est visiblement pas un simple pictogramme
+rayé en rouge qui va changer grand-chose à l'incivilité. Irrité, il
+continue sa course pour rejoindre son siège et passe cette voiture pour
+rejoindre la sienne ; pourtant il y a bien un être humain qui le dit au
+départ et à chaque gare ; « Vous êtes invités à passer vos appels depuis
+les plateformes ». La consigne n'est pas facile à respecter... pourtant
+...
 
 Rémi arrive à son wagon. Il fait frais dans la voiture, le soleil darde
 les passagers de droite et un peu le couloir. Les sièges sont gris et
 verts, le pictogramme interdiction de fumer bien visible, lui aussi. Il
-enjambe aux premiers rangs un gamin en train de jouer avec ces étranges
-hommes poissons à la mode. Sa mère le gronde un peu, elle le relève de
-force, du bout des doigts il rattrape ses jouets.
+enjambe aux premiers rangs un gamin accroupi, absorbé par ses jouets à
+la mode, des étranges hommes poissons aux couleurs vives et aux sourires
+exagérés. Sa mère le gronde un peu, elle le relève de force, du bout des
+doigts il rattrape ses jouets, errant contre lui une peluche aux cheveux
+noirs et au large sourire sous un chapeau de paille.
 
- *- Arrête donc de te traîner par terre veux-tu !*<br>
- *Ça suffit comme ça, je n'en peux vraiment plus !*
+> *- Arrête donc de te traîner par terre veux-tu !*
+>
+> *Ça suffit comme ça, je n'en peux vraiment plus !*
 
-Ses yeux sont tout brillants, mais il ne pleure pas. Rémi rejoint sa
-place un peu triste pour le gamin. Rémi dépose son café à la tablette de
-sa place, s'assoit, attrape la mallette de son ordinateur à ses pieds,
-boit la dernière gorgée, jette le gobelet à la poubelle, l'écologie,
-c'est pas pour demain. Il ouvre sa mallette. Sans le faire exprès il
-fait tomber une photo, il s'empresse de se pencher pour la ramasser.
+Ses yeux sont tout brillants, mais il ne pleure pas.
 
-C'est ses deux amis et lui, ils sont devant la tour Eiffel, ils sourient
-d'un sourire sincère. C'était une belle journée quand ils l'ont prise.
-Il la range avant de se mettre au boulot, il aime beaucoup son
-ordinateur, qu'il vient de prendre, une petite boite en bois en acajou
-ciré, un bois très rouge avec peu de veines. Il aime son contact, il le
-caresse du bout des doigts et le pose sur la tablette ; à droite.
+Rémi rejoint sa place un peu triste pour le gamin. Il dépose son café à
+la tablette de sa place, s'assoit, attrape la mallette de son ordinateur
+à ses pieds, boit la dernière gorgée, jette le gobelet à la poubelle,
+l'écologie, c'est pas pour demain. Il ouvre sa mallette. Sans le faire
+exprès, il fait tomber une photo. Il se penche. Ses doigts et son regard
+effleurent le papier lisse --- ses deux amis et lui, devant la tour
+Eiffel. Le métal tressé, fin comme de la dentelle, perce le ciel de la
+capitale. Ils portent chacun une chemise, de gauche à droite : bleue,
+blanche et rouge --- évidemment. La main droite levée, deux doigts
+croisés en un salut à l'objectif, ou peut-être à quelque chose au-delà.
+Ils sourient d'un sourire sincère. Rémi caresse le contour de la flèche,
+toujours cette même nostalgie. C'était une belle journée, quand ils ont
+pris la photo. Il la range doucement, avant de se mettre au boulot.
 
-Il pose sa mallette à côté de lui et sort de son portefeuille une
-pochette en velours violet aux reflet vert dans laquelle il range ses
+Il aime beaucoup son ordinateur, qu'il vient de prendre ; une petite
+boite en bois en acajou ciré, un bois très rouge avec peu de veines. Il
+aime son contact. Il le caresse du bout des doigts puis le pose sur la
+tablette ; à droite. Il pose sa mallette à côté de lui et sort une
+pochette en velours violet aux reflets vert.
+
+Dedans il y a ses
 [*préempteurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Préempteurs).
-Il a choisi une chaînette en argent pour relier les bagues. Il les a
-faites ciseler, c'est plus joli. Il enfile les deux mains. De sa
-mallette il prend son clavier gonflage. Pour le voyage il a pris le bleu
-et rose pastel aux couleurs chamarrées, son préféré.
+Il prend la première des deux chaînettes qui relie les bagues, il les a
+choisis fines et en argent. Il a fait ciseler chacun des 10 anneaux,
+c'est plus joli. Il enfile les deux mains. Les bagues glissent
+tendrement sur les phalanges de ses doigts. Elles sont douces et
+agréables, comme des gouttes d'eau chaude sur sa peau. De sa mallette il
+prend son clavier gonflage --- une membrane souple, légère comme une
+méduse, qui épouse la forme de ses doigts dès qu'il la caresse plus
+qu'il ne la touche. Pour le voyage, il a choisi son préféré : le clavier
+bleu et rose pastel, aux couleurs chamarrées.
 
 Pour finir, avant de fermer sa mallette il prend ses lunettes
-'*dnordinateur*'. Il chausse ses lunettes avec ses oreillettes. D'un
+'*dn-ordinateur*'. Il chausse ses lunettes avec ses oreillettes. D'un
 geste discret de la main droite, tout en le caressant il allume son
-Ordi. Un petit « bip » caractéristique, il l'a conservé, un peu
-old-school, ça le fait marrer. Bien sûr c'est inutile, sinon ce ne
-serait pas indispensable.
+Ordi. Sur ses tempes le contact frais de la monture déclenche un léger
+frisson, familier, rassurant qui confirme la synchronisation. Dans ses
+oreilles le petit « bip » caractéristique - son qu'il a gardé par
+nostalgie, un peu 'old-school'. Ça le fait marrer. Bien sûr que, c'est
+inutile...c'est justement pour ça que c'est indispensable.
 
-Devant ses yeux la zone noire d'écran classique il a laissé le « Check »
-du matériel, réglé à sept secondes, le temps de lire, tout à l'air ok et
-l'ordinateur est démarré, il est prêt.
+Devant ses yeux, l'écran noir classique s'anime. Il a laissé le
+« Check » du matériel, réglé à sept secondes --- juste le temps de
+respirer.
 
-L'œil voit dans le bureau à 150° d'abord le fond d'écran. Rémi aime
-beaucoup cette image d'outremer bleutée qui représente une cité
-sous-marine. Il la trouve très belle, émouvante. La vue plongeante donne
-l'impression d'être prise à partir d'un poste d'observatoire. En tout
-cas très haut. La vision y est féerique, enchanteresse. On dirait une
-vraie image de la ville. Elle pourrait passer pour une carte postale
-touristique. Une photo vantant le panorama dans toute sa splendeur. La
-cité sous-marine est délicatement enfoncée dans une grotte. Lovée dans
-un nid, dans la nuit, comme une perle dans l'écrin d'un coquillage.
-Cette perle engoncée, presque à l'étroit à l'intérieur, elle touche les
-bords. L'obscurité des profondeurs rend à la lumière de la cité sa
-superbe et fait ressortir les constructions perchées à même la paroi
-abrupte. De la ville éclairée de l'intérieur il y fourmille une vie
-assurément scintillante. Accrochés au plafond certains bâtiments
-semblent être en lévitation. Partout mille petits points, comme un globe
-souvenir que l'on vient de secouer. Ce sont autant de petits véhicules
-et d'êtres qui bougent dans tous les sens. Tout en bas le plus grand
-espace semble être celui d'une sorte de port. La vue est vraiment
-magique, elle emplie à chaque fois Rémi d'émotion, il aime cet endroit.
+Tout semble en ordre. L'ordinateur est prêt.
 
-Puis l'œil commence à distinguer le reste du système avec ses icônes,
-semi-transparentes aux couleurs pastel rose et
-[héliotrope](https://encycolorpedia.fr/df73ff). Rémi de la souris prend
-le traitement de texte. La grande fenêtre apparaît et donne l'impression
-de voir la cité à travers un scaphandre. C'est compliqué, en haut, en
-bas, les côtés\... des séries de symboles. L'allégresse reprend Rémi, il
-se remet au travail.
+Le regard voit d'abord le fond d'écran dans le bureau à 150° ; une cité
+sous-marine. Entièrement lovée au creux d'une grotte immense, comme une
+perle nichée dans l'écrin d'un coquillage.
 
-Et maintenant, où en était-il ? Un pleur ! Retour à l'extérieur. Le
-gamin vient de se faire gronder sévèrement à force de jouer par terre,
-il étouffe son sanglot. Rémi examine son espace, voyons il manque ... de
-la musique ! Il part à la cherche son lecteur... un coup d'œil à droite.
-Ah ! Rémi vient de trouver, il est en bas. Posé sur le toit d'un grand
-bâtiment, la musique\... Il descend pour aller la prendre, évite l'angle
-d'un bâtiment et attrape sa musique. Ça ressemble à un œil oblong. Au
-milieu, l'iris, une double bille. Rémi cherche... hummm... non... non...
-non... Voilà ! Il a trouvé ; de ses
-[*préempteurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Préempteurs) à
-la main gracieuse, il veut écouter ces morceaux de musique. Le premier
-morceau commence et couvre le brouhaha ambiant. Il aime beaucoup ce
-musicien, il s'apaise, il est heureux.
+La lumière de la ville perce l'obscurité des profondeurs, faisant
+scintiller les façades accrochées à la paroi. Certains bâtiments
+semblent flotter, ou bien suspendus au plafond rocheux, tandis que
+d'autres s'enracinent dans les fonds comme des coraux géants. La vision
+est féerique, enchanteresse.
+
+Partout, des points lumineux bougent en tous sens --- des véhicules, des
+êtres vivants, peut-être --- comme les paillettes d'un globe souvenir
+qu'on viendrait de secouer. En bas, un vaste espace s'ouvre : un port,
+sans doute, où convergent ces lumières mouvantes. L'obscurité des
+profondeurs rend à la lumière de la cité sa superbe et fait ressortir le
+contraste des parois abruptes.
+
+La vue est magique. On dirait une vraie image de la ville, presque une
+carte postale touristique. Une photo vantant le panorama dans toute sa
+splendeur. À chaque fois, elle emplie le cœur de Rémi. Il aime cet
+endroit.
+
+Peu à peu, son regard s'habitue, il commence à distinguer le reste du
+bureau : des icônes, semi-transparentes aux couleurs pastel --- rose
+pâle et [héliotrope](https://encycolorpedia.fr/df73ff) --- qui flottent
+doucement autour du paysage. Rémi effleure l'icône du traitement de
+texte. Une grande fenêtre s'ouvre, superposée à la vue de la cité, sans
+la masquer totalement. Comme si l'on regardait à travers un scaphandre :
+l'interface enveloppe le regard, mais le monde qu'elle révèle reste
+visible, à la fois dehors et dedans. Le texte lui-même semble flotter
+dans l'eau, translucide, bordé de jolis symboles
+[affordants](https://fr.wikipedia.org/wiki/Affordance).
+
+L'allégresse reprend Rémi, il se remet au travail.
+
+Et maintenant, où en était-il ?
+
+Un pleur ! Retour au monde extérieur. Le gamin vient de se faire gronder
+sévèrement à force de jouer par terre, il étouffe son sanglot.
+
+Rémi examine son espace, cherche ce qui manque... Ah ! De la musique !
+Son regard glisse, son lecteur il est où ? Un coup d'œil à droite. Rémi
+vient de trouver, il est en bas. Là, posé sur le toit d'un grand
+bâtiment\... Il descend, évite l'angle d'une tour, attrape la musique
+--- un œil oblong avec une double bille irisée au centre. Il hésite ...
+hummm... non... non... non... Voilà ! De ses
+[*préempteurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Préempteurs),
+main gracieuse, il active la lecture. Le premier morceau commence et
+couvre le brouhaha ambiant. Il aime beaucoup ce musicien. Il s'apaise.
+Il est heureux.
 
 Enfin, retour au boulot ! Calmement Rémi relève la tête, l'espace de
-travail défile en reculant, rase à nouveau l'angle du bâtiment. Le
-traitement de texte laisse apparaitre à nouveau par transparence la cité
-sous-marine. On peut percevoir les bords de la grotte. On remarque tous
-les objets qui flottent et on se rend compte de la grandeur de cette
-extraordinaire cité. On ne pouvait l'imaginer, mais en y regardant de
-plus près elle est vraiment grandiose. Immense. Ces dimensions sont
-édifiantes, délirantes, sûrement des
-[lieues](https://fr.wikipedia.org/wiki/Lieue).
-Difficile de le deviner au premier abord, on a du mal à croire en ses
-dimensions. La vision de Rémi se fixe sur les lettres du texte qui
-flottent au-dessus de ce qui pourrait être un « hydro-port ». Il semble
-y transiter ces milliers de petits points. Rémi relit l'entête de ce
-qu'il était en train d'écrire...
+travail défile en reculant, rase le flanc d'un édifice. Le texte
+réapparaît, transparent, laissant deviner la cité derrière --- ses
+parois, ses objets flottants, son immensité. On peut percevoir les bords
+de la grotte. On remarque tous les objets qui flottent et on se rend
+compte de la grandeur de cette extraordinaire cité.
 
-ha oui ;
+On ne pouvait l'imaginer au premier regard. Mais en y regardant de plus
+près, elle est grandiose. Immense. Ses dimensions sont... édifiantes.
+Délirantes ! Sûrement des [lieues](https://fr.wikipedia.org/wiki/Lieue).
+Difficile de le deviner, on a du mal à croire sa taille.
+
+L'attention de Rémi se fixe sur les lettres du texte qui flottent
+au-dessus de ce qui pourrait être un « hydro-port ». Il semble y
+transiter ces milliers de petits points. Rémi relit l'entête de ce qu'il
+était en train d'écrire...
+
+Ah oui ;
 
 « *Il était une fois sous l'eau...*
-- [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
-
-
 
 ----
 ## [RETOUR A L INDEX](Lecture.md)

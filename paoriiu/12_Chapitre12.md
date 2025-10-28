@@ -5,14 +5,15 @@
 
 ----
 Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
-
+### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
 > 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
+> 🔖 Sur Substack : https://substack.com/@dfalm<br>
 > 📜 Sur Medium https://medium.com/@dfalm<br>
 > 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
 > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
-> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/author/1555148436/dfalm
+> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
 Et tu peux lire ici  ⏬
 
@@ -20,429 +21,866 @@ Et tu peux lire ici  ⏬
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
 ## ↩️ [RETOUR A L INDEX](Lecture.md)
-- [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
-- [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
-- [ ... sort en quelques coups ... ](04_Chapitre04.md)
-- [ ... pénètre le premier dans ... ](06_Chapitre06.md)
-- [ ... se réveille avec  ... ](08_Chapitre08.md)
-- [ ... *Il sort de la ... ](10_Chapitre10.md)
-- [ ... s’agrippe quand  ... ](12_Chapitre12.md)
-- [ ... quitte ses quartiers ... ](14_Chapitre14.md)
-- [ ... chez lui, il a dans la main ... ](16_Chapitre16.md)
-- [ ... quitte le labo après ... ](18_Chapitre18.md)
-- [ ... se fait éjecter.](20_Chapitre20.md)
-- [ Elle est apparue.](22_Chapitre22.md)
-- [ ... apparait, il se tient debout devant ... ](24_Chapitre24.md)
-- [ ... C’est ainsi que ce fini sur ce paysage cette aventure. » ](26_FIN.md)
+1) - [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
+1) - [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
+1) - [ ... sort en quelques coups ... ](04_Chapitre04.md)
+1) - [ ... pénètre le premier dans ... ](06_Chapitre06.md)
+1) - [ ... se réveille avec  ... ](08_Chapitre08.md)
+1) - [ ... arrive à son « labo »](10_Chapitre10.md)
+1) - [ ... *Il sort de la ... ](12_Chapitre12.md)
+1) - [ ... lance un regard circulaire ](14_Chapitre14.md)
+1) - [ ... s’agrippe quand  ... ](16_Chapitre16.md)
+1) - [ ... quitte ses quartiers ... ](18_Chapitre18.md)
+1) - [ ... chez lui, il a dans la main ... ](20_Chapitre20.md)
+1) - [ ... quitte le labo après ... ](22_Chapitre22.md)
+1) - [ ... se fait éjecter.](24_Chapitre24.md)
+1) - [ Elle est apparue.](26_Chapitre26.md)
+1) - [ ... apparait, il se tient debout devant ... ](28_Chapitre28.md)
+1) - [ ... C’est ainsi que ce fini sur ce paysage cette aventure. » ](30_FIN.md)
 
 - [**Lexique**](a-pAoriiu-jiuuijh_Volet1-lexique.md)
 
-## 🚧🚧 EN PREPARATION ; "LIRE EN UNE SEULE FOIS" 🚧🚧
-
 ---
 
-- [ ... *Il sort de la ... ](10_Chapitre10.md)
+# **Chapitre 12**
 
-# Chapitre 12 +/-1
+XeAR sort de la bouche du
+[*sousharroyeur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Sousharroyeur),
+c\'est la ligne qu\'il prend d'habitude pour le parc, mais aujourd\'hui,
+c\'est le campus.
 
-AgI s'agrippe quand ça démarre, elle sort de son sac à flanc sa console,
-elle pianote quelques instructions et la range. Elle finit son trajet,
-pensive, mais déterminée. Ne se laissant pas aller aux mouvements de la
-rame ni de la masse d'eau. Quelques cheveux dépassent de sa grande
-coiffe et ondule au grès du trajet. Elle a le regard sérieux, soucieux.
-Arrive son arrêt, une station au centre de la cité. Elle sort d'un
-mouvement nonchalant, mais sûr et plein de puissance. De ses quelques
-mouvements elle avance terriblement vite. Elle trace ainsi au travers
-des couloirs du
-[*sousharroyeur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Sousharroyeur)
-évitant avec élégance les passants. Ne leur prêtant même pas attention.
-Elle finit par déboucher dans un passage un peu plus large, un échange
-de différents couloirs, elle se dirige vers le moins encombré. Surmonté
-d'une inscription brodée de rouge. Elle parcourt le couloir un moment et
-arrive à un autre embranchement, trois repartent vers les
-[*sousharroyeur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Sousharroyeur)
-et deux passages fermés par d'étranges sas. Elle se dirige vers l'un
-d'eux. Une interface J°Fet apparaît. (*Prononcer Chset*), elle déploie
-le gardien ; une grande méduse [rose
-balais](https://encycolorpedia.fr/search?q=balais) et [bleue
-givrée](https://encycolorpedia.fr/search?q=bleu+givr%C3%A9) qui lance
-ses longs tentacules
-[nématocystes](https://fr.wikipedia.org/wiki/Nématocyste) sur AgI. Puis
-le [nautilon](https://paoriiu.jiuuijh.fr/encyclopedie/#Nautilon)-méduse
-se dirige au-dessus de sa proie et l'entoure entièrement. La créature
-artificielle mais magique, assemblé à partir de matériaux enchantés ; la
-scrute. Elle descend ses tentacules organiques pour l'envelopper
-totalement puis ... l'automate disparaît, un sas s'ouvre.
+La lumière claire opaline pénètre ses yeux, il est à l\'une des entrées,
+l'eau est saturée d'une odeur d'algues et d'iode. L\'espace est
+généreux. Autour de lui se dressent les
+[coralliumas](https://paoriiu.jiuuijh.fr/encyclopedie/#Coralliuma), ces
+habitations étudiantes qui sont littéralement cultivées comme une forme
+de corail géant et intelligent. Elles offrent une protection naturelle
+facile à entretenir et des parois bioluminescentes.
 
-AgI pénètre. Après quelques mètres un nouvel embranchement, elle tourne
-à gauche pour aller prendre un
-[*acsésseur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Acsésseur). Une
-cabine de cinq personnes, mais il existe d'autres tailles, à droite et à
-gauche de celui qu'elle emprunte. AgI, appuie en entrant sur un bouton
-qui s'éclaire d'un joli [french
-violet](https://encycolorpedia.fr/search?q=french+violet) et elle
-s'installe dans une des cinq alvéoles rose très clair, remplie des
-milliers de petits cils
-[polypes](https://fr.wikipedia.org/wiki/Polype_(zoologie)). Ces petits
-tentacules [grenadine](https://encycolorpedia.fr/search?q=Grenadine)
-grandissent et commencent à l'attraper, ils l'obligent à venir se lover
-tout au fond. Doucement l\'anfractuosité est envahie de rose et [jaune
-fauve](https://encycolorpedia.fr/search?q=Fauve), dissimulant presque en
-entier AgI. Seul le visage, sa poitrine et un bout de pied dépassent. Il
-y a un espace au centre de la cabine et de part et d'autre des
-porte-marchandises. Un autre
-[p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) arrive à ce
-moment pour monter avec elle. Il la regarde avec attention, voit l'étage
-où elle se rend et la laisse partir. Les
-[polypes](https://fr.wikipedia.org/wiki/Polype_(zoologie)) resserrent
-doucement leur étreinte, elle est délicatement immobilisée.
-L'[*acsésseur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Acsésseur)
-démarre d'un bon, quand apparaît fetyW sur la plateforme.
-L'[*acsésseur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Acsésseur)
-change de couleur avec son arrivée, il est entouré d'un halo jaune
-[béryl](https://fr.wikipedia.org/wiki/B%C3%A9ryl). L'eau a des effluve
-épicé et chaleureux, invitant à la détente et à la convivialité. Les
-petits [polypes](https://fr.wikipedia.org/wiki/Polype_(zoologie))
-continuent de serrer et maintenir doucement mais fermement AgI.
-L'[*acsésseur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Acsésseur)
-commence à accélérer, les quelques bouts de vêtements d'AgI qui
-n'étaient pas prisonniers sont tirés vers le bas. L'eau change de
-couleur, les minéraux précipitent doucement à cause [des
-G](https://fr.wikipedia.org/wiki/G_(acc%C3%A9l%C3%A9ration)). AgI sent
-son sang aller vers le bas aussi, mais les
-[polypes](https://fr.wikipedia.org/wiki/Polype_(zoologie)) se
-contractent pour l'empêcher. fetyW n'est pas du tout affectée et elle
-commence à parler avec AgI. Toutes les deux discutent un peu. fetyW lui
-demande si sa journée c'est bien passée, elle lui répond que oui **⸮**
-(**⸮** [point d'ironie](https://fr.wikipedia.org/wiki/Point_d%27ironie))
-Elle a été agréable, qu'elle a rencontré un jeune homme charmant et elle
-a déjà mangé chez ses parents **⸮** (**⸮** [point
-d'ironie](https://fr.wikipedia.org/wiki/Point_d%27ironie)) AgI se
-dépêche de rentrer se faire belle, elle a eu l'audace de l'inviter à un
-dîner **⸮** Galant. Précise-t-elle, ses pommettes deviennent légèrement
-violettes. Le trajet dure un peu mais finalement AgI arrive, elle salue
-la [nord'I](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI) d'un sourire
-**⸮** fetyW fait disparaître son
-[Eidolon](https://fr.wikipedia.org/wiki/Eidolon) dans une farandole de
-gais petits points, laissant dans l'eau un goût sucré-épicé, chaud et
-légèrement piquant en fin de bouche, avec une sensation réconfortante.
+XeAr sent la chaleur douce qui en émane.
 
-Les [polypes](https://fr.wikipedia.org/wiki/Polype_(zoologie))
-desserrent leur étreinte, AgI arrivait malgré tout à filtrer l'eau sans
-problème. Il existe des
-[*acsésseurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Acsésseur)
-horizontaux aussi, et même des courbes. Selon où ils doivent mener.
-L'[*acsésseurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Acsésseur)
-stope net, les
-[polypes](https://fr.wikipedia.org/wiki/Polype_(zoologie)) commencent à
-se rétracter, AgI a dans sa main trois petites billes, elle les émiette
-d'un geste en direction de son alvéole. Le
-[biote](https://fr.wikipedia.org/wiki/Biota)
-[grenadine](https://encycolorpedia.fr/search?q=Grenadine) l'absorbe avec
-gratitude et reprend sa belle couleur verte
-[céladon](https://encycolorpedia.fr/search?q=C%C3%A9ladon). AgI sort et
-croise un jeune
-[p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) qui s'est
-arrêté pour la laisser passer dans une sorte de salut formel. Il est
-habillé d'un uniforme rosé, elle continue son chemin et fini par
-déboucher sur un large patio. Une vingtaine de mètres, presque
-circulaire. Au moins autant de haut. Trois grandes vitres laissent
-pénétrer la lumière de la ville. La voûte est elle aussi ouverte. Au
-milieu du patio un espace d'algue agrémentée. Et tout au cœur des algues
-une trouée, qui donne sur un autre patio en contre bas. AgI se dirige
-vers un des balcons à sa droite, et fini par arriver devant une des
-trois portes. Elle sort de son sac à flanc un *identifieur* et entre.
-Elle pénètre dans un sas de quelques mètres où elle dépose sur un meuble
-bas ses affaires et son sac à flanc. Ceci fait elle se dirige vers le
-centre, une grande pièce, trente mètres peut-être. Vaguement carrée,
-avec un couloir ou du moins un passage à chaque angle. En face de
-l'entrée, une grande baie vitrée par laquelle entre une douce lumière.
-On peut voir qu'elle à un balcon et elle y a *des algues diverses*
-(NOTE : les citer plutôt). Le centre de la pièce est en contre bas. Un
-lieu de vie. Il y a des chaises une table, un petit meuble oblong et une
-étagère qui pend. La coursive, est
-[vermeil](https://encycolorpedia.fr/search?q=vermeil), et se dégrade en
-différentes couleurs à chacun des quatre passages. A gauche, le premier,
-[céruléen](https://encycolorpedia.fr/search?q=c%C3%A9rul%C3%A9en), celui
-du fond un vert tendre, à droite de suite en rentrant un
-[ambré](https://encycolorpedia.fr/search?q=ambre) doux, et au fond un
-rose discret. Tous sont ouverts, mais il y a visiblement quelque chose
-pour pouvoir les fermer si nécessaire. Elle se dirige vers son balcon
-d'un [bleu tendre](https://encycolorpedia.fr/search?q=denim). Tout son
-immeuble est d'un même bleu tendre, s'éclaircissant avec l'altitude.
-Elle réside dans une magnifique [Laminaris
-Éthéré](https://paoriiu.jiuuijh.fr/encyclopedie/#Laminaris-Éthéré),
-c'est une tour incroyablement fine et souple s'élevant sur un peu moins
-de quatre kilomètres. Sa structure semble presque transparente ou
-immatérielle, c'est une simple impression, elle n'est pas du tout
-translucide, peut-être son [bleu
-tendre](https://encycolorpedia.fr/search?q=denim) qui donne cette
-étrange sensation diaphane. Elle est soutenue par des chants (\*) de
-gravité inversée et des matériaux nano-tissés qui lui permettent de
-flotter et de s\'incliner légèrement avec les courants, comme une
-[laminaire](https://fr.wikipedia.org/wiki/Laminaire_(algue)) géante.
-(\*c'est la bonne orthographe). La charpente est composée
-d'[Algélodie](https://paoriiu.jiuuijh.fr/encyclopedie/#Algélodie) et
-lorsqu'elle est caressée par les courants, ces légères oscillations
-produisent la mélodie douce et fluctuante du chant de gravité.
-L'ensemble donne une sensation de lumière homogène sur ses formes
-arrondies et doucement esthétiques.
+Les campus sont des rares endroits de la cité où il y a des animaux et
+aussi des plantes
+[endémiques](https://fr.wikipedia.org/wiki/End%C3%A9misme). Des poissons
+en bancs, des crustacés et une grande variété d'algues s\'y
+épanouissent.
 
-A l'intérieur, le meuble bas a subtilement changé de forme et suit AgI
-puis se dirige finalement vers la pièce vert tendre tout à gauche.
-Arrivée à la baie vitrée, elle contemple de sa vue la cité. Elle
-surplombe d'un kilomètre et demi la capitale. Il y a des bâtiments
-immenses, en face. Un rose doux, un deuxième
-[ambré](https://encycolorpedia.fr/search?q=ambre) aux balcons de
-[jais](https://fr.wikipedia.org/wiki/Jais) qui donne l'impression d'un
-animal endormis. Tout à gauche on distingue un bout de la tour
-[*Cijh-lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Cijh-lec). Sur sa
-droite c'est plus dépouillé, ce ne sont pas des
-[Pilia'Watas](https://paoriiu.jiuuijh.fr/encyclopedie/#Pila-Wata), ils
-ne font pas un kilomètre de haut. Seules les lumières parviennent d'en
-bas. Il y a de rare passage entre les immeubles. Quelques
-[*lymantas*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lymanta) et
-[*Frailugas*](https://paoriiu.jiuuijh.fr/encyclopedie/#Frailuga). De
-rares [mlrao'eao](https://paoriiu.jiuuijh.fr/encyclopedie/#Mlraoeao)
-vétus chaque fois de gilets violet clair. Les passages en altitudes sont
-réglementés, en effet il n'est pas question que des objets puissent
-tomber sur les passants. AgI revient à la pièce principale, qui mis à
-part l'espace central, est dépouillée. Elle se dirige à son tour vers
-son bureau, la pièce tout à gauche en rentrant. Une pièce où il y a
-plein de consoles diverses, plein d'une électronique bizarre. Il y a au
-plafond une douce lumière tamisée. Un grand siège autour duquel gravite
-les interfaces et consoles. Le petit meuble a branché la console d'AgI
-sur une autre plus grande à gauche du bureau monolithique. Il y a aussi
-certaines interfaces qui étaient dans le sac à flanc qui ont retrouvées
-leur support. Une grande lampe
-[buddleia](https://www.cnrtl.fr/definition/buddleia) pend d'une étagère
-pour éclairer le pupitre. AgI d'un geste ouvre la *projection* afin de
-vérifier que ça se passe bien. Une large image suspendue au-dessus de
-l'espace de travail. Elle s'est dépliée brusquement, comme un banc de
-sardine qui fui. L'image est apparue nette, claire. Comme si elle avait
-toujours été là. On perçoit derrière, juste au milieu un petit...
-tentacule qui la relie à un renflement à peine perceptible au mur.
-L'image est pure. AgI y jette juste un coup d'œil, histoire de voir que
-tout se passe correctement. Ses travaux et diverses choses. Et elle
-laisse l'interface d'un mètre soixante-dix ainsi pour retourner à la
-pièce principale. Dans la grande pièce elle lance un sort d'un geste de
-la main. Il va tel un petit hippocampe vers le mur en face actionner une
-autre projection. Elle regarde les messages qui ont été laissés. Le
-visage d'une belle
-[p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) apparaît,
-AgI n'a pas mis le son. En bas de la projection elle lit aussi diverses
-informations. Entre temps, elle s'est rapprochée en passant par-dessus
-la table et le sort a déjà disparu. Elle pianote sur le pupitre quelle
-vient de sortir de sous la projection. Apparaît le visage d'une belle
-[Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe). Elles se
-saluent, AgI la connaît, c'est une amie, *voeirhi* (*prononcer fée
-ril*). AgI lui demande si elle peut lui réserver deux places pour ce
-soir. Sans hésiter ni même regarder un carnet de réservation, si elle en
-avait un, *voeirhi* lui confirme de la place. Et elle lui lance un
-regard interrogateur,
+L'éclairage bioluminescent donne aux écailles des poissons des reflets
+joueurs et argentés.
 
-AgI lui répond qu'il est mignon et très gentil. Toutes deux discutent un
-peu ainsi, puis *voeirhi* prend congés, il y a d'autres clients. AgI la
-remercie et lui dit qu'elle va se préparer. Elle fait demi-tour et
-retourne à son bureau. S'assoit devant son pupitre. La projection a à
-nouveau disparue. Elle l'a faite apparaître on ne sait comment, elle
-éclos brusquement. Devant elle l'image n'est pas la même. La projection
-suit les mouvements d'AgI, qui fouille dans ses affaires à travers la
-pièce allant de là à ici.
+Les mollusques plus discrets ventilent à l'abris dans les replis des
+coraux. Il continue son chemin.
 
-Finalement AgI trouves ses
-[*préempteurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Préempteurs)
-qu'elle enfile à la main gauche et fait apparaître un clavier à même le
-bureau. Du
-[*préempteur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Préempteurs)
-gauche elle manipule les outils de son espace de travail tout en
-continuant avec l'autre main de taper diverses commandes sur ce qui
-semble être une « console » système. Elle établit plusieurs connexions
-avec fetyW par le biais d'interfaces de niveau I°Fet. (*Prononcer
-ifêtent*). D'un
-[aquaglyphe](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquaglyphe) de la
-main droite, elle fait apparaître trois hippocampes qui vont vers le
-fond du bureau actionner d'autres ordinateurs et des matériels
-[Biohec](https://paoriiu.jiuuijh.fr/encyclopedie/#Biohec), elle crée
-dans son bureau sa virtualité sans avoir à enfiler des lunettes. Son
-[Kaelen](https://paoriiu.jiuuijh.fr/encyclopedie/#Kaelen) est sommaire,
-mais... ça l'amuse de le projeter par-dessus son mobilier, plutôt que
-devoir 'entrer' dans un espace virtuel. Elle préfère cette méthode, elle
-a mis un peu partout, dans son
-[Kaelen](https://paoriiu.jiuuijh.fr/encyclopedie/#Kaelen) projeté, des
-plantes, des algues partout en harmonie avec son mobilier. Il y a même
-des poissons lovés au creux de son bureau, et quelques pieuvres
-dissimulées à sa droite. C'est bien moins parfait que si elle devait
-chausser son écran virtualisant et on voit clairement la supercherie et
-c'est pas grave. Une interface C°Fet apparaît avec quelques dossiers,
-AgI en prend certains. Elle crée une table pour pouvoir les étaler. Sa
-main droite se transforme de manière indescriptible, et avec fouille sur
-la table les dossiers. Soudain, elle en sort un. Un gros dossier
-« plat ». D'un mouvement de la main gauche elle lui redonne sa forme. Un
-beau livre en cuir bleu de [denton](https://fr.wikipedia.org/wiki/Dentex_dentex).
-Elle l'ouvre, les lignes apparaissent et d'un coup d'œil elle a compris
-la teneur de l'ouvrage. Hummm décidément... Elle crée une
-[flutrine](https://paoriiu.jiuuijh.fr/encyclopedie/#Flutrine) d'algue et
-glisse le volume dans le voile de bulles transparent pour le protéger
-des intrusions mentales puis elle rédige dessus une note à l'intention
-d'eldmI pour les archives. Enfin elle divise les cellules et en fait une
-copie pour fetyW. C°Fet disparaît avec. AgI reste comme ça un moment,
-pensive, inquiète. Enfin elle range son espace et revient à la réalité,
-coupant son [Kaelen](https://paoriiu.jiuuijh.fr/encyclopedie/#Kaelen).
+Au passage il voie la gardienne.
 
-Elle remet ses
-[*préempteurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Préempteurs)
-dans un bel écrin [gris rose
-mountbatten](https://encycolorpedia.fr/search?q=Mountbatten). De
-l'auriculaire elle réduit la projection, qui va se lover dans le mur.
-Elle parcourt la pièce d'un regard pensif. Derrière son bureau il y a
-une étagère où elle y a mis des [*coralaustatues*](https://paoriiu.jiuuijh.fr/encyclopedie/#Coralaustatue),
-photos et trophées divers. Elle s'en est rapprochée machinalement. Elle
-regarde une photo et à droite, trois trophées identiques, en corail
-blanc, qui représente une paire de palmes. Les palmes sont enlacées,
-comme un couple d'hippocampes. Plantées dans un socle de marbre rosé
-dans lequel est gravé l'édition, les trois trophées d'affilées 821,822
-et 823 du 7éme cycle de vie... c'était les 25 ans de cette compétition.
+Une très belle
+[Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe), fine et
+élancée, bien plus grande que son ami.
 
-Juste au-dessus une [*coralaustatue*](https://paoriiu.jiuuijh.fr/encyclopedie/#Coralaustatue)
-d'elle enfant. Puis la lumière de l'I°Fet, se déconnectant la déloge de
-ses songes.
+Elle ne porte pas les bottes qu'ont habituellement les
+[Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe), mais des
+chausses basses.
 
-AgI tourne la tête sur sa gauche et quitte son bureau. Elle glisse au
-centre du salon, au-dessus de la table. De la main gauche, elle dessine
-l'[aquaglyphe](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquaglyphe) d'un
-petit sortilège à cinq tentacules. Il se soulève de la main d'AgI, et
-saute, pour planer de la salle principale vers le balcon. Il effectue
-une pirouette brusquement à gauche et passe derrière AgI. Il tourne
-ensuite à droite dans un virage serré et passe cette fois ci devant
-elle, entre elle et le mur. Il se dirige finalement vers la pièce qui
-est à droite en entrant.
+Elles s'ancrent dans le sol. Souples et précises, XeAr sait que ces
+appuis rétractables lui permettent de soulever les plus lourdes charges
+du jardin.
 
-AgI ôte en riant la *surpeau* que lui a prêtée XeAr, elle la jette au
-milieu de la pièce sur une sorte de chaise. Elle finit de se dévêtir,
-ôtant le haut de son uniforme sombre, d'un geste discret une ouverture
-apparaît. Elle l'enlève ainsi facilement. Elle laisse choir son
-ceinturon jaune et le sac à flanc
-[jais](https://fr.wikipedia.org/wiki/Jais) sur le sol. Ses mains
-parcourent ses cuissardes qu'elle détache puis d'un mouvement des jambes
-les projettent.
+Il est un peu pressé, il regrette de ne pas pouvoir aller discuter avec
+elle.
 
-Elle retire ensuite le bas qu'elle fait glisser des hanches dans un
-geste de roulis. Et jette le reste des vêtements au centre de la pièce.
-Elle porte un simple boxer et un petit bustier, qu'elle retire dans une
-pirouette amusée. Elle finit nue de lancer ses derniers vêtements. Il ne
-lui reste que sa coiffe. ( NOTE vérifier les vêtements d'AgI voir si
-elle a tout retiré ou si ça correspond bien à la description
-« [*lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lec) ». Faire une
-meilleur description de ses « dessous » : dentelles 🡨 ça à l'air
-correct !! BARBARELLA !! Scéne d'ouverture ☺ ).
+Elle refait très souvent les jardins, elle bouge des rochers, les bancs
+avec une attention minutieuse. Elle prend toujours garde aux animaux et
+aux plantes.
 
-Elle va ensuite dans la pièce de droite où s'en est allé le sort aux
-cinq tentacules. Le sort n'est plus là, mais sa cabine est prête. Elle
-se met devant une glace afin de se regarder un peu, nue. Elle attrape
-d'une étagère à gauche du miroir des petites éponges afin d'ôter son
-maquillage de [*lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lec).
-Maquillage de [*lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lec)
-étudiante surtout. Il s'agissait d'un simple surlignement des yeux. Elle
-jette l'éponge dans un petit réceptacle où elle est aspirée. Elle défait
-sa coiffe, mais garde sa longue tresse. Elle l'entoure sur ses épaules,
-entre dans la cabine et pianote quelques réglages. Pour commencer de
-l'eau parfumée de frek ga coela kera. L'eau arrive doucement, en de
-petits jets épars. Puis le débit augmente, et ils se dirigent doucement
-tous dans la même direction. Créant ainsi un courant léger, AgI se
-laisse soulever et tourne. Elle tourne, tourne. Sa cabine est assez
-grande pour qu'elle puisse tendre les bras. Elle jette sa tête en
-arrière, ses genoux pliés elle se laisse entraîner dans le petit
-tourbillon. Elle virevolte et tourbillonne.
+Il y a un tel écosystème sur lequel elle veille avec amour.
 
-Chavirée elle se laisse aller, puis le courant diminue au bout de
-quelques minutes. L'eau change. Une eau plus salée arrive afin d'évacuer
-l'eau parfumée, une fois recyclée, la salinité baisse à nouveau. Le
-[zoosymbiote](http://web.wanadoo.be/acropora/page45.html) arrive
-doucement, le sien est un peu plus vert, il se met à l'ouvrage,
-nettoyant la peau d'AgI. Le petit nuage parcourt tout son corps et
-l'illumine. Une fois fini et que tous les organismes ont disparu, le
-bain d'eau minérale commence. AgI aime l'eau sulfurée. La teinte vire
-doucement au [jaune flave](https://encycolorpedia.fr/search?q=Flave).
-Elle en profite pour tendre la main vers une petite niche discrète pour
-y prendre une [sabelle](https://fr.wikipedia.org/wiki/Sabella_(ver)) une
-sorte de plumeau. La couronne tentaculaire constitué de cellules
-muqueuses et zones ciliées permet de nettoyer la peau. Les branchies
-hypertrophiées sont suffisamment longues pour faire le tour du corps
-d'AgI et ça l'emprisonnes totalement, de la pointe de ses seins, jusqu'à
-sa colonne vertébrale. Elle caresse son corps avec le panache doux et
-soyeux le long de son cou, sur ses hanches. La jambe droite, puis la
-gauche et revient sur ses hanches sa croupe et ses fesses. Elle échange
-la [sabelle](https://fr.wikipedia.org/wiki/Sabella_(ver)) pour une
-[anémone felina](https://fr.wikipedia.org/wiki/Urticina_felina). Elle
-attrape délicatement le [dahlia de
-mer](https://fr.wikipedia.org/wiki/Urticina_felina) vers son
-[pelvis](https://fr.wikipedia.org/wiki/Petit_bassin), les [muscles
-bulbo-spongieux](https://fr.wikipedia.org/wiki/Muscle_bulbo-spongieux),
-le reste de son
-[périnée](https://fr.wikipedia.org/wiki/P%C3%A9rin%C3%A9e) et finit
-l'intimité de sa séance. De la main gauche elle manipule un pavé de la
-cabine afin de sortir le clavier. De la droite elle pose l'anémone. AgI
-prend sa brosse
-[spirographe](https://fr.wikipedia.org/wiki/Spirographe_(ann%C3%A9lide))
-tentaculaire spiralée et défait sa tresse. D'un mouvement ample de la
-tête, ses cheveux roux bouclés envahissent la cabine. Elle commence
-doucement à brosser ses cheveux avec ses boucles immenses. A l'aide des
-nombreux filaments colorés qui se sont déployés de la couronne
-tentaculaire, elle les démêle, puis les rassemble en petites nattes.
-Elle lance un charme et fait apparaître cinq mignons
-[vittatus](https://fr.wikipedia.org/wiki/Plectorhinchus_vittatus) pour
-l'aider à finir sa grande tresse. Chacun danse avec une natte, leur
-corps rayés entremêlées dans cette chorégraphie crée une jolie illusion.
-A la fin du ballet AgI se retrouve avec une magnifique tresse à cinq
-brins. C'est fini, elle change l'eau et sort de la cabine. D'un
-mouvement de la poitrine elle va dans la pièce principale. Les
-[vittatus](https://fr.wikipedia.org/wiki/Plectorhinchus_vittatus),
-encore là, vont récupérer les affaires. AgI toujours nue se dirige dans
-la dernière pièce. Celle au vert tendre. Sa chambre. Elle longe la vitre
-du balcon, son interminable tresse sur ses reins. Elle entre dans la
-chambre.
+Elle arrive aussi à concilier la beauté du regard. C'est vraiment une
+grande jardinière, il n'a pas assez souvent le temps de bavarder avec
+elle, mais à chaque fois c'est un réel plaisir.
 
-Ses affaires sont déjà sur une petite table contre le mur, surmontée
-d'un grand miroir. De la porte vitrée de sa chambre on aperçoit la
-bouche de la
-[pangomaji](https://paoriiu.jiuuijh.fr/encyclopedie/#Pangomaji). Sa
-couche est juste en face, un beau [bleu de
-France](https://encycolorpedia.fr/search?q=Bleu+de+France) et [jaune
-impérial](https://encycolorpedia.fr/search?q=jaune+imperial). A côté de
-la table une grande armoire. Et à l'autre mur de grandes étagères de
-coiffes, palmes, ceinturons, dentelles... et une psyché. Elle attrape
-ses affaires sales et les mets dans le panier près de l'armoire. Elle
-ouvre l'armoir, la porte se rétracte comme un tentacule. Dedans, des
-combinaisons, des robes longues et amples, des uniformes, des tenues de
-chasse... Elle parcourt ses vêtements du regard. Et décide de mettre une
-grande robe [ambre](https://encycolorpedia.fr/f0c300), comme ça elle
-rappellera qu'elle est étudiante.
+XeAr lui adresse un signe et continue dans les allées, bordées d'algues
+aux couleurs [sarcelle](https://encycolorpedia.fr/search?q=Sarcelle).
 
-Elle la pose sur la table, bien étendue, pour être sûre de son choix. La
-robe est longue et ses formes douces. AgI se choisi ensuite un sac à
-flanc qui puisse aller avec. Et va ensuite près de sa couche prendre de
-quoi orner ses seins, plus que les soutenir. Un bonnet
-[ocre](https://encycolorpedia.fr/search?q=ocre) clair de minuscules
-dentelles, qu'il en parait uni. Avec va un boxer brodé de la même
-manière, dont le tricot a la finesse de la maille. Alors qu'il ne s'agit
-que d'un boxer, quand elle l'enfile, le maillage laisse apparaitre avec
-élégance des dessins sur les courbes qu'il épouse. Discrets lorsque
-c'est nécessaire et agréables ailleurs. Elle met le haut et met le long
-de ses jambes une similipeau [damas](https://encycolorpedia.fr/551a3b).
-Elle va ensuite se choisir des bottes, des cuissardes avec de larges
-broderies qui remonteront du creux
-[poplité](https://fr.wikipedia.org/wiki/Muscle_poplit%C3%A9) jusqu\'au
-[couturier](https://fr.wikipedia.org/wiki/Muscle_sartorius) ; à
-mi-cuisse. En plus elles ont de belles palmes extensibles
-[ambre](https://encycolorpedia.fr/f0c300), ça ira très bien avec sa
-robe. Ses bottes mises, elle va ensuite enfiler sa robe et finir de se
-préparer. Elle ajoutera un bustier avant de partir.
+Il longue la partie du campus composée
+d'[amani-Habs](https://paoriiu.jiuuijh.fr/encyclopedie/#Amani-Hab), ces
+vastes structures administratives qui abritent aussi infirmeries et
+cliniques.
 
-**-- JE N'EN SUIS PAS SATISFAIT Y A DU BOULOT, IL ME FAUT « LISSER »
-TOUT CA !**
+De l'autre côté, les salles de cours --- seuls le haut des dômes des
+[Shel\'kons](https://paoriiu.jiuuijh.fr/encyclopedie/#Shel-kon)
+dépassent. Ils sont couverts d'algues courtes afin de créer une harmonie
+de colline.
 
-- [ ... quitte ses quartiers ... ](14_Chapitre14.md)
+Avec la lumière éclatante de la journée, les coupoles des salles de
+cours sont impressionnantes et les algues paraissent être du velours.
+
+XeAr nage lentement, des poissons minuscules fuient à son passage.
+
+Les [Shel\'kons](https://paoriiu.jiuuijh.fr/encyclopedie/#Shel-kon)
+abritent deux cours chacun, coupés par la verticale. Il sait que ces
+structures de quinze mètres n'émergent qu'à moitié du sol, l\'intérieur
+défie la logique des volumes. Il est toujours émerveillé par leurs
+courbes aux creux des quelles nichent une variété d'animaux et de
+coraux.
+
+Il accélère sa nage dans les allées pour rejoindre son ami. Ils se sont
+donnés rendez-vous au bâtiment de mathématiques. Le [Caulerpa
+Gracilis](https://paoriiu.jiuuijh.fr/encyclopedie/#Caulerpa-Gracilis)
+est d\'une élégance épurée, sa forme fine et ramifiée rappelle la
+croissance délicate de certaines algues.
+
+Ces édifices défient les courants aussi grâce à des matériaux flexibles.
+
+XeAr a choisi ce [Caulerpa
+Gracilis](https://paoriiu.jiuuijh.fr/encyclopedie/#Caulerpa-Gracilis)
+pour son beau [bleu
+klein](https://fr.wikipedia.org/wiki/International_Klein_Blue)
+saisissant parmi le champ chromatique de ses voisins.
+
+Il arrive, AgI est déjà là.
+
+Il perçoit son odeur --- ce mélange léger mais riche de parfum floral et
+anisé, légèrement citronné --- avant même d\'atteindre le bâtiment.
+
+Elle l'attend à l'entrée de l'immeuble.
+
+Habillée comme une étudiante
+[*lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lec). Uniforme sombre,
+plus clair que celui des « titulaires ».
+
+Un liseré [flavescent](https://www.cnrtl.fr/definition/flavescent)
+appuie sa silhouette, la couleur des étudiants de premières années.
+
+L'insigne au-dessus du sein droit, à la clavicule, rappelle son statut.
+A gauche, elle a un beau distributeur ivoire et noir finement ciselé.
+
+Il remarque ses cuissardes de cuir, finiment brodées de dentelles
+lactées, un ceinturon jaune discret et elle a un sac à flanc couleur
+[jais](https://fr.wikipedia.org/wiki/Jais).
+
+Sa coiffe est... réglementaire.
+
+XeAr la salue.
+
+Elle est un peu intimidée de le revoir, mais heureuse. Le bonheur se lit
+dans ses yeux, même si ce sentiment bêta persiste de l'erreur qu'elle a
+commise à la grotte.
+
+Elle lui sourit, embarrassée.
+
+- XeAr... »
+
+Il incline la tête dans un geste réconfortant mais un peu maladroit. Il
+lui fait signe en direction d'un
+[Shel\'kon](https://paoriiu.jiuuijh.fr/encyclopedie/#Shel-kon) dont le
+dôme [amarante](https://encycolorpedia.fr/search?q=amarante) est à peine
+recouvert d'algues.
+
+- Viens, on y va. »
+
+Ils se dirigent vers l'entrée.
+
+Le hall oblong est gravé de milliers de dictons anciens. Un nouveau
+court va commencer. Avec un sourire XeAr la met à l'aise et l'invite à
+entrer dans le bâtiment pour rejoindre son ami.
+
+- N'aie pas peur, » murmure-t-il avec un sourire « le plus difficile est
+  de franchir la porte. »
+
+Ils passent par le sas réservé aux enseignants, quelques-uns les
+regardent, intrigués.
+
+XeAr en profite pour saluer quelques amis.
+
+AgI se fait toute petite, discrète, gênée ses mains s'agitent légèrement
+près de son sac à flanc.
+
+Elle voudrait s\'effacer, ne pas être là.
+
+Ce n'est pas elle, elle n'est pas là !
+
+xxsioo passe rapidement. D'un hululement XeAr l'appelle. Le
+[Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) se
+retourne sans hésiter, ses grands bras ouverts et accueillants pour
+l'embrasser.
+
+Ils se saluent avec enthousiasme comme s'ils ne s'étaient pas vus depuis
+longtemps.
+
+La veille seulement.
+
+XeAr glisse un clin d'œil à son ami
+[Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) accompagné
+de langage de guerre, il signe :
+
+'Merci d'avoir permis cette rencontre, comprenne qui pourra.'
+
+Il a à peine plissé des yeux et froncé imperceptiblement ses sourcils,
+d'un mouvement du nez.
+
+XeAr sent une vague chaude de satisfaction se propager. Souriant, xxsioo
+adresse un salut à AgI.
+
+XeAr lui demande :
+
+- Tu es sûr que c'est possible d'intégrer les cours alors qu\'ils ont
+  déjà commencé ? »
+
+- Bien sûr que ça ne dérange pas, » Répond la
+  [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe), pleine
+  d'assurance.
+
+Puis xxsioo, s\'adressant à AgI :
+
+- Ton premier examen en tiendra compte. Avec de l\'aide, tu rattraperas
+  vite ce petit retard. »
+
+AgI acquiesce, studieuse.
+
+xxsioo, déçu que son message subliminal n'ait pas été perçu, chasse
+cette pensée d'un sourire et les invite à aller s'asseoir.
+
+XeAr proteste pour la forme, mais se laisse mener par son ami vers la
+salle de cours.
+
+AgI suit d'un coup de rein.
+
+xxsioo pousse amicalement mais énergiquement l'épaule de XeAr avant
+d'aller rejoindre sa place de maître de conférences.
+
+AgI franchit le seuil, pénétrant dans la salle de court de magie, l'eau
+semble changer de densité.
+
+Elle entre, le regard attentif, les yeux grands ouvert, comme si elle
+avait l'air ébahi de quelqu'un qui n'en avait jamais vu.
+
+La salle respire. Si différent des salles
+[*lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lec) --- qui sont
+plates, muettes, prisonnières d'écrans C°fet où les données coulent en
+lignes froides. Ici, les murs ondulent doucement, la paroi chante.
+
+XeAr est toujours éblouis, il reste encore émerveillé.
+
+Quelques regards se tournent vers AgI, certains marmonnent.
+
+AgI baisse les yeux, les mains nerveuses.
+
+Des murmures.
+
+Elle n'est pas à sa place ici.
+
+Elle se sent submergée, elle essaie de se faire encore plus petite, ses
+doigts s'agitent dans de petits gestes fébriles.
+
+Ici, la salle n'est pas en deux dimensions comme les cours de
+[*lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lec).
+
+L'amphithéâtre est déformé, pas une sphère, un grand œuf coupé
+verticalement.
+
+A l'estime la hauteur fait près de quatre-vingts mètres. Trois fois plus
+grand à l'intérieur qu'à l'extérieur.
+
+La magie.
+
+Elle peut contenir une telle étendue dans un volume si petit.
+
+AgI regarde xxsioo se diriger vers le mur immense --- d'un bleu
+[safre](https://encycolorpedia.fr/0131b4) qui va en se dégradant au
+milieu dans un beau vert
+[limule](https://fr.wikipedia.org/wiki/Limulidae).
+
+Au centre, mais vraiment au centre, à mi-hauteur il y a une niche avec
+un pupitre. Le maître de conférences peut y déposer ses documents.
+
+Un cercle légèrement jaune, trace une surface de courtoisie.
+L\'enseignant reste à l'intérieur, il est à portée de vue et de voix de
+tous.
+
+Il peut ainsi aller et venir pendant ses cours et discours.
+
+AgI le rejoint.
+
+D'autres élèves la dépassent en montant au plafond. Ils lui jettent des
+regards pleins de curiosité.
+
+Elle détourne les yeux en marmonnant, agitée. Elle 'tricote' avec ses
+doigts.
+
+Les parois sont constellées de gradins, même le plafond en est sertit.
+
+AgI lève la tête.
+
+- Tu t'y habitueras. » Murmure XeAr en prenant place en hauteur, à la
+  gauche de son ami.
+
+Il y a d'étrange sièges à l'envers où sont installées essentiellement
+des [Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe), tête
+en bas.
+
+AgI fronce les sourcils.
+
+Comme si, il y avait une ségrégation.
+
+Pourtant il y a des
+[Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) dans toute
+l'assistance, équitablement réparties ; aux places « à l'endroit ».
+
+xxsioo est déjà à sa place, les deux étudiants improvisés prennent
+place.
+
+Quand AgI s'installe près de XeAr elle lui jette un regard interrogateur
+sur les places au plafond.
+
+- Après » murmure-t-il en lui souriant.
+
+Le cours commence.
+
+La salle s'apaise.
+
+Les étudiants, suspendus dans l'eau claire, fixent la haute silhouette
+du professeur.
+
+xxsioo ferme les yeux, puis lentement, d'un ton calme, sa voix s'étend
+dans l'hémicycle comme une onde grave.
+
+- Alors Commençons avec la base, la fondation de tout : la
+  [Mirabilité](https://fr.wikipedia.org/wiki/Mirabilis).
+
+> Un mot ancien, mais essentiel. »
+
+Il repend un poncif, mais répéter c'est aussi la base de l'enseignement.
+
+Ou bien fait-il ce petit rappel à l'intention de sa nouvelle élève.
+
+Soit !
+
+Il répète donc :
+
+- La Magie, mes chers étudiants, est une science dure. Elle n\'est pas
+  un don, c\'est une variable inscrite dans notre code
+  [biotique](https://search.lilo.org/?q=biotique). C'est la tension
+  qu\'exerce le [Noûs](https://fr.wikipedia.org/wiki/No%C3%BBs) sur le
+  Continuum. »
+
+xxsioo trace dans l'eau un signe lent, circulaire.
+
+Une lueur bleutée s'y déploie, pulsant comme un cœur.
+
+- Ce n'est ni un don, ni un mérite. Pas même une vertu.
+
+> C'est une aptitude --- la façon dont chaque être interagit avec la
+> trame du monde. »
+
+Il tourne la main, et la lumière de
+l'[aquaglyphe](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquaglyphe) se
+diffracte en trois éclats.
+
+- Voyez ces trois éclats ?
+
+> Chaque race y brille à sa manière :
+>
+> Les [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu),
+> dit-il en désignant le premier, nos amis organiques -- possèdent une
+> plage restreinte. Une faible tension. C\'est l\'Architecture de leur
+> [Noûs](https://fr.wikipedia.org/wiki/No%C3%BBs).
+>
+> Ils ont une lumière discrète, ténue, mais persistante.
+>
+> Les [Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe), nous
+> autres, ondulent un peu plus fort --- la sorcellerie afflux en nous.
+>
+> Nous avons une bande passante plus large. Une tension moyenne.
+>
+> Et la [*nord'Iës*](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI)
+> ... »
+
+xxsioo effleure le dernier éclat, et la salle s'illumine d'un blanc
+intensif, aveuglant.
+
+- ... elle, elle ne manipule pas la lumière : elle devient la lumière.
+  Elle maîtrise l\'équation. »
+
+AgI regarde XeAr ; les requins ne font pas des orques. xxsioo a fait
+disparaitre l'éclat, c'est mieux.
+
+Un murmure circule dans la salle.
+
+- C\'est un fait
+  [biocœnose](https://fr.wikipedia.org/wiki/Bioc%C3%A9nose). C\'est
+  l\'Aptitude. Ce n\'est pas une question de volonté ni même de travail
+  acharné. C\'est ce que vous êtes. »
+
+Il s\'éloigne du mur, l'air pensif, et plonge dans l\'eau de la salle.
+
+- Maintenant, la distinction cruciale : l\'Aptitude et le Talent. »
+
+xxsioo sourit, il replie sa main.
+L'[aquaglyphe](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquaglyphe) se
+dissout.
+
+Il lève ses longs bras et les laisse onduler doucement.
+
+- La [Mirabilité](https://fr.wikipedia.org/wiki/Mirabilis) n'est pas
+  affaire de travail. Ce n'est pas non plus du talent.
+
+> C'est un langage qu'on reconnaît avant même de l'apprendre.
+>
+> Ceux qui n'ont pas l'oreille croient qu'il suffit de réciter des
+> formules.
+>
+> Mais la formule n'est qu'une vibration, une respiration.
+>
+> Ce qui compte, c'est le rythme du monde qu'elle réveille. »
+
+Il nage au centre de la salle.
+
+L'eau s'ouvre légèrement autour de lui.
+
+- Regardez. »
+
+Son bras s'étire, dessine une courbe dans le fluide.
+
+Un [aquaglyphe](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquaglyphe)
+apparaît, délicat, luminescent.
+
+- Pensez à la pieuvre. La pieuvre n\'a pas besoin de se cacher. Elle ne
+  met pas en place une stratégie. Elle ne pense pas son camouflage, elle
+  est le camouflage. Sa peau est un champ de pigments mouvants, son
+  corps, ses [chromophores](https://fr.wikipedia.org/wiki/Chromophore),
+  sont un algorithme vivant.
+
+> Une exécution en temps réel de la réalité. Elle ne se cache pas, elle
+> se dissout.
+>
+> C\'est l\'Aptitude. »
+
+Il lève un doigt. La lumière sur le glyphe ondule comme la peau d'un
+animal.
+
+- Maintenant, le crustacé, poursuit-il.
+
+> Lui, il doit chercher comment se fondre, bricoler, composer. Il
+> observe, il calcule, il se dissimule. Le crustacé ne peut pas se
+> dissoudre. Il trouve une algue, une roche. Il se cache derrière. Il
+> met en place un plan, une séquence de travail.
+>
+> Le résultat ?
+>
+> Il est camouflé, et efficacement !
+>
+> C\'est le Talent. »
+
+xxsioo laisse un petit moment à ses mot, qu'ils parcourent la salle et
+les esprits.
+
+Doucement il repend :
+
+- Mais le processus n\'est pas le même.
+
+> Il ne pourra jamais se fondre dans le tissu même de l\'eau.
+>
+> Il travaille à ressembler à ce que la pieuvre est déjà. »
+
+Il s'interrompt, laissant l'idée flotter.
+
+Puis, il ajoute :
+
+- Ce n'est pas une question de volonté ou d'effort, mais d'aptitude
+  innée :
+
+> La pieuvre EST le camouflage ; le crustacé FAIT du camouflage.
+>
+> L'un est instinct. L'autre est discipline.
+>
+> Mais tous deux finissent par disparaître dans le même océan.
+>
+> La question est : comment ? »
+
+Il contracte ses mains, changeant de geste.
+
+Au fil de son discours il s'est déplacé, bien au centre afin d'être vu
+de tous.
+
+Il effectue un
+[tentactif](https://paoriiu.jiuuijh.fr/encyclopedie/#Tentactif), il
+commence à tordre la réalité et à la faire pencher sur sa droite, puis
+il la fait pivoter pour la rassembler près de lui.
+
+Elle s'amasse doucement, les étudiants ont le vertige.
+
+Il tend la main.
+
+Entre ses doigts, l'eau se creuse, se plie, comme si elle obéissait à un
+souffle invisible.
+
+Puis il ouvre large ses bras, dans un mouvement de rotation des poignets
+et signe avec ses doigts une magnifique
+[aquaglyphe](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquaglyphe) qui
+reste en suspens quelques secondes.
+
+- Regardez, dit xxsioo, la voix calme au cœur du chaos.
+
+> Ce que je fais maintenant... ce n'est pas de la volonté. Ce n'est pas
+> de la concentration. C'est comme respirer. Mon corps sait. Mon
+> [Noûs](https://fr.wikipedia.org/wiki/No%C3%BBs) sait. C'est inné. »
+
+La salle se déploie.
+
+Les murs ondulent. Les sièges flottent, retenus par des filaments
+invisibles. Un étudiant pousse un cri --- pas de peur, mais
+d'émerveillement.
+
+Lentement, délicatement comme le tentacule d'une pieuvre à l'affût...
+
+xxsioo tends encore plus ses bras qui deviennent immense, alors que déjà
+grand.
+
+- Vous voyez ? dit-il, les yeux brillants. Je ne pense pas à chaque
+  équation. Je ne récite pas mes [identités
+  remarquables](https://fr.wikipedia.org/wiki/Identit%C3%A9_remarquable).
+  Je danse avec la réalité. Comme la pieuvre danse avec la lumière. »
+
+Il referme le poing.
+
+Clac.
+
+La salle bondie et ondule comme le dos d'une raie.
+
+Les étudiants sont sonnés, certains essayent de garder leur esprit et
+reprennent les incantations des débuts d'année afin de saisir la
+réalité.
+
+La main de xxsioo s'ouvre et la salle reprend sa forme.
+
+Seul le vertige reste.
+
+Tous les étudiants n'ont pas compris la démonstration.
+
+xxsioo enchaîne pour placer quelques remontrances à ceux qui ne suivent
+pas les cours et ne révisent pas leur équations-algorithmiques.
+
+Quand je vous dis que vos les
+[polynômes](https://fr.wikipedia.org/wiki/Polyn%C3%B4me) c'est
+important... Si vous aviez appliqué vos [identités
+remarquables](https://fr.wikipedia.org/wiki/Identit%C3%A9_remarquable)...
+»
+
+Il fait une pause.
+
+Son regard croise celui d'AgI --- une étudiante
+[*lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lec) perdue.
+
+Elle est chamboulée, XeAr est amusé.
+
+xxsioo poursuit :
+
+- Maintenant que j'ai bien eu votre attention... je suis convaincu que
+  certains vont y réfléchir à deux fois sur les premiers cours et
+  d'avoir si vites oubliés leurs [expressions
+  régulières](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re#Impl%C3%A9mentations_et_complexit%C3%A9_algorithmique).
+
+> Reprenez-les. Ceux qui savent, aidez les autres. Ceux qui ne savent
+> pas : demandez. Vous croyez que c'est quoi mon métier ? Venez me voir.
+> »
+
+Un silence. Puis un rire discret.
+
+- Et voilà, reprend-il en haussant les épaules.
+
+> Rien qu'une équation mal équilibrée. Une simple erreur de paramètre,
+> et tout tangue.
+>
+> La magie, mes chers élèves, c'est aussi de la géométrie... qui
+> respire. »
+
+Et il reprend et veut insister sur les aptitudes et les talents.
+
+- Ne vous méprenez pas, ajoute-t-il. Ce n'est pas une question de
+  valeur.
+
+> C'est une question de nature.
+>
+> Ceci est un exercice très simple à faire, pour la
+> [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) que je
+> suis.
+>
+> Pour un [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu),
+> ce sera plus technique, mais pas infaisable. Il y arrivera autrement.
+>
+> Pour un [nord'I](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI) il
+> s'agit d'un exercice rudimentaire, aussi rudimentaire que les formules
+> [algorithmiques](https://fr.wikipedia.org/wiki/Algorithmique) que
+> certains n'ont pas apprises. »
+
+Deuxième couche.
+
+xxsioo se marre intérieurement.
+
+Il tapote son front.
+
+- Nous verrons plus tard la différence entre
+  [théurgie](https://www.cnrtl.fr/definition/théurgie) --- invoquer ce
+  qui est --- et [goétie](https://www.cnrtl.fr/definition/goétie) ---
+  forcer ce qui n'est pas. Mais aujourd'hui... aujourd'hui,
+  souvenez-vous juste de ceci :
+
+> Ce que vous êtes détermine comment vous pouvez faire. Pas l'inverse. »
+
+D'instinct... XeAr sent un frisson parcourir ses branchies.
+
+Avant même d'entendre son de la voix.
+
+Ce traître !
+
+xxsioo sourit, une grimace amusée, de sa voix profonde, dit :
+
+- Il y a ici un ami
+  [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) qui nous
+  fait la joie d'être parmi nous. J'espère qu'il nous fera volontiers
+  une démonstration. »
+
+Et « ça » se prétend un ami.
+
+Un murmure parcourt la salle. Des regards se tournent vers XeAr.
+
+Des chuchotements roulèrent dans l'amphithéâtre. AgI gênée à côté essaye
+toujours de disparaitre.
+
+xxsioo fait un mouvement du bras pour que ses étudiants l'encouragent.
+
+Les deux amis se regardent.
+
+xxsioo leva la main, amusé.
+
+- Allons, encouragez-le un peu ! »
+
+La salle vibre d'un bruissement d'eau et d'exclamations étouffées.
+
+XeAr fait un signe à AgI un sourire d'excuse et complices --- son air
+inquiet le fit sourire, il quitte son siège pour rejoindre le centre de
+la salle.
+
+Chaque brasse vers le cercle jaune de la surface de courtoisie,
+amplifiait le battement de son cœur, comme si l'eau elle-même retenait
+sa respiration.
+
+xxsioo l'accueille d' une tape amicale et chaleureuse.
+
+Il reprend :
+
+- Je vous présente l\'un des plus talentueux
+  [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) de ces
+  dernières générations. Son nom circule, n\'est-ce pas, que beaucoup
+  d'entre vous l'ont déjà entendu... peut-être dans les couloirs, ou
+  dans les histoires qu'on se raconte à voix basse. »
+
+Le silence de la classe lui répond.
+
+XeAr soupira doucement, désespérément.
+
+- Un mystère pour certains. On raconte qu'il s'est retiré, qu'il a tout
+  arrêté\... Vrai ? Faux ? Qu'importe ! »
+
+Le silence se fit dense.
+
+Il termine son éloge :
+
+- Il se prétend modeste... mais il danse avec la réalité mieux que
+  quiconque. »
+
+Et xxsioo cède la parole en lui lançant une pensée complice : «
+Débrouille-toi avec ça ! »
+
+XeAr ne dit rien.
+
+Il fait juste un signe.
+
+Il sent que, les étudiants, plus méfiants, ont décidés de ne pas se
+faire avoir une deuxième fois.
+
+Du bout des doigts, XeAr entame une petite danse, qui trace, pure,
+fluide, un fil de lumière liquide.
+
+L\'arabesque de
+l'[hydroglyphe](https://paoriiu.jiuuijh.fr/encyclopedie/#Hydroglyphe),
+se dessine dans l'eau ; figure simple de départ.
+
+De sa gorge, il fait naître un
+[bourdonnement](https://fr.wikipedia.org/wiki/Bourdon_(musique)) grave
+qui vibre dans sa poitrine.
+
+Un grondement sourd guttural qui fait ronronner l'eau.
+
+Le mouvement de ses doigts remonte à ses bras et arrive à ses épaules.
+
+De sa gorge il a commencé un autre chant plus aigu et il a accentué le
+ronronnement de la mélodie, tissée entre ses doigts. Le refrain monte et
+s'entrelace. Les ouïes de ses branchies s'ouvrent.
+
+Son chant cantique à deux octaves commence à entrer en résonance.
+
+Il diminue régulièrement par demi ton le corps des basses.
+
+Le mouvement part des bras et va vers ses épaules, il fait augmenter de
+tierce la base des aigus.
+
+Quand il a à nouveaux deux octaves d'écart il ajoute un troisième chant.
+
+XeAr crée une dissonance au milieu, en arythmie qui porte le chant
+principal.
+
+Le son monte, se dédouble, se superpose et ondule.
+
+Les vibrations lui grimpent le long des bras jusqu'aux épaules. Pénètre
+ses branchies.
+
+Tout l'amphithéâtre ressent le flux magique --- chaud, dense --- pulser
+au rythme du chant.
+
+La gorge de XeAr produit maintenant trois voix : l'une basse, la
+deuxième cristalline, la troisième arythmique, ouïes grandes ouvertes.
+
+Les harmoniques s'enroulent comme des algues autour de la salle.
+
+L'hémicycle ne fait pas qu\'ondoyer, il commence à vibrer intensément ;
+le chant cantique se déploie.
+
+Les étudiants, qui avaient entonné leurs [expressions
+régulières](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re#Impl%C3%A9mentations_et_complexit%C3%A9_algorithmique)
+pour croiser la réalité, se sont tous tus.
+
+XeAr rapproche ses mains. La salle se contracte, elle bat comme un cœur
+sous l'effet de ce nouveau champ. Ses bras s'entrecroisent dans une
+étrange danse. Il fait monter le chant des basses et écarte brusquement
+ses bras comme pour embrasser quelqu'un d'imaginaire.
+
+La réalité s'en va.
+
+La salle s'est retournée. Elle est complètement retroussée.
+
+Le chant cantique vient de se métamorphoser en un champ de continuum.
+
+La salle vient de s'épanouir comme une
+[anémone](https://fr.wikipedia.org/wiki/An%C3%A9mone_de_mer).
+
+Et XeAr lui a ajouté des couleurs chamarrées --- roux, vermeil, des
+reflets ambre, grenat, cuivre dansent.
+
+Il maintient ainsi la réalité soulevée. Il continue la chorégraphie des
+bras et...
+
+Il s\'arrête. Net !
+
+La réalité reprend sa place et lui aussi.
+
+Le silence.
+
+Il s'est à peine écoulé quelques secondes. Même le temps s'est tordu.
+
+xxsioo sourit et applaudit la démonstration pour rompre ce calme, un
+sourire en coin.
+
+Les étudiants sont eux encore à l'envers. Cette éternité à duré un
+instant.
+
+La [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) s'est
+faite surprendre au début du retroussement. Il lance un hochement de
+tête à son ami, qui signifie ''tu m'as eu'' et XeAr lui répond d'un
+autre sourire ; ''un partout''.
+
+L'hilarité de xxsioo s\'éteint.
+
+Il regarde l\'assistance encore étourdie. Autour d'eux, des étudiants
+flottent encore, hébétés, retournés.
+
+XeAr se penche et aide AgI, il lui tend la main pour ancrer sa réalité.
+Elle serre fort les deux.
+
+- C'était... un
+  [Anémal](https://paoriiu.jiuuijh.fr/encyclopedie/#Anémal) ? »
+  Demande-t-elle, la voix rauque encore surprise.
+
+- Vous venez d'assister à un magnifique
+  [Anémal](https://paoriiu.jiuuijh.fr/encyclopedie/#Anémal). » Confirme
+  indirectement le professeur.
+
+L'assistance commence à se remettre.
+
+xxsioo reprend son cours.
+
+- Vous voyez la différence ! »
+
+Il continue en s'adressant à la classe, le ton ferme.
+
+- Chez les [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu)
+  il faudra beaucoup de travail pour en arriver là. Mais ça n'est pas
+  infaisable.
+
+> La preuve ! » En remerciant son ami d'un geste tendre.
+
+Il ajoute sincère ;
+
+- Il peut faire beaucoup mieux... rivaliser avec des
+  [Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) même... »
+  A voix basse et mélancolique.
+
+Un murmure d'admiration parcourut la salle.
+
+XeAr détourna les yeux. Il n'aimait pas ce regard qu'on posait sur lui.
+
+- Assez d'éloge, il y a d'autres sorciers tout aussi doués, ici même,
+  qui exercent et donnent des cours de qualité. » Ajoute xxsioo d'un ton
+  chaleureux.
+
+Il parcourt du regard la salle, tout le monde est revenu, et attentif.
+
+- Quand on y regarde de près, c'est élémentaire. » Il insiste.
+
+> C'est un enchaînement d'algorithmes d'[identités
+> remarquables](https://fr.wikipedia.org/wiki/Identit%C3%A9_remarquable)
+> entrelacées.
+>
+> Simple, facile, et poétique. Vous devriez y arriver avant la dernière
+> session d'examens ! » Lance-t-il plein d'encouragements.
+
+Le cours reprend son cours, sans bavardages.
+
+XeAr ne regarde plus xxsioo ni la classe. Il se tourne vers AgI.
+
+Elle écoute et boit avec assiduité, tout en observant la salle. Un peu
+agité, anxieuse ?
+
+Mais Xer est heureux, il aime son regard intéressé, curieuse, elle
+regarde partout dans l'amphithéâtre.
+
+Finalement il a bien fait de l'accompagner.
+
+Ce sourire vaut bien le désagrément de la « prise d'otage » par son ami
+et de cette démonstration.
+
+Il n'aime vraiment pas faire étalage de ce côté ''il est super doué'' ;
+ça le gêne toujours autant.
+
+Après le cours, xxsioo rejoint son ami dans un sourire d'excuse.
+
+- Alors, ça valait le coup, ce petit 'traquenard' ? » demande xxsioo à
+  XeAr, le ton moqueur.
+
+- Elle ne cligne même plus des yeux, » répond XeAr en désignant AgI.
+
+Elle est toujours absorbée par la salle, elle scrute tout, le mouvement
+des étudiants, leurs regards.
+
+- Merci. Et je crois que tu as gagné une nouvelle élève. » Ajoute-il.
+
+L'hémicycle se vide petite à petit... il ne reste plus qu'eux trois.
+
+AgI détendue, un mélange de joie et d'incrédulité rejoint la
+conversation.
+
+Ils discutent tous les trois de l'intégration d'AgI et xxsioo voyant
+l'heure du repas qui approcher, le leur fait remarquer.
 
 ----
 ## [RETOUR A L INDEX](Lecture.md)
