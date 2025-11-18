@@ -1,16 +1,18 @@
 ﻿### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## Alors c’est l’histoire d’un projet qui sort un peu de l'ordinaire.
-<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Presentation.2.Resume.png" width="85%" height="85%">
+<img src="images/Presentation.2.Resume.png" width="85%" height="85%">
 
 ----
 # LE PROJET
-1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
-1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler.](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
-1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)
-1. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.1.Longue.md)
-1. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md)
+1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
+1. ### [Présentation du projet en Résumé](Presentation.2.Resume.md)
+1. ### [Présentation version Longue du projet](Presentation.1.Longue.md)
+1. ### [La licence WTFPL](Licence.md)
 1. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
+---
+VERSION COURTE - SHORT VERSION + English Below 👇
 ---
 
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
@@ -59,6 +61,8 @@ Merci,
 
 > Et si tu veux la version longue avec plus de détail : > [il faut cliquer ici](Presentation.1.Longue.md) <
 ----
+----
+# ENGLISH PART
 ----
 # 🌎🌍🌏Hi,
 The idea is to release a text into the wild, freely available for free.

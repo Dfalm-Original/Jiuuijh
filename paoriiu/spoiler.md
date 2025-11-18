@@ -5,7 +5,9 @@
 
 ----
 # LE PROJET
-1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
+1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
+1. ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
+1. ### [Avertissement de lecture](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
 1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler.](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
 1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)
 1. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.1.Longue.md)
@@ -122,7 +124,7 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
 > 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
 > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
-> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/author/1555148436/dfalm
+> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
 ----
 

@@ -1,18 +1,22 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## **Objet : Proposition d'un projet de roman libre, gratuit et participatif** : *Jiuuijh*
-<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/affiche01_wide.webp" width="85%" height="85%">
+## **Topic : Proposal for a free, open, and participatory novel project** : *Jiuuijh*
+<img src="images/Jiuuijh-officielle.png" width="85%" height="85%">
 
 ----
 # LE PROJET
-1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
-1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler.](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
-1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)
-1. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.1.Longue.md)
-1. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md)
-1. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
+1. ### [Volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+1. ### Volet 2 : 🚧 EN COURS - Work In Progress 🚧
+1. ### Volet 3 : 🚧 EN COURS - Work In Progress 🚧
+1. ### Volet 4 : 🚧 EN COURS - Work In Progress 🚧
+1. ### Volet 5 : 🚧 EN COURS - Work In Progress 🚧
+1. ### Volet 6 : 🚧 EN COURS - Work In Progress 🚧
+1. ### [Présentation du projet en Résumé -- Project Summary](Presentation.2.Resume.md)
+1. ### [Présentation version Longue du projet -- Full Project Overview](Presentation.1.Longue.md)
+1. ### [La licence WTFPL -- The WTFPL License](Licence.md)
 ---
-### Le premier élément est la Langue : 
+### Le premier élément est la Langue : + English Below 👇
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
 To distinguish French from English I will use the following icons:<br>
 
@@ -34,14 +38,14 @@ Ici nous sommes sur la version « [CANON](https://fr.wikipedia.org/wiki/Canon_(f
 - Si tu connais pas ou que tu sais pas comment ça marche ou que tu as peur, pas de panique ;
 Il y a plein d'autres liens tu peux retrouver la liste ici 👉 https://paoriiu.jiuuijh.fr/liens/ <br>
 ### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
-> 👁 Le site web « rolling release » : https://paoriiu.jiuuijh.fr<br>
-> 👩🏽‍🏫 Un dépôt « J I T » sur Quora : https://paoriiujiuuijh.quora.com/<br>
-> 🔖 Version sur Substack : https://substack.com/@dfalm<br>
-> 📜 Il y a une version MarkDown sur Medium https://medium.com/@dfalm<br>
-> 💻 Il y a une version sur MINDS : https://www.minds.com/dfalm/<br>
-> 👩🏻‍💻 Version sur Somee : https://somee.social/Dfalm<br>
+> 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
+> 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
+> 🔖 Sur Substack : https://substack.com/@dfalm<br>
+> 📜 Sur Medium https://medium.com/@dfalm<br>
+> 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
+> 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
 > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
-> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/author/1555148436/dfalm<br>
+> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
 Et lien des 'RS' :<br>
 - Pour me joindre sur BlueSky je n’utilise pas l’autre réseau ; trop  N*zi à mon goût<br>
@@ -102,12 +106,14 @@ Le premier volet l'appelle ["p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Origi
 
 ----
 ----
+# ENGLISH PART
+----
 # - 🌎🌍🌏 Presentation of the "Jiuijh" project
 Here you are at the root of the project. You can start by reading the first part ["p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/tree/main/paoriiu): SPOILER 🫣 there are several parts
 
 ## SORRY ⚠️ There is not and there will not be a translated version of the *project* in English (from me)
 
-> however if you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](Licence.md).
+> however if you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md).
 
 #### So it's on GitHub: https://github.com/Dfalm-Original/jiuuijh
 
@@ -165,7 +171,7 @@ The goal is to keep it alive and evolving thanks to community contributions sinc
 # C - The WTFPL License
 ### I strongly encourage you to read the [WTFPL License](License.md). It's a "zero" license, but it's important that you read it to understand what it means. It's "more" than a "ZERO" license: public domain.
 
-#### SO: RTFM [license](Licence.md) 😉, thank you, you please me
+#### SO: RTFM [license](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md) 😉, thank you, you please me
 
 # D - ENCYCLOPEDIA
 

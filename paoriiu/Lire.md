@@ -1,12 +1,16 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## PREMIER VOLET :  *p’Aoriiu Jiuuijh*
-<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/affiche02.png" width="85%" height="85%">
+<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/affiche01_wide.webp" width="85%" height="85%">
 
+# [ \[ CLIQUE ICI ET BONNE LECTURE \] ](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
+# [ \[ CLICK HERE AND HAVE NICE READ \] ](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
 ----
 # LE PROJET
-1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
-1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler.](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
+1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
+1. ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
+1. ### [Avertissement de lecture](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
+1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
 1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)
 1. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.1.Longue.md)
 1. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md)
@@ -21,16 +25,16 @@
 
 ## ⚠️ There is not and there will not be a translated version of the *project* in English (from me)
 
-> however f you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](Licence.md).
+> however f you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md).
 ----
 # 🔵⚪️🔴  Présentation du projet « Jiuuijh »
 
 ## PETIT RAPPEL : 
-Si tu l'as pas déjà fait, je t'invite à lire le [READ-ME](README.md) pour prendre connaissance du projet, son but et la licence
-### [PRENDRE CONNAISSANCE DU PROJET](README.md)
+Si tu l'as pas déjà fait, je t'invite à lire le [READ-ME](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md) pour prendre connaissance du projet, son but et la licence
+### [PRENDRE CONNAISSANCE DU PROJET](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 ----
 
-# [ \[ CLIQUE ICI ET BONNE LECTURE \] ](Lecture.md)
+# [ \[ CLIQUE ICI ET BONNE LECTURE \] ](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
 
 Avant de lire je tiens à rappeler que tu as le droit de pas aimer,
 tu as même le droit de dire que c’est de la merde.
@@ -60,17 +64,17 @@ NOTE ; j’ai écrit cette dernière précision en aparté dans les années 200
 
 Merci de ton indulgence. 🙏
 
-# [ \[ SINON CLIQUE ICI ET BONNE LECTURE À TOI \] ](Lecture.md)
+# [ \[ SINON CLIQUE ICI ET BONNE LECTURE À TOI \] ](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
 
 ----
 # 🌎🌍🌏 Presentation of the "Jiuijh" project
 
 ## REMINDER:
-If you haven't already, I invite you to read the [READ-ME](README.md) to learn about the project, its purpose, and the license.
-### [READ-ME THE PROJECT](README.md)
+If you haven't already, I invite you to read the [READ-ME](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md) to learn about the project, its purpose, and the license.
+### [READ-ME THE PROJECT](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 ----
 
-# [ \[ CLICK HERE AND HAVE NICE READ \] ](Lecture.md)
+# [ \[ CLICK HERE AND HAVE NICE READ \] ](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
 
 Before reading, I want to remind you that you have the right not to like it,
 you even have the right to say it's crap.
@@ -101,7 +105,7 @@ NOTE: I wrote this last clarification as an aside in the 2000s, at a time when w
 
 Thank you for your indulgence. 🙏
 
-# [ \[ OTHERWISE CLICK HERE AND ENJOY YOUR READING \] ](Lecture.md)
+# [ \[ OTHERWISE CLICK HERE AND ENJOY YOUR READING \] ](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
 
 ----
 ----

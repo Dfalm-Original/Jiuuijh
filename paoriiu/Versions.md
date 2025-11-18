@@ -5,12 +5,20 @@
 <hr>
 
 ----
+### [LIRE la version courate du  volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
 ----
+Et tu peux lire ici  ⏬
 
-# Merci et bonne lecture,
-
+----
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
+## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+1) - ANCIENNE VERSION V0.003
+1) - ANCIENNE VERSION V0.002
+1) - ANCIENNE VERSION V0.001
+## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+----
+----
 Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
 ### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
@@ -21,29 +29,6 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
 > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
 > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
-
-# Et tu peux cliquer en dessous pour lire ici  ⏬
-
-- [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
-- [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
-- [ ... sort en quelques coups ... ](04_Chapitre04.md)
-- [ ... pénètre le premier dans ... ](06_Chapitre06.md)
-- [ ... se réveille avec  ... ](08_Chapitre08.md)
-- [ ... *Il sort de la ... ](10_Chapitre10.md)
-- [ ... s’agrippe quand  ... ](12_Chapitre12.md)
-- [ ... quitte ses quartiers ... ](14_Chapitre14.md)
-- [ ... chez lui, il a dans la main ... ](16_Chapitre16.md)
-- [ ... quitte le labo après ... ](18_Chapitre18.md)
-- [ ... se fait éjecter.](20_Chapitre20.md)
-- [ Elle est apparue.](22_Chapitre22.md)
-- [ ... apparait, il se tient debout devant ... ](24_Chapitre24.md)
-- [ ... C’est ainsi que ce fini sur ce paysage cette aventure. » ](26_FIN.md)
-
-- [**Lexique**](a-pAoriiu-jiuuijh_Volet1-lexique.md)
-
-## 🚧🚧 EN PREPARATION ; "LIRE EN UNE SEULE FOIS" 🚧🚧
-
-----
 ----
 
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>

@@ -1,14 +1,17 @@
-# <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="64"></a><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="64"></a> <u>p’Aoriiu Jiuuijh</u>
+# <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="64"></a><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="64"></a> <u>LICENCE</u>
+
+<img src="images/BLUE-CAT_Logo-WTFPL.jpg" width="85%" height="85%">
 
 ----
 # LE PROJET
-1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
-1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler.](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
-1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)
-1. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.1.Longue.md)
-1. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md)
+1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
+1. ### [Présentation du projet en Résumé](Presentation.2.Resume.md)
+1. ### [Présentation version Longue du projet](Presentation.1.Longue.md)
+1. ### [La licence WTFPL](Licence.md)
 1. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
 ---
+# LICENCE + English Below 👇
 
 <h3>🔵⚪️🔴<b>Quand_une_idee_est_bonne_elle_appartient_a_tout_le_monde</b>.<i><a href="https://fr.wikipedia.org/wiki/WTFPL" target="_blank">licence</a></i>
 </h1>
@@ -108,7 +111,10 @@ ou pas.<br>
 
 https://fr.wikipedia.org/wiki/WTFPL
 ---
-
+----
+----
+# ENGLISH PART
+----
                           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                                  Version 2, December 2004
     

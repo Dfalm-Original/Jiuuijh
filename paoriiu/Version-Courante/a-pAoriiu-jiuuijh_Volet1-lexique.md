@@ -20,7 +20,7 @@ Et tu peux lire ici  ⏬
 ----
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
-## ↩️ [RETOUR A L INDEX](Lecture.md)
+## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 - [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
 - [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
 - [ ... sort en quelques coups ... ](04_Chapitre04.md)
@@ -105,7 +105,7 @@ Le point d'ironie (⸮ ou ؟) \-\-- (**⸮** [point d'ironie](https://fr.wikiped
 [https://fr.wikipedia.org/wiki/Point_d%27ironie](https://fr.wikipedia.org/wiki/Point_d%27ironie)
 
 ----
-## [RETOUR A L INDEX](Lecture.md)
+## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 ----
 ----
 
