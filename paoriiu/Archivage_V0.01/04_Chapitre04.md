@@ -19,9 +19,9 @@ Et tu peux lire ici  ⏬
 
 ----
 ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
-### [Télécharger le fichier ODT](a-pAoriiu-jiuuijh_Volet1_Version.0.1.odt)  -- Version V0.1 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/odt.png" width="85%" height="85%">
+### [Télécharger le fichier ODT](a-pAoriiu-jiuuijh_Volet1_Version.0.1.odt)  -- Version V0.1 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/odt.png">
 
-#### [Télécharger toutes les versions .z7](a-pAoriiu-jiuuijh_Volet1_Version.0.1+Accessible+Luciole+PDF+livretA5.7z)  -- Version V0.1 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/pdf.png" width="85%" height="85%">
+#### [Télécharger toutes les versions .z7](a-pAoriiu-jiuuijh_Volet1_Version.0.1+Accessible+Luciole+PDF+livretA5.7z)  -- Version V0.1 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/pdf.png">
 
 <u>Version Accéssibilité</u> : <br>Police de caractères "Accessible" / OpenDyslexic = pour les Dyslexiques.<br>Police de caractères "Luciole" pour les malvoyants.<br>Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
 
