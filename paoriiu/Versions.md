@@ -13,9 +13,8 @@ Et tu peux lire ici  ⏬
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
-1) - ANCIENNE VERSION V0.003
-1) - ANCIENNE VERSION V0.002
-1) - ANCIENNE VERSION V0.001
+1) - [ANCIENNE VERSION V0.2 ~V0.2_2025.09.28 ](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Archivage_V0.02/)
+1) - [ANCIENNE VERSION V0.1 ~V0.1_2025.05.28 ](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Archivage_V0.01/)
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 ----
 ----
