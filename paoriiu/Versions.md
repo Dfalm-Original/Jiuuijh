@@ -7,6 +7,8 @@
 ----
 ### [LIRE la version courate du  volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
 ----
+## [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
+----
 Et tu peux lire ici  ⏬
 
 ----

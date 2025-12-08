@@ -7,6 +7,7 @@
 # LE PROJET
 1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
 1. ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
+1. ### [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
 1. ### [Avertissement de lecture](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
 1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler.](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
 1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)

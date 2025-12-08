@@ -1,7 +1,7 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## PREMIER VOLET :  *p’Aoriiu Jiuuijh* -- Version V0.2
-<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/a-pAoriiu-jiuuijh_Volet1-lexique.png" width="85%" height="85%">
+<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Mini-Histoires.png" width="85%" height="85%">
 
 ----
 Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
@@ -18,38 +18,17 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 Et tu peux lire ici  ⏬
 
 ----
-### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
-### [Télécharger le fichier ODT](a-pAoriiu-jiuuijh_Volet1_Version.0.2.odt)  -- Version V0.2 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/odt.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.2.odt)
+## [Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
+Sans ordre spécifique ;
+1) [Mini histoire ; Teaser](000_Mini-Histoire_Teaser_V0.1.md)
+1) SUIVANTE
+1) AUTRE
 
-#### [Télécharger toutes les versions .z7](a-pAoriiu-jiuuijh_Volet1_Version.0.2-Accessible-Luciole-PDF-livretA5.7z)  -- Version V0.2 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/pdf.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.2-Accessible-Luciole-PDF-livretA5.7z)
-
-<u>Version Accéssibilité</u> : <br>Police de caractères "Accessible" / OpenDyslexic = pour les Dyslexiques.<br>Police de caractères "Luciole" pour les malvoyants.<br>Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
-
-----
-## [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
 ----
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
-[Version intégrale](a-pAoriiu-jiuuijh_Volet1_Version.0.2.md)  -- Version V0.2
-- [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
-- [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
-- [ ... sort en quelques coups ... ](04_Chapitre04.md)
-- [ ... pénètre le premier dans ... ](06_Chapitre06.md)
-- [ ... se réveille avec  ... ](08_Chapitre08.md)
-- [ ... *Il sort de la ... ](10_Chapitre10.md)
-- [ ... arrive à son « labo » ... ](12_Chapitre12.md)
-- [ ... lance un regard circulaire ... ](14_Chapitre14.md)
-- [ ... s’agrippe quand  ... ](16_Chapitre16.md)
-- [ ... quitte ses quartiers ... ](18_Chapitre18.md)
-- [ ... chez lui, il a dans la main ... ](20_Chapitre20.md)
-- [ ... quitte le labo après ... ](22_Chapitre22.md)
-- [ ... se fait éjecter.](24_Chapitre24.md)
-- [ Elle est apparue.](26_Chapitre26.md)
-- [ ... apparait, il se tient debout devant ... ](28_Chapitre28.md)
-- [ ... C’est ainsi que ce fini sur ce paysage cette aventure. » ](30_FIN.md)
-
-### [**Lexique**](a-pAoriiu-jiuuijh_Volet1-lexique.md)
+### [**Lexique**](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/a-pAoriiu-jiuuijh_Volet1-lexique.md)
 
 ---
 
