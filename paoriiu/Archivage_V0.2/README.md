@@ -17,6 +17,7 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 
 Et tu peux lire ici  ⏬
 
+
 ----
 ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
 ### [Télécharger le fichier ODT](a-pAoriiu-jiuuijh_Volet1_Version.0.2.odt)  -- Version V0.2 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/odt.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.2.odt)
@@ -25,6 +26,8 @@ Et tu peux lire ici  ⏬
 
 <u>Version Accéssibilité</u> : <br>Police de caractères "Accessible" / OpenDyslexic = pour les Dyslexiques.<br>Police de caractères "Luciole" pour les malvoyants.<br>Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
 
+----
+## [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
 ----
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 

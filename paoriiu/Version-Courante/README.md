@@ -17,6 +17,7 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 
 Et tu peux lire ici  ⏬
 
+
 ----
 ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
 ### [Télécharger le fichier ODT](a-pAoriiu-jiuuijh_Volet1_Version.0.2.odt)  -- Version V0.2 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/odt.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.2.odt)

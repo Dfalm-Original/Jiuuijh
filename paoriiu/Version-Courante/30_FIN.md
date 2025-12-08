@@ -26,6 +26,8 @@ Et tu peux lire ici  ⏬
 <u>Version Accéssibilité</u> : <br>Police de caractères "Accessible" / OpenDyslexic = pour les Dyslexiques.<br>Police de caractères "Luciole" pour les malvoyants.<br>Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
 
 ----
+## [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
+----
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
