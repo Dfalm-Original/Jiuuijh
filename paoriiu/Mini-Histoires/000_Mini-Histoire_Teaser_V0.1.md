@@ -29,9 +29,9 @@ Rappel : les mots avec une couleur différente c’est des liens cliquables. �
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 ### [**Lexique**](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/a-pAoriiu-jiuuijh_Volet1-lexique.md)
-
+### [<< Lire le teaser sur le site web >>](https://paoriiu.jiuuijh.fr/mini-histoire-teaser/)
 ---
-# **« *Mini histoire ; Teaser* »**
+# « *Mini histoire ; Teaser* »
 
 Bili bilip, bili bilip... Les pensées embrumées, Rémi émerge et lève la main, le réveil s'éteint. Puis il laisse tomber son bras à côté de lui : « Ha ! »
 
@@ -123,9 +123,9 @@ Ah oui ;
 
 « *Une mini histoire ; un teaser...*
 
-**Grain de vie**
+## Grain de vie
 
-XeAr expédie son déjeuner, il est tout seul à la [caharap'ronden](https://paoriiu.jiuuijh.fr/encyclopedie/#Caharapronden) familiale, il se dépêche d'aller voir ses grands-parents. (*prononcer Siharr*) Rapidement il débarrasse la table et sort en frétillant. Leur [caharap'ronden](https://paoriiu.jiuuijh.fr/encyclopedie/#Caharapronden) est nichée dans les creux d'une colline, bien lovée à l'abri, dans les roches bleues. Son regard parcourt son village, les autres habitations sont rondes, comme les carapaces des tortues, façonnées pour épouser les marées mais pas pour les braver. Ses parents, comme tous les villageois les dessinent avec des formes protectrices et fluides. Du bas du foyer familial, ses yeux se lèvent en direction de sa pièce qu'il a tissés lui-même --- avec des bio-polymères filamenteux. Tout le monde utilise les matériaux organiques locaux. D'ailleurs il doit foncer à la forêts [kelps](https://fr.wikipedia.org/wiki/Kelp) génétiquement modifiés --- rejoindre ses amis tout à l'heure. Elle est vraiment jolie leur maison, d'un aspect naturel ; vivante, changeante --- jamais figée. Toutes les demeures sont cultivées par ses habitants, XeAr a beaucoup aimé y participer. D'un coup de rein il se soulève et commence à donner de grand coup de palmes. Il ondule et sent sur sa peau l'eau fraîche matinale qui glisse le long de son corps. Il aime cette douce odeur orientale et épicée dans les courants.
+XeAr expédie son déjeuner, il est tout seul à la [caharap'ronden](https://paoriiu.jiuuijh.fr/encyclopedie/#Caharapronden) familiale, il se dépêche d'aller voir ses grands-parents. (*prononcer Siharr*) Rapidement il débarrasse la table et sort en frétillant. Leur [caharap'ronden](https://paoriiu.jiuuijh.fr/encyclopedie/#Caharapronden) est nichée dans les creux d'une colline, bien lovée à l'abri, dans les roches bleues. Son regard parcourt son village, les autres habitations sont rondes, comme les carapaces des tortues, façonnées pour épouser les marées mais pas pour les braver. Ses parents, comme tous les villageois les dessinent avec des formes protectrices et fluides. Du bas du foyer familial, ses yeux se lèvent en direction de sa pièce qu'il a tissés lui-même --- avec des bio-polymères filamenteux. Tout le monde utilise les matériaux organiques locaux. D'ailleurs il doit foncer à la forêts de [kelps](https://fr.wikipedia.org/wiki/Kelp) génétiquement modifiés --- rejoindre ses amis tout à l'heure. Elle est vraiment jolie leur maison, d'un aspect naturel ; vivante, changeante --- jamais figée. Toutes les demeures sont cultivées par ses habitants, XeAr a beaucoup aimé y participer. D'un coup de rein il se soulève et commence à donner de grand coup de palmes. Il ondule et sent sur sa peau l'eau fraîche matinale qui glisse le long de son corps. Il aime cette douce odeur orientale et épicée dans les courants.
 
 Finalement il arrive, après avoir nagé plusieurs minutes, il aperçoit l'[amani-Habs](https://paoriiu.jiuuijh.fr/encyclopedie/#Amani-Hab) dans laquelle sa grand-mère a déployé son infirmerie. Au rez-de-chaussée son grand-père squatte un atelier de recherche.
 
@@ -133,15 +133,13 @@ XeAr passe toujours par là en premier.
 
 - Coucou ! » Lance-t-il en arrivant.
 
-Ils s'enlacent tous les deux.
+Ils s’enlacent tous les deux. Le grand-père se tourne vers l’établi derrière, il y dépose l’[arpon](https://fr.wiktionary.org/wiki/arpon) qu’il tenait à la main et se retourne en dévoilant :
 
 - Tiens regarde. » Et il lui montre une [*coralaustatue*](https://paoriiu.jiuuijh.fr/encyclopedie/#Coralaustatue) qu'il vient de faire pousser.
 
 - Elle est super belle ta [mégaptera](https://fr.wikipedia.org/wiki/Megaptera) comment elle s'appelle ? » Lui demande curieux XeAr.
 
-- Hé hé, je ne lui ai pas encore donné de nom, je t'attendais.
-
-> Je l'ai observé la semaine dernière, elle croisait à une dizaine de [lieues](https://fr.wikipedia.org/wiki/Lieue) d'ici. Une partie du troupeau est resté avec elle, la nurserie. »
+- Hé hé, je ne lui ai pas encore donné de nom, je t'attendais. <br> Je l'ai observé la semaine dernière, elle croisait à une dizaine de [lieues](https://fr.wikipedia.org/wiki/Lieue) d'ici. Une partie du troupeau est resté avec elle, la nurserie. »
 
 - Oh ! Merci. » D'un air impressionné.
 
@@ -183,7 +181,7 @@ Sa grand-mère pivote pour continuer et elle ajoute :
 
 - Au fait comment tu t'appelles ? » Lui demande XeAr.
 
-- xxsioo et toi ? » (*prononcer sihö*)
+- xxsioo et toi ? » Toujours cette voix apaisante et douce. (*prononcer sihö*)
 
 - XeAr. »
 
@@ -221,7 +219,7 @@ Il attend patiemment près de sa grand-mère et de cet ami, qui est un inconnu p
 
 - Vous faites attention ! Sa mue. » Insiste la partie médecin de la grand-mère.
 
-- Mais oui, tu nous connais ! Et en plus il y aura Dergfe avec NaOH et les triplet [berdaches](https://fr.wikipedia.org/wiki/Bispiritualité). » Approuve XeAr. (*prononcer dèrgue fée et Naor*)
+- Mais oui, tu nous connais ! Et en plus il y aura Dergfe avec NaOH et les triplets [berdaches](https://fr.wikipedia.org/wiki/Bispiritualité). » Approuve XeAr. (*prononcer dèrgue fée et Naor*)
 
 - Hop hop, Tout doux les alevins ! Il y aura ta sœur ? » Sur un ton franchement inquiet.
 
@@ -315,9 +313,31 @@ Les cigales chantent, le soleil est bien haut, Rémi n'a pas vu le temps passer.
 
 - Oui bien. Je vous aime. » Dit-il en les enlaçant toutes les deux.
 
-Peut-être à suivre...
+### Peut-être à suivre...
 
 ----
+----
+Merci d'avoir lu jusqu'ici, cette petite présentation
+
+Il s'agit d'un court texte ; "teaser" assez explicite pour présenter rapidement le projet, mon style et introduire, un peu, l'histoire ainsi que l'univers dans lequel tu peux plonger si tu souhaites en découvrir plus.
+
+C'est une "mini histoire" qui n'a pas de lien direct avec l'histoire principale, afin d'avoir un encrage émmotionnel j'ai "réutiliser" des personnages de l'histoire principale... mais...
+
+Pour ne pas te spoiler ici, je fais une 'simple' présentation de l'univers et de quelques personnages, comme je viens de l'écrire pour ancrer ou encrer l'émmotion j'y présente des personnages... pendant leur petite enfance, cela se passe environ une douzaine d'année "avant".
+
+J'aurai pu écrire cette même histoire simplement en changeant les prénoms et du coup il ne s'agissait plus des personnages de l'histoire principale, mais j'ai estimé que c'était important de crée ce lien affectif dans ce teaser, si tu veux me faire le plaisir de continuer à lire.
+
+Bien sûr dans ce "teaser" tu vas retrouver les carractéristiques "bande annonce" avec des éléments très communs aux deux ; c'est volontaire. Tu vas retrouver du "copier/coller"... mais pas tout à fait, mais presque, comme une impression de "déjà vu" et un peu différent quand même : c'est que mon teaser est bien réussi.
+
+J'ai prévu d'écrire d'autres petites histoires à des époques différentes, mais cette fois ci avec d'autres personnages, et même dans d'autre lieux.
+Mais toujous dans ce même univers, afin de développer certains éléments du lore qui parfois peuvent être juste "vu".
+
+Voilà, et encore merci.
+
+Dfalm.
+
+----
+### [<< Lire le teaser sur le site web >>](https://paoriiu.jiuuijh.fr/mini-histoire-teaser/)
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 ----
 ----
