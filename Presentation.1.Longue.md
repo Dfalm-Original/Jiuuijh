@@ -7,9 +7,9 @@
 # LE PROJET
 1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
-1. ### [Présentation du projet en Résumé](Presentation.2.Resume.md)
-1. ### [Présentation version Longue du projet](Presentation.1.Longue.md)
-1. ### [La licence WTFPL](Licence.md)
+1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.2.Resume.md)
+1. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.1.Longue.md)
+1. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Licence.md)
 1. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
 ---
 VERSION LONGUE - LONG VERSION + English Below 👇
@@ -30,12 +30,20 @@ To distinguish French from English I will use the following icons:<br>
 # 🔵⚪️🔴 Bonjour,
 
 Présentation du projet pour commencer je t’invite à lire la [licence WTFPL](https://fr.wikipedia.org/wiki/WTFPL) ; en gros c’est une licence « [zéro ](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)», je vais y revenir.
-« ***Le présent document a pour but de te présenter un projet d'écriture singulier : la création et le partage d'un roman sous licence libre, accessible gratuitement et ouvert à ta participation.*** » ; voilà pour la présentation pompeuse.
+
+ « ***Le présent document a pour but de te présenter un projet d'écriture singulier : la création et le partage d'un roman sous licence libre, accessible gratuitement et ouvert à ta participation.*** » ; voilà pour la présentation pompeuse.
 
 > Mais si tu veux juste une version résumé ou si tu as la flemme ( ou les deux ) :  > [Tu peux cliquer ici](Presentation.2.Resume.md) <  
 
 J’ai commencé à écrire vers 1997 et formalisé entre 2002 et 2004, ce projet a toujours eu pour vocation le partage libre et gratuit.
 Avec l'émergence de plateformes collaboratives telles que [GitHub](https://github.com/Dfalm-Original/jiuuijh) et [Quora](https://paoriiujiuuijh.quora.com/), il est aujourd'hui possible de concrétiser pleinement cette vision.
+
+Il n’a jamais été question de ‘publier’ sur Papier, en partie pour son aspect [Ergodique](https://search.lilo.org/?q=lecture+ergodique), qui le rend difficile à publier et c’est une histoire [Non-Aristotélicienne](https://fr.wikipedia.org/wiki/S%C3%A9mantique_g%C3%A9n%C3%A9rale) (non-A : Ā)…
+
+J’ai l’ai conçue pour être lu comme un « livre dont vous êtes le héros », les liens – à cliquer – la sérendipité et la curiosité font partie du voyage de lecture, ainsi que sa structure.
+En plus il n’y a pas d’être humain, le texte est riche et exigeant, mon style est dense et complexe.
+Mais si c’est trop difficile à lire pour toi, n’hésite pas ; arrête de toi. Ce n’est pas grave.
+ALORS ? POURQUOI LIVRE CETTE HISTOIRE ?
 
 J’écris pour moi, si des gens aiment ; tant mieux.
 Je mets à ta disposition le fruit du travail d'écriture, mais également *el famoso* « processus créatif ».
@@ -46,8 +54,9 @@ Mon souhait est de partager ces différentes étapes et de rendre visible l'évo
 Au moment de cette présentation la version « finie » que je propose est la version 0.0.0.80 et des poussières. ( triple zéro )
 
 Je vais rebooter le versionning en 0.1 pour marquer le début de sa phase participative. 
-C’est ici que le projet prend toute sa valeur : **TOI** !
-Cette version (rebootée) 0.1 reste libre et respecte la [licence WTFPL](https://fr.wikipedia.org/wiki/WTFPL) ( je vais en parler ) mais surtout cette version devient « participative » : c’est-à-dire que toi aussi tu peux participer et proposer des trucs !
+C’est ici que le projet prend toute sa valeur : 
+# **TOI** !
+Cette version (rebootée) 0.1 reste libre et respecte la [licence WTFPL](https://fr.wikipedia.org/wiki/WTFPL) ( *je vais en parler* ) mais surtout cette version devient « participative » : c’est-à-dire que toi aussi tu peux participer et proposer des trucs !
 
 Tu n’es pas ‘simplement’ une lectrice ou un lecteur. 
 
@@ -120,6 +129,16 @@ To begin with, I invite you to read the [WTFPL license](https://fr.wikipedia.org
 
 I started writing around 1997 and formalized it between 2002 and 2004. This project has always been dedicated to free and open sharing. With the emergence of collaborative platforms such as [GitHub](https://github.com/Dfalm-Original/jiuuijh) and [Quora](https://paoriiujiuuijh.quora.com/), it is now possible to fully realize this vision.
 
+There was never any question of 'publishing' it in print, partly because of its [Ergodic](https://search.lilo.org/?q=lecture+ergodique) aspect, which makes it difficult to publish, and it's a [Non-Aristotelian](https://fr.wikipedia.org/wiki/S%C3%A9mantique_g%C3%A9n%C3%A9rale) story (non-A: Ā) …
+
+I designed it to be read like a "choose your own adventure" book; the links—to click—serendipity, and curiosity are all part of the reading journey, as is its structure.
+
+Besides, there are no human beings; the text is rich and demanding, my style is dense and complex.
+
+But if it's too difficult for you to read, don't hesitate; stop. It's not a big deal.
+
+SO? WHY BOOK THIS STORY?
+
 I write for myself; if people like it, so much the better.
 I am making available to you the fruits of my writing work, but also the *famous* "creative process."
 
@@ -128,8 +147,9 @@ My goal is to share these different stages and make the evolution of the text vi
 
 At the time of this presentation, the "finished" version I am offering is version 0.0.0.80 and counting. (triple zero)
 
-I will be rebooting the versioning to 0.1 to mark the beginning of its participatory phase. This is where the project really shines: **YOU**!
-This (rebooted) version 0.1 remains free and complies with the [WTFPL license](https://fr.wikipedia.org/wiki/WTFPL) (I'll talk about it), but above all, this version becomes "participatory": that is, you too can participate and suggest things!
+I will be rebooting the versioning to 0.1 to mark the beginning of its participatory phase. This is where the project really shines: 
+# **YOU**!
+This (rebooted) version 0.1 remains free and complies with the [WTFPL license](https://fr.wikipedia.org/wiki/WTFPL) (*I'll talk about it*), but above all, this version becomes "participatory": that is, you too can participate and suggest things!
 
 You're not 'just' a reader.
 

@@ -24,7 +24,9 @@ Et tu peux lire ici  ⏬
 
 #### [Télécharger toutes les versions .z7](a-pAoriiu-jiuuijh_Volet1_Version.0.2-Accessible-Luciole-PDF-livretA5.7z)  -- Version V0.2 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/pdf.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.2-Accessible-Luciole-PDF-livretA5.7z)
 
-<u>Version Accéssibilité</u> : <br>Police de caractères "Accessible" / OpenDyslexic = pour les Dyslexiques.<br>Police de caractères "Luciole" pour les malvoyants.<br>Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
+<u>Version Accéssibilité</u> : <br>Police de caractères "Accessible" / OpenDyslexic = pour les Dyslexiques. [ICI LE SITE + Télécharger la police de caractère](https://blog.atalan.fr/accessible-dfa-une-police-de-caractere-lisible/) <br>
+Police de caractères "Luciole" pour les malvoyants. [ICI LE SITE + Télécharger la police de caractère](https://luciole-vision.com/fr/index.html)<br>
+Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
 
 ----
 ## [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)

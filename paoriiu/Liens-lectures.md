@@ -4,10 +4,9 @@
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Liens-lectures.png" width="85%" height="85%">
 
 ----
-## [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
+# ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 ----
 Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
-### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://paoriiu.jiuuijh.fr/liens/)
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
 > 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
 > 🔖 Sur Substack : https://substack.com/@dfalm<br>

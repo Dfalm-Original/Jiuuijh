@@ -13,9 +13,9 @@
 1. ### Volet 5 : 🚧 EN COURS - Work In Progress 🚧
 1. ### Volet 6 : 🚧 EN COURS - Work In Progress 🚧
 1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
-1. ### [Présentation du projet en Résumé -- Project Summary](Presentation.2.Resume.md)
-1. ### [Présentation version Longue du projet -- Full Project Overview](Presentation.1.Longue.md)
-1. ### [La licence WTFPL -- The WTFPL License](Licence.md)
+1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.2.Resume.md)
+1. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.1.Longue.md)
+1. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Licence.md)
 ---
 ### Le premier élément est la Langue : + English Below 👇
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>

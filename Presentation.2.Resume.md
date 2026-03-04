@@ -7,9 +7,9 @@
 # LE PROJET
 1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
-1. ### [Présentation du projet en Résumé](Presentation.2.Resume.md)
-1. ### [Présentation version Longue du projet](Presentation.1.Longue.md)
-1. ### [La licence WTFPL](Licence.md)
+1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.2.Resume.md)
+1. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.1.Longue.md)
+1. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Licence.md)
 1. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
 ---
 VERSION COURTE - SHORT VERSION + English Below 👇
@@ -48,9 +48,9 @@ Et [la licence, la WTFPL](https://fr.wikipedia.org/wiki/WTFPL), elle est claire 
 
 Alors ça se passe sur GitHub ( c’est la version « CANON » ) :<br>
 
-- <https://github.com/Dfalm-Original/jiuuijh><br>Si tu connais pas ou que tu sais pas comment ça marche ou que tu as peur, pas de panique ;
-- Y a aussi un dépôt (une version « [J I T](https://fr.wikipedia.org/wiki/Juste-%C3%A0-temps_\(gestion\)) »)  sur Quora :<br> https://paoriiujiuuijh.quora.com/
-  - Et si tu connais pas Quora ou ça te fait peur ou que tu as « *juste *» envie de lire ; <br>
+- <https://github.com/Dfalm-Original/jiuuijh> <br> Si tu connais pas ou que tu sais pas comment ça marche ou que tu as peur, pas de panique ;
+- Y a aussi un dépôt (une version « [J I T](https://fr.wikipedia.org/wiki/Juste-%C3%A0-temps_\(gestion\)) ») Sur Substack : [https://substack.com/@dfalm](https://substack.com/@dfalm) ou  sur Quora : [https://paoriiujiuuijh.quora.com](https://paoriiujiuuijh.quora.com)<br>
+  - Et si tu connais pas Substatk ou Quora ou ça te fait peur ou que tu as « *juste* » envie de lire ; <br>
   - C’est possible avec un bon vieux site web, c’est la version "[rolling release](https://fr.wikipedia.org/wiki/Rolling_release)" :
     
     ### <https://paoriiu.jiuuijh.fr>

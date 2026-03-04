@@ -6,9 +6,9 @@
 # LE PROJET
 1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
-1. ### [Présentation du projet en Résumé](Presentation.2.Resume.md)
-1. ### [Présentation version Longue du projet](Presentation.1.Longue.md)
-1. ### [La licence WTFPL](Licence.md)
+1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.2.Resume.md)
+1. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.1.Longue.md)
+1. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Licence.md)
 1. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
 ---
 # LICENCE + English Below 👇
