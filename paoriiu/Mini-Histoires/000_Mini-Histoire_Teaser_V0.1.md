@@ -18,6 +18,16 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 Et tu peux lire ici  ⏬
 
 ----
+
+### [Télécharger le fichier ODT](000_Mini-Histoire_Teaser_V0.03.odt)  -- Version V0.2 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/odt.png">](000_Mini-Histoire_Teaser_V0.03.odt)
+
+#### [Télécharger toutes les versions .z7](Mini-Histoire_Teaser.7z)  -- Version V0.2 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/7z.png">](Mini-Histoire_Teaser.7z)
+
+<u>Version Accéssibilité</u> : <br>Police de caractères "Accessible" / OpenDyslexic = pour les Dyslexiques. [ICI LE SITE + Télécharger la police de caractère](https://blog.atalan.fr/accessible-dfa-une-police-de-caractere-lisible/) <br>
+Police de caractères "Luciole" pour les malvoyants. [ICI LE SITE + Télécharger la police de caractère](https://luciole-vision.com/fr/index.html)<br>
+Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
+
+----
 ## [Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
 Sans ordre spécifique ;
 1) [Mini histoire ; Teaser ](000_Mini-Histoire_Teaser_V0.1.md)
