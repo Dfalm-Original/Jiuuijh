@@ -564,7 +564,7 @@ Ses trois cents mètres paraissent bien dérisoire comparé à la taille des [Pi
 
 Leurs vêtements, dans une déclinaison chromatique de droite à gauche : Écarlate, Albâtre et Azur. Mains droites levées, doigts entrelacés --- ce même geste complice, signe d'union qu'ils affectionnent.
 
-C'était une belle journée, lorsqu'ils ont saisi cet instant. Il exhale l'eau réchauffée dans ses branchies.
+C'était une belle journée, lorsqu'ils ont saisi cet instant. Il exhale profondément l'eau réchauffée dans ses branchies.
 
 XeAr sourit alors que ses yeux se posent sur une statue de *giifa*, il ne la regarde pas vraiment, mais son cœur pense à elle. L'[Aquasphère](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquasphere) prend des senteur épicée et chaleureuse, la lumière augmente un peu, pour rendre l'ambiance un peu plus joyeuse; fetyW toujours aussi attentive, elle lui demande.
 

@@ -110,7 +110,7 @@ Ils sourient d'un sourire sincère.
 
 Rémi caresse le contour de la flèche, toujours cette même nostalgie.
 
-C'était une belle journée, quand ils ont pris la photo. Il la range doucement, avant de se mettre au boulot.
+C’était une belle journée, quand ils ont pris la photo. Il inspire profondément l’air frais puis la range doucement, avant de se mettre au boulot.
 
 Pour commencer, il prend son ordinateur, une petite boite en bois en acajou ciré, un bois très rouge avec peu de veines, qu'il l'aime beaucoup. La chaleur du bois l\'apaise immédiatement.
 
@@ -239,7 +239,6 @@ Rémi relit l'entête de ce qu'il était en train d'écrire...
 Ah oui;
 
 «*Il était une fois sous l'eau...*
-
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
 ----
