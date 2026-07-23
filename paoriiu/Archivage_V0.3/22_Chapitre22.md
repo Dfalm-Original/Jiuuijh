@@ -1,11 +1,15 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## PREMIER VOLET :  *p’Aoriiu Jiuuijh* -- Version V0.3
-<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/22_Chapitre22_V0.3.png" width="85%" height="85%">
+
+<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/22_Chapitre22_V0.2.png" width="85%" height="85%">
 
 ----
-Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
+
+Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
+
 ### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
+
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
 > 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
 > 🔖 Sur Substack : https://substack.com/@dfalm<br>
@@ -15,10 +19,12 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
 > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
-Et tu peux lire ici  ⏬
+Et tu peux lire ici  ⏬
 
 ----
+
 ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
+
 ### [Télécharger le fichier ODT](a-pAoriiu-jiuuijh_Volet1_Version.0.3.odt)  -- Version V0.3 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/odt.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.3.odt)
 
 #### [Télécharger toutes les versions .z7](a-pAoriiu-jiuuijh_Volet1_Version.0.3-Accessible-Luciole-PDF-livretA5.7z)  -- Version V0.3 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/pdf.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.3-Accessible-Luciole-PDF-livretA5.7z)
@@ -28,12 +34,17 @@ Police de caractères "Luciole" pour les malvoyants. [ICI LE SITE + Télécharge
 Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
 
 ----
+
 ## [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
+
 ----
+
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+
 [Version intégrale](a-pAoriiu-jiuuijh_Volet1_Version.0.3.md)  -- Version V0.3
+
 - [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
 - [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
 - [ ... sort en quelques coups ... ](04_Chapitre04.md)
@@ -54,13 +65,14 @@ Rappel : les mots avec une couleur différente c’est des liens cliquables. �
 ### [**Lexique**](a-pAoriiu-jiuuijh_Volet1-lexique.md)
 
 ---
+
 **Chapitre 22**
 
-XeAr quitte le labo et les bras de son ami après un salut chaleureux. Il s'en va en quelques coups de palmes. Il sent son sac à flanc qui pèse, plein d'outils pour atteindre l'objectif: une interface A°fet.
+XeAr quitte le labo et les bras de son ami après un salut chaleureux. Il s'en va en quelques coups de palmes. Il sent son sac à flanc qui pèse, plein d'outils pour atteindre l'objectif : une interface A°fet.
 
-Dans le silence de l\'eau, il murmure à sa [*Goéthéurge*](https://paoriiu.jiuuijh.fr/encyclopedie/#Goéthéurge):
+Dans le silence de l'eau, il murmure à sa [*Goéthéurge*](https://paoriiu.jiuuijh.fr/encyclopedie/#Goéthéurge) :
 
-- Chut... on y va, ma belle.» Elle change doucement de couleur pour s'assombrir.
+- Chut... on y va, ma belle. » Elle change doucement de couleur pour s'assombrir.
 
 *giifa* réagit sous la caresse et déploie sa capacité [mimesisquatique](https://paoriiu.jiuuijh.fr/encyclopedie/#Mimesisquatique) en modifiant sa peau.
 
@@ -68,9 +80,9 @@ Son corps ondule, change de texture et commence à émettre des motifs lumineux.
 
 Ses [chromatophores](https://fr.wikipedia.org/wiki/Chromatophore) palpitent, les cellules pivotent, les motifs s'enroulent en spirales mauves.
 
-Des pigments violets de plus en plus profond apparaissentdans un [violumine](https://paoriiu.jiuuijh.fr/encyclopedie/#Violumine) intense.
+Des pigments violets de plus en plus profond apparaissent dans un [violumine](https://paoriiu.jiuuijh.fr/encyclopedie/#Violumine) intense.
 
-Ce violet est si dense qu\'il semble avaler la lumière, fusionnant leur silhouette avec l'ombre.
+Ce violet est si dense qu'il semble avaler la lumière, fusionnant leur silhouette avec l'ombre.
 
 NaHO, resté sur le seuil a du mal à les voir maintenant tellement le violet est profond, il émet sa propre \"lumière noire\".
 
@@ -84,7 +96,7 @@ XeAr fonce à travers les couloirs dans la direction que lui a indiqué son ami.
 
 Les courants des couloirs lui glissent sur les flancs. La nuit aquatique respire autour d'eux.
 
-Il n'entend personne, mais la tension de la mission pèse dans l\'eau ambiante. Elle lui semble plus dense, chargée par l\'enjeu, elle vibre d'une tension sourde. Ils continuent de nager à travers la cité.
+Il n'entend personne, mais la tension de la mission pèse dans l'eau ambiante. Elle lui semble plus dense, chargée par l'enjeu, elle vibre d'une tension sourde. Ils continuent de nager à travers la cité.
 
 Faisant attention à chaque mouvement.
 
@@ -96,7 +108,7 @@ Soudain, une lueur. Une présence.
 
 Ils se réfugient dans un renfoncement.
 
-D'une danse des doigts il dessine un joli [aquaglyphe](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquaglyphe) et les globes *giifa* s'éclaircissent. Ses yeux s\'allument d\'une clarté soudaine, instantanément elle répond. Sa peau épouse aussitôt la teinte du mur et imite le relief granuleux de la paroi.
+D'une danse des doigts il dessine un joli [aquaglyphe](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquaglyphe) et les globes *giifa* s'éclaircissent. Ses yeux s'allument d'une clarté soudaine, instantanément elle répond. Sa peau épouse aussitôt la teinte du mur et imite le relief granuleux de la paroi.
 
 Ils se fondent tous deux dans le [racoin](https://www.cnrtl.fr/lexicographie/racoin), deux ombres, deux battements, [quatre cœurs](https://fr.wikipedia.org/wiki/Pieuvre#Biologie) suspendus.
 
@@ -108,17 +120,17 @@ Un moment.
 
 Encore...
 
-L\'odeur de l\'[Aquasphère](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquasphere) est lourde, mais ils repartent dès que possible.
+L'odeur de l'[Aquasphère](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquasphere) est lourde, mais ils repartent dès que possible.
 
 Ils vérifient trois fois avant de se remettre en route.
 
 Le sol monte, leur chemin grimpe et XeAr doit ralentir. Les courants dansent autour de lui.
 
-- On est arrivé à destination.» Murmure Xear, en caressant sa [domino](https://www.cnrtl.fr/definition/domino).
+- On est arrivé à destination. » Murmure Xear, en caressant sa [domino](https://www.cnrtl.fr/definition/domino).
 
 *giifa* ondule et frémis, pleine d'impatience, elle sait, elle sent ce qu'ils vont faire.
 
-Devant lui, un technicien d'[*escalresses*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) va dans la même direction. Facilement reconnaissable à ses couleurs [émeraude](https://encycolorpedia.fr/search?q=Vert+émeraude), il pousse un [taujh'tu](https://paoriiu.jiuuijh.fr/encyclopedie/#Taujh-tu) d'entretien. (*Prononcer tortue*)
+Devant lui, un technicien d'[*escalresses*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) va dans la même direction. Facilement reconnaissable à ses couleurs [émeraude](https://encycolorpedia.fr/search?q=Vert+émeraude), il pousse un [taujh'tu](https://paoriiu.jiuuijh.fr/encyclopedie/#Taujh-tu) d'entretien. (*prononcer tortue* / \[tɔʁty\])
 
 XeAr reste à une distance prudente.
 
@@ -126,11 +138,11 @@ Le gros chariot container, de la même couleur contient tout ce qu'il faut pour 
 
 XeAr lève les yeux. Une corniche.
 
-Il s'y glisse, silencieux comme un souffle, tapis au plafond, retenant l\'eau dans ses branchies.
+Il s'y glisse, silencieux comme un souffle, tapis au plafond, retenant l'eau dans ses branchies.
 
 Le technicien arrive devant l'immense [périanthe](https://fr.wikipedia.org/wiki/Périanthe) d'un portail où un autre [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) est en faction.
 
-Le garde est impressionnant: uniforme [saphir](https://fr.wikipedia.org/wiki/Bleu_saphir) renforcé, des palmes de chasse et sérieusement armé.
+Le garde est impressionnant : uniforme [saphir](https://fr.wikipedia.org/wiki/Bleu_saphir) renforcé, des palmes de chasse et sérieusement armé.
 
 Il a son flanc gauche un [arpon](https://fr.wiktionary.org/wiki/arpon#fr) au [fourreau](https://fr.wikipedia.org/wiki/Fourreau) et un [harpon](https://fr.wikipedia.org/wiki/Harpon) en bandoulière dans le dos, pointe vers le sol.
 
@@ -140,7 +152,7 @@ Il le tend.
 
 Le garde le prend, et l'approche de l'[analyseur](https://paoriiu.jiuuijh.fr/encyclopedie/#Analyseur), puis il fait signe au technicien d'avancer.
 
-Aussitôt une grande méduse ---[cuisse de nymphe](https://fr.wikipedia.org/wiki/Cuisse_de_Nymphe_émue)et [céleste](https://encycolorpedia.fr/search?q=céleste) --- lance ses longs tentacules fins comme des fils d'argent. La sentinelle descend, se dirige au-dessus de sa proie et commence à l'entourer.
+Aussitôt une grande méduse --- [cuisse de nymphe](https://fr.wikipedia.org/wiki/Cuisse_de_Nymphe_émue) et [céleste](https://encycolorpedia.fr/search?q=céleste) --- lance ses longs tentacules fins comme des fils d'argent. La sentinelle descend, se dirige au-dessus de sa proie et commence à l'entourer.
 
 Le [nautilon](https://paoriiu.jiuuijh.fr/encyclopedie/#Nautilon) se déploie pour l'envelopper totalement puis... disparaît.
 
@@ -148,7 +160,7 @@ XeAr frissonne en silence sous les pulsations de *giifa*.
 
 Un souffle d'électricité crépite dans l'eau.
 
-L\'analyse est finie.
+L'analyse est finie.
 
 Le garde hoche la tête et rend l'[identifieur](https://paoriiu.jiuuijh.fr/encyclopedie/#Identifieur), la [corole](https://fr.wikipedia.org/wiki/Corolle) et le [calice](https://fr.wikipedia.org/wiki/Calice_(botanique)) du sas s'éclosent.
 
@@ -162,9 +174,9 @@ Au creux de sa main, la lumière douce onirique apaise et dissipe le stress de s
 
 Une légère bioluminescence parcourt les émotions de sa compagne qui sort de sa torpeur.
 
-Maintenant qu'elle est réconfortée et l'esprit ouvert, complètement sortie de son sommeil; ''on peut y aller'', comme une pensée unique.
+Maintenant qu'elle est réconfortée et l'esprit ouvert, complètement sortie de son sommeil ; ''on peut y aller'', comme une pensée unique.
 
-Il se laisse choir tout en lançant une nouvelle incantation qui rend l\'eau plus douce et agréable à filtrer.
+Il se laisse choir tout en lançant une nouvelle incantation qui rend l'eau plus douce et agréable à filtrer.
 
 L'[Ondrys](https://paoriiu.jiuuijh.fr/encyclopedie/#Ondrys) procure un sentiment de flottement serein.
 
@@ -180,19 +192,19 @@ Dans son salut, il dissimule le script magique d'un [Hydroglyphe](https://paorii
 
 Il s'approche tout en finissant de signer le sort du bout des doigts.
 
-- Excusez-moi, je suis son apprenti\...» S'exclame XeAr et dans sa voix se mêle à un [Echo-Comp](https://paoriiu.jiuuijh.fr/encyclopedie/#Echo-Comp).
+- Excusez-moi, je suis son apprenti... » S'exclame XeAr et dans sa voix se mêle à un [Echo-Comp](https://paoriiu.jiuuijh.fr/encyclopedie/#Echo-Comp).
 
-Il désigne le technicien, pendant que les des fragments du sortilège pénètrent sa cible et commencent à tresser une harmonie familière. XeAr vient de projeter dans l\'esprit du garde un tissu de souvenirs réconfortants et factices.
+Il désigne le technicien, pendant que les des fragments du sortilège pénètrent sa cible et commencent à tresser une harmonie familière. XeAr vient de projeter dans l'esprit du garde un tissu de souvenirs réconfortants et factices.
 
 L'enchantement glisse et commence à entrelacer la vérité et le confort de l'illusion.
 
 L'eau vibre, tiède, XeAr masque la magie subtile par son stress réel.
 
-Il l'amplifie et le détourne à son usage:
+Il l'amplifie et le détourne à son usage :
 
-- Je suis en retard, si je ne rejoins pas mon référent...» XeAr laisse les points de suspensions volontairement, pour suggérer les ennuis qu'il pourrait avoir s'il était retenu.
+- Je suis en retard, si je ne rejoins pas mon référent... » XeAr laisse les points de suspensions volontairement, pour suggérer les ennuis qu'il pourrait avoir s'il était retenu.
 
-L'algorithme du charme tricote des résidus mnésiques, projetant des scènes, des sensations; agréables, mais temporaires, il manipule la perception de la réalité.
+L'algorithme du charme tricote des résidus mnésiques, projetant des scènes, des sensations ; agréables, mais temporaires, il manipule la perception de la réalité.
 
 Le garde, perplexe, hésite, ses yeux se voilent. Ses branchies ralentissent. L'illusion prend racine, tisse un confort fugace.
 
@@ -208,7 +220,7 @@ Il y est.
 
 Presque en sécurité.
 
-Par précaution XeAr lance un léger [Ondrys](https://paoriiu.jiuuijh.fr/encyclopedie/#Ondrys), avant le scellement complet des [tépales](https://fr.wikipedia.org/wiki/Tépale); pour le garde --- léger, comme un remerciement.
+Par précaution XeAr lance un léger [Ondrys](https://paoriiu.jiuuijh.fr/encyclopedie/#Ondrys), avant le scellement complet des [tépales](https://fr.wikipedia.org/wiki/Tépale) ; pour le garde --- léger, comme un remerciement.
 
 Ça va le conforter et le réconforter dans sa décision de l'avoir laissé passer
 
@@ -232,7 +244,7 @@ XeAr préfère ça, plutôt que de paralyser le venin foudroyant de la méduse e
 
 Il est dedans à présent. Il exhale en même temps que *giifa* dans une grande goulée d'eau tiède.
 
-Où est passé le technicien?
+Où est passé le technicien ?
 
 Il le repère un peu plus loin, qui se dirige vers des [*escalresses*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse).
 
@@ -240,7 +252,7 @@ XeAr tourne dans le sens opposé et fait reprendre à *giifa* la couleur sombre 
 
 Ils parcourent les couloirs et les allées en se faisant discrets, ils débouchent sur un grand hall.
 
-Ici, l\'espace explose : plusieurs centaines de mètres de vide aquatique où la lumière se répand en nappes liquides. Du plafond tombent des stalactites qui rejoignent des stalagmites qui montent du sol, autant d'[*escalresses*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) qui mène à différents étages. Il y en a plusieurs dizaines pour autant qu'il peut voir devant lui et aussi loin que la perspective le permet.
+Ici, l'espace explose : plusieurs centaines de mètres de vide aquatique où la lumière se répand en nappes liquides. Du plafond tombent des stalactites qui rejoignent des stalagmites qui montent du sol, autant d'[*escalresses*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) qui mène à différents étages. Il y en a plusieurs dizaines pour autant qu'il peut voir devant lui et aussi loin que la perspective le permet.
 
 Il faut se repérer.
 
@@ -250,13 +262,13 @@ Il se fige.
 
 Une silhouette qui bloque le passage.
 
-Il aperçoit quelqu'un près d'une [*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) là où doit se rendre, il y a aussi un grand [taujh'tu](https://paoriiu.jiuuijh.fr/encyclopedie/#Taujh-tu). (*Prononcer tortue*) Un [atechpprivoiseur](https://paoriiu.jiuuijh.fr/encyclopedie/#Atechpprivoiseur), plongé jusqu'au buste à l'intérieur, il en sort des algues et différents planctons. (*Prononcer atekrivoizeur*). Il distribue la nourriture pour l'[*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) tout en vérifiant patiemment que la colonie est bien installée dans son tube.
+Il aperçoit quelqu'un près d'une [*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) là où doit se rendre, il y a aussi un grand [taujh'tu](https://paoriiu.jiuuijh.fr/encyclopedie/#Taujh-tu). (*prononcer tortue*) Un [atechpprivoiseur](https://paoriiu.jiuuijh.fr/encyclopedie/#Atechpprivoiseur), plongé jusqu'au buste à l'intérieur, il en sort des algues et différents planctons. (*prononcer atekrivoizeur* / \[atɛkʁivwazœʁ\]). Il distribue la nourriture pour l'[*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) tout en vérifiant patiemment que la colonie est bien installée dans son tube.
 
 XeAr observe les deux créatures, entortillées en une tresse délicate qui part en colimaçon.
 
 D'une main, le soigneur les caresse et leur parle doucement en faisant glisser la nourriture le long des [zoïdes](https://fr.wikipedia.org/wiki/Zoïde). De l'autre, il flatte la coquille douce et agréable d'un des tubes, en l'inspectant minutieusement.
 
-Les aliments se répandent le long des milliers de cils bioluminescents, les [céphalocrests](https://paoriiu.jiuuijh.fr/encyclopedie/#Céphalocrest) de l'[*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) reconnaissante s\'animent. Ils illuminent l'[atechpprivoiseur](https://paoriiu.jiuuijh.fr/encyclopedie/#Atechpprivoiseur), deux belles couleurs, un rose et bleu [noctiluint](https://paoriiu.jiuuijh.fr/encyclopedie/#Noctiluint) selon leur fonction, monter ou descendre.
+Les aliments se répandent le long des milliers de cils bioluminescents, les [céphalocrests](https://paoriiu.jiuuijh.fr/encyclopedie/#Céphalocrest) de l'[*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse) reconnaissante s'animent. Ils illuminent l'[atechpprivoiseur](https://paoriiu.jiuuijh.fr/encyclopedie/#Atechpprivoiseur), deux belles couleurs, un rose et bleu [noctiluint](https://paoriiu.jiuuijh.fr/encyclopedie/#Noctiluint) selon leur fonction, monter ou descendre.
 
 XeAr hésite.
 
@@ -268,9 +280,9 @@ Il se faufile d'[*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalres
 
 Assez prés maintenant, il entend l'[atechpprivoiseur](https://paoriiu.jiuuijh.fr/encyclopedie/#Atechpprivoiseur) chanter une douce [Branchea](https://paoriiu.jiuuijh.fr/encyclopedie/#Branchea) qui rassure l'[*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse). Les cils dansent en cadence sur cet air gai et attendrissant.
 
-XeAr sent l\'eau tiédir autour de lui, chargée par les vibrations harmoniques qui émanent des ouïes du soigneur. Le chant cantique tranquillise et calme l'[*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse).
+XeAr sent l'eau tiédir autour de lui, chargée par les vibrations harmoniques qui émanent des ouïes du soigneur. Le chant cantique tranquillise et calme l'[*escalresse*](https://paoriiu.jiuuijh.fr/encyclopedie/#Escalresse).
 
-Les [branchiospines](https://fr.wikipedia.org/wiki/Branchiospine) du chanteur [trémulent](https://www.cnrtl.fr/lexicographie/trémuler) pour créer une jolie symphonie, capable d\'apaiser les tensions, de consoler les douleurs et favoriser l\'empathie. Ses branchies s'étirent en jolies couleurs iridescentes.
+Les [branchiospines](https://fr.wikipedia.org/wiki/Branchiospine) du chanteur [trémulent](https://www.cnrtl.fr/lexicographie/trémuler) pour créer une jolie symphonie, capable d'apaiser les tensions, de consoler les douleurs et favoriser l'empathie. Ses branchies s'étirent en jolies couleurs iridescentes.
 
 *giifa* frissonne. Ses [chromatophores](https://fr.wikipedia.org/wiki/Chromatophore) virent au gris pâle et ramènent XeAr à sa mission.
 
@@ -290,7 +302,7 @@ Il se risque un coup d'œil et un sort. Le [silocéan](https://paoriiu.jiuuijh.f
 
 Il regarde mieux, maintenant que le sort a apaisé les esprits à l'entour.
 
-L'[atechpprivoiseur](https://paoriiu.jiuuijh.fr/encyclopedie/#Atechpprivoiseur) s'adresse à un [dompt'tcheur](https://paoriiu.jiuuijh.fr/encyclopedie/#Dompt-tcheur) qui est près d'un [*acsésseur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Acsésseur). (*Prononcer dompkteur*)
+L'[atechpprivoiseur](https://paoriiu.jiuuijh.fr/encyclopedie/#Atechpprivoiseur) s'adresse à un [dompt'tcheur](https://paoriiu.jiuuijh.fr/encyclopedie/#Dompt-tcheur) qui est près d'un [*acsésseur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Acsésseur). (*prononcer dompkteur* / \[dɔmpktœʁ\])
 
 Il a l'air souffrant et le [dompt'tcheur](https://paoriiu.jiuuijh.fr/encyclopedie/#Dompt-tcheur) a besoin d'aide.
 
@@ -330,7 +342,7 @@ L'eau palpite autour de lui, chaude, vivante.
 
 Il ferme un instant les yeux pour sentir le courant l'emporter vers l'étage supérieur.
 
-XeAr débouche dans un vestibule qui fait la transition entre l\'extérieur et l\'intérieur.
+XeAr débouche dans un vestibule qui fait la transition entre l'extérieur et l'intérieur.
 
 Il repère la direction dans laquelle il doit aller, il fonce sous le [narthex](https://fr.wikipedia.org/wiki/Narthex).
 
@@ -356,27 +368,27 @@ Il nage avec vigueur et prudence, l'eau fraiche coule le long de ses branchies. 
 
 Il cherche le repère de NaHO.
 
-- OK [transept](https://fr.wikipedia.org/wiki/Transept) numéro un !J'y suis. » Murmure-t-il. Tout en vérifiant autour de lui et comme pour se convaincre d'avancer.
+- OK [transept](https://fr.wikipedia.org/wiki/Transept) numéro un ! J'y suis. » Murmure-t-il. Tout en vérifiant autour de lui et comme pour se convaincre d'avancer.
 
 Il flotte au milieu de cet espace d'un [anthracite](https://encycolorpedia.fr/search?q=anthracite) intense, la teinte est lourde, elle bascule doucement dans un [grenat](https://encycolorpedia.fr/search?q=grenat) très profond. Presque sang. L'obscurité pèse sur son regard.
 
-L'eau elle-même semble avoir changé de densité, elle parait plus lourde dans ses ouïes, pourtant il ne peine pas à filtrer. Les [collatéraux](https://fr.wikipedia.org/wiki/Collatéral_(architecture)) eux aussi apparaissent différents: la couleur mais pas seulement, l'architecture aussi, subtilement, nuancée.
+L'eau elle-même semble avoir changé de densité, elle parait plus lourde dans ses ouïes, pourtant il ne peine pas à filtrer. Les [collatéraux](https://fr.wikipedia.org/wiki/Collatéral_(architecture)) eux aussi apparaissent différents : la couleur mais pas seulement, l'architecture aussi, subtilement, nuancée.
 
 Devant lui les deux premiers [intertransepts](https://fr.wikipedia.org/wiki/Croisée_du_transept) sont d'un bleu [turquoise](https://encycolorpedia.fr/search?q=turquoise) reposant. La [nef](https://fr.wikipedia.org/wiki/Nef) continue encore et juste après il distingue une autre couleur [acajou](https://encycolorpedia.fr/search?q=Acajou). XeAr ne voit pas plus loin que ce quatrième [intertransept](https://fr.wikipedia.org/wiki/Croisée_du_transept), sincèrement inquiet.
 
-- On y est!» Dit XeAr tout en caressant *giifa*, elle répond en frémissant.
+- On y est ! » Dit XeAr tout en caressant *giifa*, elle répond en frémissant.
 
-Qui rassure qui?
+Qui rassure qui ?
 
-- Gauche, puis sept droits et puis gauche à nouveau, c'est ça?» Il se retourne un instant.
+- Gauche, puis sept droits et puis gauche à nouveau, c'est ça ? » Il se retourne un instant.
 
-Ils virent à gaucheet reprennent tous les deux leur chemin dans une nage gracile et silencieuse. Ils pénètrent plus en profondeur, ses palmes coupent l'eau sans bruit, l'infiltration resserre son étau.
+Ils virent à gauche et reprennent tous les deux leur chemin dans une nage gracile et silencieuse. Ils pénètrent plus en profondeur, ses palmes coupent l'eau sans bruit, l'infiltration resserre son étau.
 
 Ici, XeAr se rend compte que, dans cette nouvelle [nef](https://fr.wikipedia.org/wiki/Nef) serpentueuse, le décor change de nature. Les [collatéraux](https://fr.wikipedia.org/wiki/Collatéral_(architecture)) sont vraiment différents maintenant. Ce n'est pas que la couleur.
 
 Au fur et à mesure que les [intertransepts](https://fr.wikipedia.org/wiki/Croisée_du_transept) passent, et défilent ça devient flagrant.
 
-A gauche il y a de petits bureaux ouverts, déserts, consoles endormies; à droite il y a des espaces clos malgré une belle ouverture vitrée et aérée.
+A gauche il y a de petits bureaux ouverts, déserts, consoles endormies ; à droite il y a des espaces clos malgré une belle ouverture vitrée et aérée.
 
 Il avance dans le [transept](https://fr.wikipedia.org/wiki/Transept).
 
@@ -384,7 +396,7 @@ Tout au fond il aperçoit, sous une voute de pierre écrue, une grande [floraill
 
 Ce n'est pas là qu'il doit se rendre. *giifa* et lui doivent s'arrêter bien avant de l'atteindre.
 
-Tout le long de la [nef](https://fr.wikipedia.org/wiki/Nef); à gauche jusqu'à la grande [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) d'acier, tous les [transepts](https://fr.wikipedia.org/wiki/Transept) du vaisseau sont scellés. Et à droite par contre, plusieurs accès, des arches sans [florailles](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille), ouvrent sur de nouveaux [narthex](https://fr.wikipedia.org/wiki/Narthex). Il compte: Une, deux, trois, quatre, cinq, six... septième arche.
+Tout le long de la [nef](https://fr.wikipedia.org/wiki/Nef) ; à gauche jusqu'à la grande [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) d'acier, tous les [transepts](https://fr.wikipedia.org/wiki/Transept) du vaisseau sont scellés. Et à droite par contre, plusieurs accès, des arches sans [florailles](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille), ouvrent sur de nouveaux [narthex](https://fr.wikipedia.org/wiki/Narthex). Il compte : Une, deux, trois, quatre, cinq, six... septième arche.
 
 L'envie d'utiliser un [Souffdes Courants Lointains](https://paoriiu.jiuuijh.fr/encyclopedie/#Souffdes Courants Lointains), lui traverse l'esprit, tentant mais il se ravise.
 
@@ -400,7 +412,7 @@ Il rase la voûte du long boyau, sans lumière, triste et sombre. Il débouche s
 
 Il pénètre de plus en plus profondément dans la [nef](https://fr.wikipedia.org/wiki/Nef). Il repère une nouvelle fois la direction dans laquelle il doit aller et s'y dirige. Après plusieurs [travées](https://fr.wikipedia.org/wiki/Travée), il arrive à destination de cinq [intertransepts](https://fr.wikipedia.org/wiki/Croisée_du_transept).
 
-- Il a dit quoi maintenant NaHO?» Demande XeAr à *giifa*, qui répond en palpitant sur sa peau.
+- Il a dit quoi maintenant NaHO ? » Demande XeAr à *giifa*, qui répond en palpitant sur sa peau.
 
 Sur ses bras la [domino](https://www.cnrtl.fr/definition/domino) fait luire le [violumine](https://paoriiu.jiuuijh.fr/encyclopedie/#Violumine) de leur camouflage.
 
@@ -410,7 +422,7 @@ XeAr maintient son cap et sa motivation. Il a quand même un peu peur et il est 
 
 Là aussi les [collatéraux](https://fr.wikipedia.org/wiki/Collatéral_(architecture)) sont différents, mais il n'arrive pas à dire quoi d'autre que les couleurs, tout à l'heure ils étaient [incarnadins](https://encycolorpedia.fr/search?q=incarnadin). Maintenant il rencontre un [parme](https://encycolorpedia.fr/search?q=parme) reposant qui l'envahi de plénitude.
 
-Aux deuxièmes [intertransepts](https://fr.wikipedia.org/wiki/Croisée_du_transept) la couleur change encore: [tangerine](https://encycolorpedia.fr/search?q=tangerine) électrique.
+Aux deuxièmes [intertransepts](https://fr.wikipedia.org/wiki/Croisée_du_transept) la couleur change encore : [tangerine](https://encycolorpedia.fr/search?q=tangerine) électrique.
 
 La [nef](https://fr.wikipedia.org/wiki/Nef) continue troublante, il distingue un [orpiment](http://pourpre.com/fr/dictionnaire/file/orpiment) très vif au troisième [intertransept](https://fr.wikipedia.org/wiki/Croisée_du_transept).
 
@@ -420,11 +432,11 @@ Etrange, XeAr en frissonne, la pieuvre se blotti contre lui, exhalant à l'uniss
 
 Trois et puis droite a dit NaHO.
 
-Ensemble ils se précipitent plein de courage et de détermination. Tout l'espace vibre d'une pulsation lointaine, sourde. L'inquiétude coule sur lui sans le désorienter. Il arrive à sa nouvelle destination. Et de trois, c'est ça! Il tourne dans un virage sec à droite, un peu rageur sous une arche [orpiment](http://pourpre.com/fr/dictionnaire/file/orpiment).
+Ensemble ils se précipitent plein de courage et de détermination. Tout l'espace vibre d'une pulsation lointaine, sourde. L'inquiétude coule sur lui sans le désorienter. Il arrive à sa nouvelle destination. Et de trois, c'est ça ! Il tourne dans un virage sec à droite, un peu rageur sous une arche [orpiment](http://pourpre.com/fr/dictionnaire/file/orpiment).
 
 Nouveau décor de méandres. Si c'était encore possible, l'eau a moins de goût, rien sur le bout de sa langue. Ses branchies filtrent, simplement, sans rien ressentir que les molécules rudimentaires. Tout du long de cette allée [flexueuse](https://www.cnrtl.fr/lexicographie/flexueux) les [collatéraux](https://fr.wikipedia.org/wiki/Collatéral_(architecture)) sont encore plus marqués par la différence.
 
-Celui de gauche nimbé d'un [gris ardoise](https://encycolorpedia.fr/708090), n\'accueille que des banquettes et des petites tables.
+Celui de gauche nimbé d'un [gris ardoise](https://encycolorpedia.fr/708090), n'accueille que des banquettes et des petites tables.
 
 Pour discuter ou lire ou les deux.
 
@@ -436,7 +448,7 @@ Elles ont des formes de polygones étranges et sont espacées irrégulièrement.
 
 XeAr s'avance dans le [transept](https://fr.wikipedia.org/wiki/Transept). L'eau pénètre lourdement dans ses branchies. Vraiment insipide.
 
-Au fond sous un linteau de métal, il y a une [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) d'un seul bloc: [noir d'aniline](https://fr.wikipedia.org/wiki/Noir_d%27aniline).
+Au fond sous un linteau de métal, il y a une [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) d'un seul bloc : [noir d'aniline](https://fr.wikipedia.org/wiki/Noir_d%27aniline).
 
 Comme tout à l'heure celle-ci est à plusieurs dizaines de mètres de distance.
 
@@ -446,7 +458,7 @@ Peu importe, c'est pas ici qu'il doit se rendre.
 
 Il continue encore, *giifa* ondoie en arrivant à destination, nouvel [intertransept](https://fr.wikipedia.org/wiki/Croisée_du_transept).
 
-Quelque chose. Un [friselis](https://www.cnrtl.fr/lexicographie/friselis)? Ils ont un unique soubresaut de surprise, de peur, une intuition.
+Quelque chose. Un [friselis](https://www.cnrtl.fr/lexicographie/friselis) ? Ils ont un unique soubresaut de surprise, de peur, une intuition.
 
 C'est pas à gauche.
 
@@ -460,13 +472,13 @@ C'est le point de non-retour.
 
 NaHO a dit... tout au fond... à gauche... avant-dernier sas...
 
-- Okay...» La pensée flotte dans l'eau, comme un doute.
+- Okay... » La pensée flotte dans l'eau, comme un doute.
 
 XeAr se dirige plein de méfiance vers cet avant dernier passage.
 
 L'[Hydrosphère](https://paoriiu.jiuuijh.fr/encyclopedie/#Hydrosphere) vibre doucement --- une pulsation lointaine. Il nage avec prudence, inspectant tout.
 
-Enfin!
+Enfin !
 
 Il arrive au point de sécurité.
 
@@ -476,21 +488,21 @@ Tout en murmurant XeAr tend le passe-[neurohEal](https://paoriiu.jiuuijh.fr/ency
 
 Les senseurs biométriques viennent d'être réinitialisés.
 
-Le passe modifié envoie une vague d\'information -- une restauration neuro-sensible. Le verrou reçoit deux impulsions. La première impulsion frappe un dysfonctionnement imaginaire. Le tissu frémit, hésite. La seconde vague le persuade d'une 'guérison' factice : tout va bien. Le champ neural vacille et se désactive sans dommage.
+Le passe modifié envoie une vague d'information -- une restauration neuro-sensible. Le verrou reçoit deux impulsions. La première impulsion frappe un dysfonctionnement imaginaire. Le tissu frémit, hésite. La seconde vague le persuade d'une 'guérison' factice : tout va bien. Le champ neural vacille et se désactive sans dommage.
 
 Il est dans un état neutre et se détend.
 
 XeAr observe, fasciné, les fibres noueuses de l'organisme bio-ingénieré qui se détendent calmement.
 
-L'ensemble tissulaire du [Neuroseal](https://paoriiu.jiuuijh.fr/encyclopedie/#Neuroseal) --- intégré au cadre de la [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille)--- se relâche.
+L'ensemble tissulaire du [Neuroseal](https://paoriiu.jiuuijh.fr/encyclopedie/#Neuroseal) --- intégré au cadre de la [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) --- se relâche.
 
 Les filaments entrelacés qui scellent l'accès libèrent le passage.
 
 Le réseau neuronal ne détecte pas la moindre tentative de forçage.
 
-Les indicateurs biométriques s\'illuminent brièvement.
+Les indicateurs biométriques s'illuminent brièvement.
 
-La signature est identifiée comme «*spécifique et normale* ».
+La signature est identifiée comme « *spécifique et normale* ».
 
 Le joint étanche et impénétrable se relâche.
 
@@ -498,9 +510,9 @@ La [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) s'ouvre sans 
 
 Le tissu vivant se relaxe, abusé, croyant réparer un dommage imaginaire au lieu de céder à un intrus.
 
-- *Parfois pour pirater un truc le plus simple c\'est de pas le pirater.*
+- *Parfois pour pirater un truc le plus simple c'est de pas le pirater.*
 
-> *C'est de lui laisser croire qu\'il fait son boulot et qu\'il continue de le faire.*» Lui a dit NaHO.
+> *C'est de lui laisser croire qu'il fait son boulot et qu'il continue de le faire.* » Lui a dit NaHO.
 
 XeAr se décontrate enfin, un peu. Un peu seulement, sans sourire, toujours vigilant.
 
@@ -530,7 +542,7 @@ Le socle et vide. Un trou béant avec des câbles, des tuyaux qui en sortent. Un
 
 Une douzaine de caches-boulons couvrent les points d'ancrages. Au centre du socle l'interface A°fet n'est pas là. Elle est entièrement démontée, ou bien on est en train de la remonter.
 
-- Ah!» S'exclame XeAr.
+- Ah ! » S'exclame XeAr.
 
 Le son lui échappe, sa voix résonne. Il tend la main. Cherche encore. Espère.
 
@@ -556,73 +568,73 @@ XeAr efface le [Glynx](https://paoriiu.jiuuijh.fr/encyclopedie/#Glynx).
 
 Il plaque le pied de la coquille de la [muricidae](https://fr.wikipedia.org/wiki/Muricidae) sur sa mâchoire -- directement sur son [ATM](https://fr.wikipedia.org/wiki/Articulation_temporo-mandibulaire) gauche.
 
-La [muricidae](https://fr.wikipedia.org/wiki/Muricidae) couvre toute la joue de son superbe peigne, juste sous l\'oreille. Le froid du calcaire irradie dans son os d'une vibration douce:
+La [muricidae](https://fr.wikipedia.org/wiki/Muricidae) couvre toute la joue de son superbe peigne, juste sous l'oreille. Le froid du calcaire irradie dans son os d'une vibration douce :
 
-- XeAr?» Demande son ami.
+- XeAr ? » Demande son ami.
 
 La voix de NaHO se propage dans son [Articulation Temporo-Mandibulaire](https://fr.wikipedia.org/wiki/Articulation_temporo-mandibulaire) et résonne dans son crâne.
 
-- NaHO, il n'y a pas d'interface.» Répond XeAr.
+- NaHO, il n'y a pas d'interface. » Répond XeAr.
 
-- Ah!»
+- Ah ! »
 
-- Oui...» Approuve XeAr «c'est ce que j'ai dit.» Ajoute-t-il
+- Oui... » Approuve XeAr « c'est ce que j'ai dit. » Ajoute-t-il
 
-- D'accord...» Un silence s\'installe, troublé par le bourdonnement du sortilège.
+- D'accord... » Un silence s'installe, troublé par le bourdonnement du sortilège.
 
-- Elle est démontée ou ils sont en train de la remonter je ne sais pas au juste...»
+- Elle est démontée ou ils sont en train de la remonter je ne sais pas au juste... »
 
-- Ça ira, pas de soucis! Je t'ai envoyé par-là exprès car il trois interfaces assez proches.» Lâche plein d'entousiame NaHO.
+- Ça ira, pas de soucis ! Je t'ai envoyé par-là exprès car il trois interfaces assez proches. » Lâche plein d'entousiame NaHO.
 
-- Oookay» Répond XeAr ravi que son ami était aussi prévoyant et sent ses épaules se relâcher.
+- Oookay » Répond XeAr ravi que son ami était aussi prévoyant et sent ses épaules se relâcher.
 
-- Normalement il y en a une tout près de toi et une troisième un peu plus loin.»
+- Normalement il y en a une tout près de toi et une troisième un peu plus loin. »
 
-- Dis-moi?»
+- Dis-moi ? »
 
-- Tu fais demi-tour à la croisée des [transepts](https://fr.wikipedia.org/wiki/Croisée_du_transept). Tu reviens en arrière mais au lieu de tourner à droite, tu continues au bout. Jusqu'au dernier puis à gauche tout au fond. Pas à droite ni à gauche; [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) du fond.»
+- Tu fais demi-tour à la croisée des [transepts](https://fr.wikipedia.org/wiki/Croisée_du_transept). Tu reviens en arrière mais au lieu de tourner à droite, tu continues au bout. Jusqu'au dernier puis à gauche tout au fond. Pas à droite ni à gauche ; [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) du fond. »
 
-- D'aaaccord.» Répond XeAr.
+- D'aaaccord. » Répond XeAr.
 
-Il caresse les pointes de l\'escargophone. Une mélancolie soudaine lui serre la poitrine.
+Il caresse les pointes de l'escargophone. Une mélancolie soudaine lui serre la poitrine.
 
-- Au fait ...» Demande sans point d'interrogation NaHO.
+- Au fait ... » Demande sans point d'interrogation NaHO.
 
-- Oui?»
+- Oui ? »
 
-- C'est vraiment génial ces [escargophones](https://onepiece.fandom.com/fr/wiki/Escargophones)j'aime beaucoup, pourquoi on n'a pas ça, l'[ostéophonie](https://fr.wikipedia.org/wiki/Ostéophonie) c'est bien plus pratique que les [contacteurs](https://paoriiu.jiuuijh.fr/encyclopedie/#Contacteur).»
+- C'est vraiment génial ces [escargophones](https://onepiece.fandom.com/fr/wiki/Escargophones) j'aime beaucoup, pourquoi on n'a pas ça, l'[ostéophonie](https://fr.wikipedia.org/wiki/Ostéophonie) c'est bien plus pratique que les [contacteurs](https://paoriiu.jiuuijh.fr/encyclopedie/#Contacteur). »
 
-- Ne t'y attache pas... à cette conduction osseuse magique.» Répond XeAr.
+- Ne t'y attache pas... à cette conduction osseuse magique. » Répond XeAr.
 
 La coquille pulse un peu moins fort contre sa joue.
 
-- Pourquoi?»
+- Pourquoi ? »
 
-- Ils sont enchantés... mon sort ne va pas durer.»
+- Ils sont enchantés... mon sort ne va pas durer. »
 
-- Qu'est-ce que ça veut dire?»
+- Qu'est-ce que ça veut dire ? »
 
-- Ça veut dire que tu vas oublier que ça existe, désolé...» Dit tristement XeAr.
+- Ça veut dire que tu vas oublier que ça existe, désolé... » Dit tristement XeAr.
 
 Un silence.
 
-- Oh...»
+- Oh... »
 
-Le regret de NaHO traverse l\'os de la mâchoire de XeAr, puis;
+Le regret de NaHO traverse l'os de la mâchoire de XeAr, puis ;
 
-- Dommage mais [grapave](https://paoriiu.jiuuijh.fr/encyclopedie/#Grapave). Allez fonce on a des trucs à faire.» Répond mi-déçu NaHo.
+- Dommage mais [grapave](https://paoriiu.jiuuijh.fr/encyclopedie/#Grapave). Allez fonce on a des trucs à faire. » Répond mi-déçu NaHo.
 
-- J'suis vraiment désolé...»
+- J'suis vraiment désolé... »
 
-Mais NaHO le coupe;
+Mais NaHO le coupe ;
 
-- ...t'inquiète. Ça va durer assez longtemps pour ce qu'on a à faire?»
+- ...t'inquiète. Ça va durer assez longtemps pour ce qu'on a à faire ? »
 
-- Oui, mais...»
+- Oui, mais... »
 
-- Fonce, à tout de suite» Conclu NaHO.
+- Fonce, à tout de suite » Conclu NaHO.
 
-- Ok mais, j'ai pas pu voir le bout du cinquième [intertransept](https://fr.wikipedia.org/wiki/Croisée_du_transept), c'est tout au bout okay?»
+- Ok mais, j'ai pas pu voir le bout du cinquième [intertransept](https://fr.wikipedia.org/wiki/Croisée_du_transept), c'est tout au bout okay ? »
 
 NaHO a déjà raccroché.
 
@@ -630,21 +642,21 @@ La vibration s'éteinte, le lien se dissout, la coquille redevient froide, étei
 
 Le silence qui suit est lourd. Une acidité métallique gratte le fond de la gorge.
 
-Un coup de rein nerveux, il fait un salto arrière et se dirige vers la sortie. Il revient le long de son chemin et passe sous le [narthex](https://fr.wikipedia.org/wiki/Narthex) de tout à l'heure; [orpiment](http://pourpre.com/fr/dictionnaire/file/orpiment) vif. A gauche il retrouve le [parme](https://encycolorpedia.fr/search?q=parme) qui l'avait apaisé à l'aller. Sûr de la direction il continu à franchir les [collatéraux](https://fr.wikipedia.org/wiki/Collatéral_(architecture)). Il arrive à l'[intertransept](https://fr.wikipedia.org/wiki/Croisée_du_transept) au [tangerine](https://encycolorpedia.fr/search?q=tangerine) électrique qui lui pique les branchies, ce n'est pas de l'ozone, autre chose. *giifa* ne semble pas apprécier non plus, elle manifeste son mécontentement en exhalant avec vigueur. Ils passent les [collatéraux](https://fr.wikipedia.org/wiki/Collatéral_(architecture)) [dorian](https://encycolorpedia.fr/search?q=dorian) leurs ombres disparaissent avec leur motivation. Un peu démoralisé, il continue d'avancer dans le [intertransept](https://fr.wikipedia.org/wiki/Croisée_du_transept) et fini par le franchir avec joie. La lumière aussi revient.
+Un coup de rein nerveux, il fait un salto arrière et se dirige vers la sortie. Il revient le long de son chemin et passe sous le [narthex](https://fr.wikipedia.org/wiki/Narthex) de tout à l'heure ; [orpiment](http://pourpre.com/fr/dictionnaire/file/orpiment) vif. A gauche il retrouve le [parme](https://encycolorpedia.fr/search?q=parme) qui l'avait apaisé à l'aller. Sûr de la direction il continu à franchir les [collatéraux](https://fr.wikipedia.org/wiki/Collatéral_(architecture)). Il arrive à l'[intertransept](https://fr.wikipedia.org/wiki/Croisée_du_transept) au [tangerine](https://encycolorpedia.fr/search?q=tangerine) électrique qui lui pique les branchies, ce n'est pas de l'ozone, autre chose. *giifa* ne semble pas apprécier non plus, elle manifeste son mécontentement en exhalant avec vigueur. Ils passent les [collatéraux](https://fr.wikipedia.org/wiki/Collatéral_(architecture)) [dorian](https://encycolorpedia.fr/search?q=dorian) leurs ombres disparaissent avec leur motivation. Un peu démoralisé, il continue d'avancer dans le [intertransept](https://fr.wikipedia.org/wiki/Croisée_du_transept) et fini par le franchir avec joie. La lumière aussi revient.
 
-Là, l\'eau change de nature.
+Là, l'eau change de nature.
 
-Devant lui de part et d'autre un cinquième [collatéral](https://fr.wikipedia.org/wiki/Collatéral_(architecture)) d'un noir profond, un [noir Soulage](https://search.lilo.org/?q=noir+soulage). Tout comme l'eau qui s'infiltre dans ses branchies. D'un noir si profond, si texturé, qui racle les [capillaires](https://fr.wikipedia.org/wiki/Capillaire_sanguin) de ses [lamelles branchiales](https://search.lilo.org/?t=images&q=lamelles+branchiales). Si lourd qu\'il semble avoir du poids sur les opercules de ses ouïes.
+Devant lui de part et d'autre un cinquième [collatéral](https://fr.wikipedia.org/wiki/Collatéral_(architecture)) d'un noir profond, un [noir Soulage](https://search.lilo.org/?q=noir+soulage). Tout comme l'eau qui s'infiltre dans ses branchies. D'un noir si profond, si texturé, qui racle les [capillaires](https://fr.wikipedia.org/wiki/Capillaire_sanguin) de ses [lamelles branchiales](https://search.lilo.org/?t=images&q=lamelles+branchiales). Si lourd qu'il semble avoir du poids sur les opercules de ses ouïes.
 
-Ce n'est pas une absence de lumière comme le noir sombre [Dudujin](https://paoriiu.jiuuijh.fr/encyclopedie/#Dudujin) qu'il vient de passer, là c'est une présence obscure; comme la couleur du fond de l\'océan -- dense et oppressante.
+Ce n'est pas une absence de lumière comme le noir sombre [Dudujin](https://paoriiu.jiuuijh.fr/encyclopedie/#Dudujin) qu'il vient de passer, là c'est une présence obscure ; comme la couleur du fond de l'océan -- dense et oppressante.
 
 Pourtant il le trouve quand même très joli ce noir abyssal.
 
 XeAr distingue un sixième [intertransept](https://fr.wikipedia.org/wiki/Croisée_du_transept) mais ne voit pas au-delà.
 
-Il a dit quoi NaHO?
+Il a dit quoi NaHO ?
 
-- *Tu continues jusqu'au dernier puis à gauche tout au fond*.» Bon... «je continue» Se dit XeAr.
+- *Tu continues jusqu'au dernier puis à gauche tout au fond*. » Bon... « je continue » Se dit XeAr.
 
 Il s'enfonce dans le [vaisseau](https://fr.wikipedia.org/wiki/Vaisseau_(architecture)) parmi les ténèbres liquides, il pénètre dans ce noir 'obscur' des méandres de la [nef](https://fr.wikipedia.org/wiki/Nef). Ce noir que jette les [bas-côtés](https://fr.wikipedia.org/wiki/Collatéral_(architecture)#Bas-côté) opaques le long de son chemin. Ce noir qui envahi tout.
 
@@ -670,7 +682,7 @@ Il arrive tout au bout. Enfin.
 
 Une [abside](https://fr.wikipedia.org/wiki/Abside) bien ordonnée termine le [transept](https://fr.wikipedia.org/wiki/Croisée_du_transept).
 
-Elle est arrondie, avec une forme bien régulière qui donne des ouvertures à l\'extrémité du [chevet](https://fr.wikipedia.org/wiki/Chevet_(architecture)).
+Elle est arrondie, avec une forme bien régulière qui donne des ouvertures à l'extrémité du [chevet](https://fr.wikipedia.org/wiki/Chevet_(architecture)).
 
 L'[Hydrosphère](https://paoriiu.jiuuijh.fr/encyclopedie/#Hydrosphere), elle aussi, est arrondie, plus fluide, plus souple qui glissent dans ses ouïes.
 
@@ -694,7 +706,7 @@ Ses branchies filtrent cette eau enivrante qui a maintenant un goût de nectar e
 
 Ça bouge et ça change de formes dans tous les sens.
 
-Il est suspendu, fasciné. Le monde extérieur s\'efface.
+Il est suspendu, fasciné. Le monde extérieur s'efface.
 
 Un instant, il oublie pourquoi il est venu.
 
@@ -702,13 +714,13 @@ Une pression brusque contre son flanc le fait tressaillir.
 
 *giifa* vascularise et contracte ses muscles contre le corps de XeAr, un câlin tendre, pas un reproche.
 
-- Concentration!» Murmure-t-il entre ses dents.
+- Concentration ! » Murmure-t-il entre ses dents.
 
 Il ferme les paupières. Un battement. Une seconde. Deux battements. Puis rouvre.
 
 NaHO vient de lui dire à gauche puis tout au fond.
 
-- *... puis à gauche tout au fond. Pas à droite ni à gauche; [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) du fond*: On y est!» Dit-il en sortant de sa rêverie.
+- *... puis à gauche tout au fond. Pas à droite ni à gauche ; [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) du fond* : On y est !» Dit-il en sortant de sa rêverie.
 
 Il reprend sa route, dans un virage doux du bassin, il détourne le regard des vitraux. Enfin.
 
@@ -716,7 +728,7 @@ L'eau a un petit goût étrange qu'il n'arrive pas à déterminer.
 
 Il se tourne vers la gauche pour se diriger dans la direction que lui a indiqué son ami...
 
-Soudain!
+Soudain !
 
 Deux tentacules puissants surgissent à droite, claquent contre la paroi, interdisant la route.
 
@@ -724,11 +736,11 @@ Deux tentacules puissants surgissent à droite, claquent contre la paroi, interd
 
 Elle l'empêche de pénétrer plus en avant dans le [transept](https://fr.wikipedia.org/wiki/Croisée_du_transept).
 
-- Que se passe-t-il ma douce? C'est la bonne direction.»
+- Que se passe-t-il ma douce ? C'est la bonne direction. »
 
-> NaHO m'a dit de tourner à gauche et on est bien tout au bout» Répète-t-il une nouvelle fois.
->
-> Que t'arrive-t-il?» Demande XeAr tout en caressant sa [*Goéthéurge*](https://paoriiu.jiuuijh.fr/encyclopedie/#Goéthéurge) pour la rassurer, ses doigts ne rencontrent qu\'une texture rigide, pétrifiée.
+> NaHO m'a dit de tourner à gauche et on est bien tout au bout » Répète-t-il une nouvelle fois.
+> 
+> Que t'arrive-t-il ? » Demande XeAr tout en caressant sa [*Goéthéurge*](https://paoriiu.jiuuijh.fr/encyclopedie/#Goéthéurge) pour la rassurer, ses doigts ne rencontrent qu'une texture rigide, pétrifiée.
 
 *giifa* est profondément perturbée. Ses ventouses solidement ancrées, inflexibles.
 
@@ -736,13 +748,13 @@ De sa voix et de gestes [mignotant](https://www.cnrtl.fr/definition/mignotant) X
 
 Elle frémit terrifiée.
 
-Il sort le grand jeu: un [Nélumar](https://paoriiu.jiuuijh.fr/encyclopedie/#Nélumar), un sortilège utilisé pour calmer les tempêtes, les colères...le sortilège ondule entre eux et traverse l'eau. A nouveau XeAr sent sur ses côtes les exhalations de sa compagne.
+Il sort le grand jeu : un [Nélumar](https://paoriiu.jiuuijh.fr/encyclopedie/#Nélumar), un sortilège utilisé pour calmer les tempêtes, les colères...le sortilège ondule entre eux et traverse l'eau. A nouveau XeAr sent sur ses côtes les exhalations de sa compagne.
 
 Il caresse sa peau, les motifs vibrent le long de sa main, l'apaisement commence à arriver.
 
 XeAr regarde au fond, vers la [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille), cherchant ce qui alarme *giifa*.
 
-- ... ça va, tout va bien...» Ajoute-t-il quand...
+- ... ça va, tout va bien... » Ajoute-t-il quand...
 
 Doucement...
 
@@ -752,7 +764,7 @@ Subtilement.
 
 Elle se brouille, il ne voit plus rien... mais pas exactement.
 
-Non... elle se «déplace», elle se dédouble?
+Non... elle se « déplace », elle se dédouble ?
 
 Le monde pivote, s'élève --- il voit, autrement.
 
@@ -760,13 +772,13 @@ Sa vue bascule.
 
 ... un peu comme si... il grandissait, il voit... mais d'un peu plus haut.
 
-Il a des yeux au-dessus de sa tête... *giifa*!**‽**? (**‽** [point exclarrogatif](https://fr.wikipedia.org/wiki/Point_exclarrogatif))
+Il a des yeux au-dessus de sa tête... *giifa* !**‽**? (**‽** [point exclarrogatif](https://fr.wikipedia.org/wiki/Point_exclarrogatif))
 
 Une onde de choc traverse son esprit et un frisson le long de sa nuque qui parcours toute sa [domino](https://www.cnrtl.fr/definition/domino).
 
 Il voit grâce aux yeux de sa [*Goéthéurge*](https://paoriiu.jiuuijh.fr/encyclopedie/#Goéthéurge) **‽** (**‽** [point exclarrogatif](https://fr.wikipedia.org/wiki/Point_exclarrogatif))
 
-XeAr prend conscience de ce dont il est en train de prendre conscience... de l\'impossible!
+XeAr prend conscience de ce dont il est en train de prendre conscience... de l'impossible !
 
 Il voit à travers elle.
 
@@ -780,7 +792,7 @@ Quelques centimètres à peine. Elle tenait dans le creux de sa main et s'amusai
 
 Cette tendresse mémorielle ancre la puissance du présent.
 
-Puis le 'regard'? ... de *giifa* revient en direction de la [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille). XeAr comprend ce qu'elle essaie de lui montrer; il n'y avait rien ni à droite ni à gauche, au contraire de ce que NaHO a dit.
+Puis le 'regard' ? ... de *giifa* revient en direction de la [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille). XeAr comprend ce qu'elle essaie de lui montrer ; il n'y avait rien ni à droite ni à gauche, au contraire de ce que NaHO a dit.
 
 Aucune issue. Vide.
 
@@ -790,25 +802,25 @@ Il commence à s'habituer aux yeux de *giifa*.
 
 - C'est quoi ça **‽? »** Lâche à voix haute XeAr. (**‽** [point exclarrogatif](https://fr.wikipedia.org/wiki/Point_exclarrogatif))
 
-> C'est deux couleurs et demi!**‽»** Comme pour commenter ce qu'il essaie de comprendre, il voit des 'trucs' en plus. (**‽** [point exclarrogatif](https://fr.wikipedia.org/wiki/Point_exclarrogatif))
+> C'est deux couleurs et demi !**‽ »** Comme pour commenter ce qu'il essaie de comprendre, il voit des 'trucs' en plus. (**‽** [point exclarrogatif](https://fr.wikipedia.org/wiki/Point_exclarrogatif))
 
 Au-dessus du rouge, il voit les infrarouges qui dessinent des gradients de température et révèlent les veines de chaleur le long du couloir.
 
 Au-dessous du bleu, de petits filets ultraviolets s'étirent, toujours le long du couloir, ils dansent et illuminent la [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) du fond...
 
-- Ça fait deux.» Il essaie de mettre des mots sur ce qu'il ressent.
+- Ça fait deux. » Il essaie de mettre des mots sur ce qu'il ressent.
 
-XeAr s'accoutume à cette double vision. Il plisse les paupières, attentif:
+XeAr s'accoutume à cette double vision. Il plisse les paupières, attentif :
 
 Et, il reste, au milieu... cette nouvelle 'demi couleur' en plus...
 
 Elle vibre plus que les autres, bien plus. Elle flotte, c'est quelque chose d'autre, d'incompréhensible.
 
-... des «ondes» concentriques; excentriques qui bougent un peu dans tous les sens.
+... des « ondes » concentriques ; excentriques qui bougent un peu dans tous les sens.
 
 Un peu désordonnées.
 
-- Mais pas tant que ça! Ce chaos est régulier.» Ce sentiment traverse sa colonne vertébrale.
+- Mais pas tant que ça ! Ce chaos est régulier. » Ce sentiment traverse sa colonne vertébrale.
 
 Il y a une logique qui le dépasse, mais elle est bien réelle.
 
@@ -818,23 +830,23 @@ Les ondes changent, puis les yeux pivotent à cent quatre-vingt degré.
 
 Son regard passe par-dessus ses épaules, voit le plafond et d'un coup XeAr voit derrière lui...
 
-XeAr a été surpris par ce brusque mouvement... il est surpris? Trop tard. C'est fait!
+XeAr a été surpris par ce brusque mouvement... il est surpris ? Trop tard. C'est fait !
 
-- Qu'est ce que tu me montres *giifa*?» Plus pour se rassurer lui que pour lui poser la question.
+- Qu'est ce que tu me montres *giifa* ? » Plus pour se rassurer lui que pour lui poser la question.
 
 Stupéfié mais il ne l'est pas autant quand il se rend compte que *giifa* voulait lui montrer les vitraux...
 
-- Méééé... ils sont magnifiques!» S'esclaffe XeAr «... je l'ai dit à voix haute» Rajoute-ilcette fois-ci ? Désorienté par ses propres sens.
+- Méééé... ils sont magnifiques ! » S'esclaffe XeAr « ... je l'ai dit à voix haute » Rajoute-il cette fois-ci ? Désorienté par ses propres sens.
 
 L'émerveillement le gagne, sans vraiment tout comprendre, il essaye de se ressaisir.
 
-Cette demi couleur en plus; ce sont des «champs» électromagnétiques... ?
+Cette demi couleur en plus ; ce sont des « champs » électromagnétiques... ?
 
 Ses doigts tremblent, sa compagne plaque deux ventouses contre sa hanche.
 
-Il réfléchit; *giifa* partage avec lui ses [Siphonoptères](https://paoriiu.jiuuijh.fr/encyclopedie/#Siphonoptère) qui lui permettent de percevoir des couleurs en plus, ça XeAr commence à s'en rendre compte.
+Il réfléchit ; *giifa* partage avec lui ses [Siphonoptères](https://paoriiu.jiuuijh.fr/encyclopedie/#Siphonoptère) qui lui permettent de percevoir des couleurs en plus, ça XeAr commence à s'en rendre compte.
 
-Mais il y a: «un petit truc en plus».
+Mais il y a : « un petit truc en plus ».
 
 - Des courants ? Des sorts ? » Chuchote XeAr, la fascination se mêlant à l'anxiété.
 
@@ -860,9 +872,9 @@ Cette symbiose fabuleuse qu'il a avec sa [*Goéthéurge*](https://paoriiu.jiuuij
 
 Une émotion mêlée monte --- gratitude, vertige --- douce et l'envahi de tout son être. Quel privilège.
 
-Le regard, 'ce' regard commun, se porte sur son flanc droit; dans un tentacule deux fioles.
+Le regard, 'ce' regard commun, se porte sur son flanc droit ; dans un tentacule deux fioles.
 
-- Ok j'ai compris... » Il retire un chargeur de son [hapax](https://www.cnrtl.fr/definition/hapax). « ...voyons ce que tu me donnes»
+- Ok j'ai compris... » Il retire un chargeur de son [hapax](https://www.cnrtl.fr/definition/hapax). « ...voyons ce que tu me donnes »
 
 Il sort les fioles vides et prend les nouvelles.
 
@@ -872,7 +884,7 @@ Alors, il y a des protéines complexes et des nano-cristaux piézoélectriques.
 
 XeAr reconnait la texture, chaque [Enzymare](https://paoriiu.jiuuijh.fr/encyclopedie/#Enzymare) vibre différemment.
 
-- *C'est une 'clé' moléculaire pour les opérations magique ciblées.*» Le cours d'alchimie revient comme la vague d'un souvenir heureux.
+- *C'est une 'clé' moléculaire pour les opérations magique ciblées.* » Le cours d'alchimie revient comme la vague d'un souvenir heureux.
 
 L'[Enzymare](https://paoriiu.jiuuijh.fr/encyclopedie/#Enzymare) en catalysant accélère les réactions [thaumaturgiques](https://www.cnrtl.fr/definition/thaumaturgique), mais ne les modifie pas.
 
@@ -884,11 +896,11 @@ Les liquides des deux fioles miroitent au creux de sa paume.
 
 L'eau a un parfum de défi, doux et agréable à la fois.
 
-XeAr a un petit sourire en coin, l \'union du [Synapsis](https://paoriiu.jiuuijh.fr/encyclopedie/#Synapsis) et de l'[Enzymare](https://paoriiu.jiuuijh.fr/encyclopedie/#Enzymare) crée le [Mnésique](https://paoriiu.jiuuijh.fr/encyclopedie/#Catalyse-Mnésique).
+XeAr a un petit sourire en coin, l 'union du [Synapsis](https://paoriiu.jiuuijh.fr/encyclopedie/#Synapsis) et de l'[Enzymare](https://paoriiu.jiuuijh.fr/encyclopedie/#Enzymare) crée le [Mnésique](https://paoriiu.jiuuijh.fr/encyclopedie/#Catalyse-Mnésique).
 
-Ce double cocktail va le booster, lui et son esprit et créer une ancre pour le savoir. Il va préparer le \"terrain\" neuronal pour recevoir, intégrer et retenir les informations. Ça n'a rien à voir avec un ''enseignement accéléré'', c'est plutôt;
+Ce double cocktail va le booster, lui et son esprit et créer une ancre pour le savoir. Il va préparer le \"terrain\" neuronal pour recevoir, intégrer et retenir les informations. Ça n'a rien à voir avec un ''enseignement accéléré'', c'est plutôt ;
 
-\"Labourer les champs de l\'esprit pour la semence du savoir.\"
+\"Labourer les champs de l'esprit pour la semence du savoir.\"
 
 XeAr sourit. C'est très malin.
 
@@ -896,33 +908,33 @@ De la main gauche il se débarrasse des fioles vides, de la droite il enclenche 
 
 Il l'engage dans son [hapax](https://www.cnrtl.fr/definition/hapax).
 
-- Bonne initiative ma douce.» Dit XeAr en la caressant avec tendresse.
+- Bonne initiative ma douce. » Dit XeAr en la caressant avec tendresse.
 
 Le cocktail diffuse lentement dans leurs veines à tout deux.
 
-Ça commence, de nouvelles connexions synaptiques se créent; dédiées à l\'encodage des souvenirs, magiques ou complexes. Bien évidement ça ne restaure pas la mémoire perdue.
+Ça commence, de nouvelles connexions synaptiques se créent ; dédiées à l'encodage des souvenirs, magiques ou complexes. Bien évidement ça ne restaure pas la mémoire perdue.
 
 Il en profite pour injecter également un [Homeyostase](https://paoriiu.jiuuijh.fr/encyclopedie/#Homeyostase). Il le dose léger, très léger.
 
-- Ça fait du bien hein?» Demande-t-il au fur et à mesure que le liquide polyvalent les envahi.
+- Ça fait du bien hein ? » Demande-t-il au fur et à mesure que le liquide polyvalent les envahi.
 
 XeAr continue de caresser *giifa* affectueusement, ses [chromatophores](https://fr.wikipedia.org/wiki/Chromatophore) crépitent sous ses doigts.
 
 A dose normale ou plus élevée, l'[Homeyostase](https://paoriiu.jiuuijh.fr/encyclopedie/#Homeyostase) est conçu pour aider à retrouver son équilibre.
 
-Il l'utilise quand il va à l'hôpital pour soigner des cas de traumatisme majeur et sévère. Il est très puissant. Ce sérum contient un mélange d\'agents apaisants, régénérants, et stabilisants. Mais pour eux deux, juste quelques gouttes, ça va.
+Il l'utilise quand il va à l'hôpital pour soigner des cas de traumatisme majeur et sévère. Il est très puissant. Ce sérum contient un mélange d'agents apaisants, régénérants, et stabilisants. Mais pour eux deux, juste quelques gouttes, ça va.
 
 Une chaleur douce et enveloppante stabilise leurs rythmes cardiaques. Leur [quatre cœurs](https://fr.wikipedia.org/wiki/Pieuvre#Biologie) ronronnent.
 
-Il se rend compte qu'il se «voit» de dos, à travers ses yeux à elle... une perspective déroutante mais exaltante. Leurs pensées s\'entrelacent jusqu\'à l\'allégresse.
+Il se rend compte qu'il se « voit » de dos, à travers ses yeux à elle... une perspective déroutante mais exaltante. Leurs pensées s'entrelacent jusqu'à l'allégresse.
 
-- ...ça va dans les deux sens» Confirme XeArsubmergé de ce sentiment d'[alacrité](https://www.cnrtl.fr/lexicographie/alacrité) et survolté par ce qu'il lui arrive, mais aussi par ce qui lui arrive dans les veines.
+- ...ça va dans les deux sens » Confirme XeAr submergé de ce sentiment d'[alacrité](https://www.cnrtl.fr/lexicographie/alacrité) et survolté par ce qu'il lui arrive, mais aussi par ce qui lui arrive dans les veines.
 
-Il lui rend cette gentillesse d\'une pensée tendre. *giifa* fredonne d'affection. Il la sent voir à travers lui, comme un écho de son propre regard.
+Il lui rend cette gentillesse d'une pensée tendre. *giifa* fredonne d'affection. Il la sent voir à travers lui, comme un écho de son propre regard.
 
 Elle aussi apprend, elle découvre également.
 
-Un sentiment heureux et de fierté l'envahi, est-ce son sien ou sa sien?
+Un sentiment heureux et de fierté l'envahi, est-ce son sien ou sa sien ?
 
 Trop paisible, il tranche pour un mélange des deux.
 
@@ -940,9 +952,9 @@ Ils s'approchent de la [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Flor
 
 XeAr commence à percevoir des filets de lumière...
 
-Non! Pas tout à fait.
+Non ! Pas tout à fait.
 
-Pas de la lumière: c'est 'comme' de l'électricité qu'ils pourraient voir. C'est une illusion, une suggestion, il a le sentiment que ça crépité dans ses branchies, tout le long de ses ouïes.
+Pas de la lumière : c'est 'comme' de l'électricité qu'ils pourraient voir. C'est une illusion, une suggestion, il a le sentiment que ça crépité dans ses branchies, tout le long de ses ouïes.
 
 *giifa* désapprouve. Elle joint l'idée au geste.
 
@@ -968,7 +980,7 @@ Mais... la lumière ne se 'concentre' pas.
 
 La luminescence éthérée se rassemble et devient plus lumineuse à chaque itération.
 
-A chaque fois ces veines gonflent mais... le centre est d'un noir; absolu.
+A chaque fois ces veines gonflent mais... le centre est d'un noir ; absolu.
 
 Absorbant.
 
@@ -992,7 +1004,7 @@ Pour autant...
 
 Au centre.
 
-Tout au centre, il y a ce trait, fin, uniforme,obscur ; qui absorbe cette [nitescence](https://www.cnrtl.fr/lexicographie/nitescence).
+Tout au centre, il y a ce trait, fin, uniforme, obscur ; qui absorbe cette [nitescence](https://www.cnrtl.fr/lexicographie/nitescence).
 
 Elle sombre dedans comme dans un trou noir, sans gravité ni tristesse.
 
@@ -1018,7 +1030,7 @@ Toujours dans l'embrasure. L'eau tout autour de lui est normale.
 
 Derrière lui, le couloir est rempli de cette étrange lumière laiteuse au filament [nitescent](https://www.cnrtl.fr/lexicographie/nitescence) noir.
 
-Il baigne de chaleur et d'activité. Devant lui:
+Il baigne de chaleur et d'activité. Devant lui :
 
 Rien.
 
@@ -1044,7 +1056,7 @@ Sa vue change.
 
 Ses pieds heurtent le sol, juste à l'entrée. Il flotte au-dessus de lui-même à travers les yeux de *giifa*.
 
-Il lance un regard en arrière: le couloir est banal, vide mais banal.
+Il lance un regard en arrière : le couloir est banal, vide mais banal.
 
 Il voit juste l'alcôve de l'[abside](https://fr.wikipedia.org/wiki/Abside) avec un bout de vitrail qui danse et ondule.
 
@@ -1052,7 +1064,7 @@ Il voit juste l'alcôve de l'[abside](https://fr.wikipedia.org/wiki/Abside) avec
 
 XeAr lache la poignée et regarde devant lui...
 
-- Hummppff» soupire-t-il en souriant, «en effet, allons-y.» Ajoute-t-il moqueur.
+- Hummppff » soupire-t-il en souriant, « en effet, allons-y. » Ajoute-t-il moqueur.
 
 D'un claquement de doigts, annulaire et pouce, il fait apparaitre un hologramme au creux de sa main.
 
@@ -1062,11 +1074,11 @@ Le dernier cocktail, celui de *giifa* le [Mnésique](https://paoriiu.jiuuijh.fr/
 
 L'original en local et un clone pour l'archivage dans le bastion de son [Neurom](https://paoriiu.jiuuijh.fr/encyclopedie/#Neurom), chez lui.
 
-Il lui a donné un petit nomet l'a baptisé ; « [Orviétan](https://fr.wikipedia.org/wiki/Orviétan)».
+Il lui a donné un petit nom et l'a baptisé ; « [Orviétan](https://fr.wikipedia.org/wiki/Orviétan) ».
 
 Sa matrice [nootropique](https://fr.wikipedia.org/wiki/Nootrope) contient une belle base de données, en neuro-agents synthétiques, protocoles de mélange ou de ses propres algorithmes à philtres.
 
-La bibliothèque de son esprit stocke ses [Mweles](https://paoriiu.jiuuijh.fr/encyclopedie/#Mwele); ses potions de bases, cocktails ou filtres plus élaborés.
+La bibliothèque de son esprit stocke ses [Mweles](https://paoriiu.jiuuijh.fr/encyclopedie/#Mwele) ; ses potions de bases, cocktails ou filtres plus élaborés.
 
 XeAr met la main à son sac à flanc tout en repliant son hologramme.
 
@@ -1076,25 +1088,25 @@ Il retire les deux premiers chargeurs, range les vides, et en saisit deux nouvea
 
 XeAr se souvient du remplissage, quelques heures plus tôt dans l'eau parfumé du labo.
 
-Il se revoit tout à l'heure, avec NaHO pendant qu'il préparait ses chargeurs et qu'ils élaboraient tous les deux des plans. D'une voix calme tout en s'équipant XeAr raconte:
+Il se revoit tout à l'heure, avec NaHO pendant qu'il préparait ses chargeurs et qu'ils élaboraient tous les deux des plans. D'une voix calme tout en s'équipant XeAr raconte :
 
-- En règle générale, les chargeurs peuvent contenir dix fioles. Ça c'est pour commencer et l'[hapax](https://www.cnrtl.fr/definition/hapax) ne possède qu'un seul chargeur.» Il joint le geste et le montre à son ami.
+- En règle générale, les chargeurs peuvent contenir dix fioles. Ça c'est pour commencer et l'[hapax](https://www.cnrtl.fr/definition/hapax) ne possède qu'un seul chargeur. » Il joint le geste et le montre à son ami.
 
 > C'est largement suffisant pour les étudiants, même en dernière année.
->
-> Ensuite, on le personnalise.» XeAr montre un très gros chargeur rouge intense.
->
+> 
+> Ensuite, on le personnalise. » XeAr montre un très gros chargeur rouge intense.
+> 
 > Lorsque tu commences à en faire son métier, deux puis trois chargeurs, c'est rapidement nécessaire.
->
+> 
 > Il est rare d'en avoir quatre ou plus.
->
-> Comme moi, des enseignants ou des spécialistes, on compose des demi-fioles et même trois tiers de fioles.» Il a un goût agréable qui parcours la langue, jusqu'à ses ouïes.
->
-> Souvent j'utilise mes [Mweles](https://paoriiu.jiuuijh.fr/encyclopedie/#Mwele), des mini-cocktails pré-composés en demis ou en doubles fioles.»
->
+> 
+> Comme moi, des enseignants ou des spécialistes, on compose des demi-fioles et même trois tiers de fioles. » Il a un goût agréable qui parcours la langue, jusqu'à ses ouïes.
+> 
+> Souvent j'utilise mes [Mweles](https://paoriiu.jiuuijh.fr/encyclopedie/#Mwele), des mini-cocktails pré-composés en demis ou en doubles fioles. »
+> 
 > Expliquait-il à NaHO, tout en s'activant.
 
-NaHO lui, finissait de préparer les interfaces de piratages, XeAr remplissait deux chargeur rouge [incarnat](https://www.cnrtl.fr/definition/incarnat). Il fait signe à son ami pour lui montrer ceux-ci; rallongés, ils peuvent contenir quinze fioles.
+NaHO lui, finissait de préparer les interfaces de piratages, XeAr remplissait deux chargeur rouge [incarnat](https://www.cnrtl.fr/definition/incarnat). Il fait signe à son ami pour lui montrer ceux-ci ; rallongés, ils peuvent contenir quinze fioles.
 
 Dedans il met surtout des demi-fioles cocktails. Elles tintent doucement quand il les manipule.
 
@@ -1114,16 +1126,18 @@ XeAr croise les mains face à lui, tout en composant son prochain [Fluctuscript]
 
 La potion coule le long de la [tubulure](https://fr.wikipedia.org/wiki/Tubule), pénètre le [cathéter](https://fr.wikipedia.org/wiki/Cathéter) et commence à remplir leurs veines.
 
-Dans un grand sourire [sardonien](https://www.cnrtl.fr/definition/sardonien)et [persifleur](https://www.cnrtl.fr/definition/persifler) ;
+Dans un grand sourire [sardonien ](https://www.cnrtl.fr/definition/sardonien)et [persifleur](https://www.cnrtl.fr/definition/persifler) ;
 
-- *giifa*, tu es prête?» Elle vibre, d'accord!
+- *giifa*, tu es prête ? » Elle vibre, d'accord !
 
-> C'est parti.»
+> C'est parti. »
 
 Et il fait un pas en avant.
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+
 ----
+
 ----
 
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>

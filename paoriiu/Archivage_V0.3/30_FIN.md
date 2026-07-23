@@ -1,11 +1,15 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## PREMIER VOLET :  *p’Aoriiu Jiuuijh* -- Version V0.3
-<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/30_FIN_V0.1.png" width="85%" height="85%">
+
+<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/30_FIN_V0.2.png" width="85%" height="85%">
 
 ----
-Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
+
+Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
+
 ### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
+
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
 > 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
 > 🔖 Sur Substack : https://substack.com/@dfalm<br>
@@ -15,10 +19,12 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
 > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
-Et tu peux lire ici  ⏬
+Et tu peux lire ici  ⏬
 
 ----
+
 ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
+
 ### [Télécharger le fichier ODT](a-pAoriiu-jiuuijh_Volet1_Version.0.3.odt)  -- Version V0.3 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/odt.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.3.odt)
 
 #### [Télécharger toutes les versions .z7](a-pAoriiu-jiuuijh_Volet1_Version.0.3-Accessible-Luciole-PDF-livretA5.7z)  -- Version V0.3 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/pdf.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.3-Accessible-Luciole-PDF-livretA5.7z)
@@ -28,12 +34,17 @@ Police de caractères "Luciole" pour les malvoyants. [ICI LE SITE + Télécharge
 Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
 
 ----
+
 ## [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
+
 ----
+
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+
 [Version intégrale](a-pAoriiu-jiuuijh_Volet1_Version.0.3.md)  -- Version V0.3
+
 - [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
 - [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
 - [ ... sort en quelques coups ... ](04_Chapitre04.md)
@@ -54,6 +65,7 @@ Rappel : les mots avec une couleur différente c’est des liens cliquables. �
 ### [**Lexique**](a-pAoriiu-jiuuijh_Volet1-lexique.md)
 
 ---
+
 **FIN**
 
 Les deux silhouettes se rapprochent et s'enlacent, tout en plongeant leur regard dans la cité. Devant eux, la vue reste grandiose presque sacrée, avec ses tours qui percent les couches de lumière comme des algues tendues. Des bancs de poissons dansent dans les environs, leurs corps irisés tracent des arabesques fluides. Le mouvement en essaim bouge comme un seul esprit, hypnotique.
@@ -62,7 +74,7 @@ Des [*lymantas*](https://paoriiu.jiuuijh.fr/encyclopedie/#Lymanta) décollent de
 
 L'eau change de texture et transforme les silhouettes, elles passent du bleu profond à un doré crépusculaire. La douceur propre à la cité abyssale s'installe, apaisante et signale la fin du cycle.
 
-C'est ainsi que se termine, sur ce paysage, cette aventure.»
+C'est ainsi que se termine, sur ce paysage, cette aventure. »
 
 FIN
 
@@ -78,7 +90,7 @@ La lumière a continué de baisser un peu, le temps s'est écoulé. D'un geste d
 
 Reliées par à la chaînette d'argent il retire de ses doigts les bagues, une à une. Le métal tiède glisse contre sa peau. Puis, l'autre main et il range le tout dans sa pochette en velours violet.
 
-Avec la main gauche il pince son clavier de polymère bleu et rose. Un léger sifflement s'échappe quand l'air s'expulse doucement. Rémi le plie avec soinet la membrane souple rejoint la mallette aux côtés de la pochette.
+Avec la main gauche il pince son clavier de polymère bleu et rose. Un léger sifflement s'échappe quand l'air s'expulse doucement. Rémi le plie avec soin et la membrane souple rejoint la mallette aux côtés de la pochette.
 
 Il retire ses oreillettes, déchausse ses lunettes de simulation. Il les dépose délicatement à droite, tout contre la boîte en acajou rouge et ciré. Il caresse du bout des doigts les veines du bois, penseur.
 
@@ -90,7 +102,7 @@ Il n'a pas encore regardé dehors le paysage, ni sa montre pour savoir où il en
 
 Un grésillement coupe le silence du wagon :
 
-- Mesdames et messieurs notre train va bientôt arriver en gare de Nîmes. Nîmes prochain arrêt...»
+- Mesdames et messieurs notre train va bientôt arriver en gare de Nîmes. Nîmes prochain arrêt... »
 
 Le haut-parleur égrène ses consignes rituelles, demandant de faire attention à leurs bagages, aux gens.
 
@@ -120,9 +132,9 @@ Rémi voit une petite tête blonde qui saute sur place pour essayer d'apercevoir
 
 La foule se disperse un peu.
 
-Il s'approche d'elles, tout d'un coup un projectile s\'enrouler autour de ses jambes :
+Il s'approche d'elles, tout d'un coup un projectile s'enrouler autour de ses jambes :
 
-- Papaaaa!» Avec 4 'a' d'amour.
+- Papaaaa ! » Avec 4 'a' d'amour.
 
 Il la soulève à bout de bras et la fait tournoyer dans les airs pour cueillir ses éclats de joie. Elle sent bon, la lavande, la résine de pin et la peau chaude de l'enfance.
 
@@ -132,7 +144,7 @@ Ils s'embrassent et s'enlacent.
 
 Rémi respire son parfum, [badiane](https://www.olfastory.com/matiere/badiane) et sel, et il la serre fort, comme pour retenir quelque chose.
 
-- Tu as fait bon voyage?» Lui demande la petite fille pendue à son cou.
+- Tu as fait bon voyage ? » Lui demande la petite fille pendue à son cou.
 
 Elle c'est tout l'inverse.
 
@@ -154,27 +166,27 @@ Comme à son habitude la petite fille regarde sur l'esplanade devant les grilles
 
 Comme à son habitude la petite fille interpelle son papa.
 
-- Elle est jolie [Hypatie](https://fr.wikipedia.org/wiki/Hypatie). Quand je serais grande, je serais comme elle, une mathématicienne.»
+- Elle est jolie [Hypatie](https://fr.wikipedia.org/wiki/Hypatie). Quand je serais grande, je serais comme elle, une mathématicienne. »
 
-- Tu ne préfères pas être astronaute et aller sur Mars ou grimper des montagnes et te jeter d'en haut avec un parapente? Ou faire chasseuse de tornade ou pompier, c'est bien pompier non?»
+- Tu ne préfères pas être astronaute et aller sur Mars ou grimper des montagnes et te jeter d'en haut avec un parapente ? Ou faire chasseuse de tornade ou pompier, c'est bien pompier non ? »
 
 Dit la voix douce, ses yeux verts caressent tendrement Rémi.
 
-- Papa!» Proteste la petite fille, avec un ton de reproche.
+- Papa ! » Proteste la petite fille, avec un ton de reproche.
 
-- C'est vrai qu'elle est belle [Hypatie](https://fr.wikipedia.org/wiki/Hypatie).» Approuve-t-il
+- C'est vrai qu'elle est belle [Hypatie](https://fr.wikipedia.org/wiki/Hypatie). » Approuve-t-il
 
-Rémi observe le monument à travers la vitre. La toge de marbre est sculptée avec un tel mouvement qu\'elle semble claquer sous le vent. La sainte scientifique n'a pas de bijou superflu, son regard mais surtout son sourire se suffisent à eux même. Elle a le pied gauche posé sur une représentation de la terre. Autour de son épaule droite, elle retient entre son pouce et son index un grand cerceau de métal --- une ellipse, une très belle ellipse qui accroche les rayons du soleil couchant.
+Rémi observe le monument à travers la vitre. La toge de marbre est sculptée avec un tel mouvement qu'elle semble claquer sous le vent. La sainte Mathématicienne n'a pas de bijou superflu, son regard mais surtout son sourire se suffisent à eux même. Elle a le pied gauche posé sur une représentation de la terre. Autour de son épaule droite, elle retient entre son pouce et son index un grand cerceau de métal --- une ellipse, une très belle ellipse qui accroche les rayons du soleil couchant.
 
 - Hé hé hé Papa, regarde elle écrase les rouleaux ! » S'exclame la voix enfantine un peu [sardonienne](https://www.cnrtl.fr/lexicographie/sardonien).
 
-Rémi sourit en fixant le bas du piédestal. En effet, sous son pied droit, le sculpteur, taquin a sculpté différents parchemins écrasés, foulés au pied. Il a même poussé l'humour pour y faire apparaitre distinctement des œuvres de Ptolémée et d'Aristote parmi les plus reconnaissables. Plus haut, le long de l'ourlet de sa toge, les motifs s'enlacent dans la broderie; des coniques, des triangles, des rectangles.
+Rémi sourit en fixant le bas du piédestal. En effet, sous son pied droit, le sculpteur, taquin a sculpté différents parchemins écrasés, foulés au pied. Il a même poussé l'humour pour y faire apparaitre distinctement des œuvres de Ptolémée et d'Aristote parmi les plus reconnaissables. Plus haut, le long de l'ourlet de sa toge, les motifs s'enlacent dans la broderie ; des coniques, des triangles, des rectangles.
 
 A chaque fois que c'est possible elle demande à faire un détour pour la regarder de plus près et demande à son père de lui raconter, de lui décrire les différentes allégories.
 
-Il rigole et dit à haute voix:
+Il rigole et dit à haute voix :
 
-- Ça devait être une sacrée bonne femme, de son vivant, je pense que vous auriez été amies.»
+- Ça devait être une sacrée bonne femme, de son vivant, je pense que vous auriez été amies. »
 
 La voiture continue dans le silence électrique à remonter l'avenue, avec les cigales comme si elles étaient posées à l'arrière en train de gazouiller avec sa fille.
 
@@ -188,18 +200,20 @@ Les yeux verts se posent sur Rémi, doucement elle lui caresse la joue. Il lui r
 
 La nuit est déjà arrivée lorsque les phares éclairent enfin l'entrée de la maison. Sans un bruit la voiture s'arrête, les adultes sortent. Rémi ouvre la porte et soulève la petite boule verte endormie sur la banquette arrière. Il galère pour détacher la ceinture mais fini par y arriver, il la prend dans le bras.
 
-- On est arrivés?» Demande-t-elle les paupières lourdes?
+- On est arrivés ? » Demande-t-elle les paupières lourdes ?
 
 Rémi hoche la tête dans un regard paternel, elle fourre sa tête dans son épaule enlace fort son papa.
 
-- Tu me raconteras une histoire avant de dormir?»
+- Tu me raconteras une histoire avant de dormir ? »
 
 Il la serre très fort contre lui comme pour lui dire oui, elle se détend contente et replonge dans son sommeil.
 
 A suivre...
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+
 ----
+
 ----
 
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>

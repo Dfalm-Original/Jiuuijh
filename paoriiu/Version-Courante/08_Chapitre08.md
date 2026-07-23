@@ -1,11 +1,15 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## PREMIER VOLET :  *p’Aoriiu Jiuuijh* -- Version V0.3
+
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/08_Chapitre08_V0.2.png" width="85%" height="85%">
 
 ----
-Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
+
+Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
+
 ### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
+
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
 > 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
 > 🔖 Sur Substack : https://substack.com/@dfalm<br>
@@ -15,10 +19,12 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
 > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
-Et tu peux lire ici  ⏬
+Et tu peux lire ici  ⏬
 
 ----
+
 ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
+
 ### [Télécharger le fichier ODT](a-pAoriiu-jiuuijh_Volet1_Version.0.3.odt)  -- Version V0.3 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/odt.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.3.odt)
 
 #### [Télécharger toutes les versions .z7](a-pAoriiu-jiuuijh_Volet1_Version.0.3-Accessible-Luciole-PDF-livretA5.7z)  -- Version V0.3 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/pdf.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.3-Accessible-Luciole-PDF-livretA5.7z)
@@ -28,12 +34,17 @@ Police de caractères "Luciole" pour les malvoyants. [ICI LE SITE + Télécharge
 Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
 
 ----
+
 ## [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
+
 ----
+
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+
 [Version intégrale](a-pAoriiu-jiuuijh_Volet1_Version.0.3.md)  -- Version V0.3
+
 - [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
 - [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
 - [ ... sort en quelques coups ... ](04_Chapitre04.md)
@@ -54,19 +65,20 @@ Rappel : les mots avec une couleur différente c’est des liens cliquables. �
 ### [**Lexique**](a-pAoriiu-jiuuijh_Volet1-lexique.md)
 
 ---
+
 **Chapitre 8**
 
 XeAr se réveille aux babillements cristallins d'Uzeanu que sa sœur a posé sur son ventre. Il regarde ce petit bout de bigorneau plein de vie qui lui grimpe dessus. XeAr parcours d'un mouvement circulaire sa chambre et croise le regard de Dergfe
 
-- Tu vois, je n'ai pas été appelée hier soir.». D'un ton de sororité, tout en nageant au-dessus de lui, ses interminables cheveux détachés flottent dans toute la pièce.
+- Tu vois, je n'ai pas été appelée hier soir. ». D'un ton de sororité, tout en nageant au-dessus de lui, ses interminables cheveux détachés flottent dans toute la pièce.
 
-- Petit dèj?» Répond-t-il en souriant?
+- Petit dèj ? » Répond-t-il en souriant ?
 
-Dergfe l'embrasse sur le front, l\'eau vibre et laisse le sillage tendre de sa présence.
+Dergfe l'embrasse sur le front, l'eau vibre et laisse le sillage tendre de sa présence.
 
 Elle reprend son petit d'un geste fluide.
 
-- Mon fils, tu ne dois pas devenir comme ça plus tard... on t'attend. Je descends.»
+- Mon fils, tu ne dois pas devenir comme ça plus tard... on t'attend. Je descends. »
 
 Elle sort de la chambre en nageant et disparait sans un bruit, ses pieds nus ondulant dans l'eau tiède.
 
@@ -86,21 +98,21 @@ Ses yeux se posent sur son bureau bien rangé.
 
 Un sentiment doux, la saveur sucrée des souvenirs, se diffuse dans l'[Hydrotrame](https://paoriiu.jiuuijh.fr/encyclopedie/#Hydrotrame) autour de lui. Au-dessus, une image encadrée et des jouets. D'un mouvement d'épaule il se rapproche et prend le cadre de l'étagère.
 
-Il l\'incline à plat et le [Zymos](https://paoriiu.jiuuijh.fr/encyclopedie/#Zymos) déploie en relief l'image de la scène.
+Il l'incline à plat et le [Zymos](https://paoriiu.jiuuijh.fr/encyclopedie/#Zymos) déploie en relief l'image de la scène.
 
 D'un geste mélancolique mais pas triste, il caresse les silhouettes. NaHO est au milieu qui brandit son prix, de part et d'autre, lui et xxsioo qui était revenu exprès de ses vacances. NaHO avait fait une superbe course ce jour-là. Une immense joie sur son visage, son trophée en corail blanc à la main. Il représente une paire de palmes enlacées, comme s'il s'agissait d'un couple d'hippocampes.
 
-Elles sont plantées dans un socle de [Sarrancolin](https://www.cnrtl.fr/lexicographie/sarrancolin) légèrement rosé et gravé. L'année de cette édition; 827, précédée du cycle de vie --- le septième.
+Elles sont plantées dans un socle de [Sarrancolin](https://www.cnrtl.fr/lexicographie/sarrancolin) légèrement rosé et gravé. L'année de cette édition ; 827, précédée du cycle de vie --- le septième.
 
-Trois ans! C'était déjà il y a trois ans.
+Trois ans ! C'était déjà il y a trois ans.
 
-Avec le travail qu'il a cette année, NaHO n'y participera pas; il n'y participera plus.
+Avec le travail qu'il a cette année, NaHO n'y participera pas ; il n'y participera plus.
 
 Dommage, c'est une date importante, la course va fêter l'anniversaire de ses 31 ans. Ça aurait été bien qu'il puisse la faire à cette occasion. XeAr repose la pseudo-tridi du [Zymos](https://paoriiu.jiuuijh.fr/encyclopedie/#Zymos) et caresse au passage la tête usée de sa peluche de tortue. Les souvenirs remontent en même temps qu'elle diffuse son odeur de réminiscences. Elle est posée à côté de son vieil harpon de chasse.
 
 Un sourire éphémère.
 
-Les rochers sombres et les forêts d\'algues reviennent un instant : les chasses avec xxsioo. Ils finissaient dans les [marmites-éponges](https://fr.wikipedia.org/wiki/Xestospongia_muta) en bordure du village.
+Les rochers sombres et les forêts d'algues reviennent un instant : les chasses avec xxsioo. Ils finissaient dans les [marmites-éponges](https://fr.wikipedia.org/wiki/Xestospongia_muta) en bordure du village.
 
 Son regard continue sur les murs couverts de souvenirs, qui ne sont pas si vieux tout compte fait.
 
@@ -114,9 +126,9 @@ La maquette tient dans la main, mais dans la réalité c'est un imposant [bahari
 
 Son grand-père avait le même modèle, avec des moteurs puissants à reptation métallique. Il lui avait fait un cours sur la différence avec les rotor/stator, moins puissants.
 
-«Ceux-là ils, ils ont énormément de couple. Comme toi, tu as de la force avec tes muscles. C'est comme ça qu'ils marchent ces moteurs.» Sa voix résonne encore en lui avec douceur.
+« Ceux-là ils, ils ont énormément de couple. Comme toi, tu as de la force avec tes muscles. C'est comme ça qu'ils marchent ces moteurs. » Sa voix résonne encore en lui avec douceur.
 
-Il aimait entendre le grondement sourd des moteurs; les battements graves du cœur de métal, sans engrenages de démultiplication. Ces engins sont hypers compacts, même s'il existe des modèles hybride. Pourtant, enfant, et toujours maintenant il leur préfère ce type de [*labeur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Labeur) agricole en particulier.
+Il aimait entendre le grondement sourd des moteurs ; les battements graves du cœur de métal, sans engrenages de démultiplication. Ces engins sont hypers compacts, même s'il existe des modèles hybride. Pourtant, enfant, et toujours maintenant il leur préfère ce type de [*labeur*](https://paoriiu.jiuuijh.fr/encyclopedie/#Labeur) agricole en particulier.
 
 Il le préfère aux [Lwandushini](https://paoriiu.jiuuijh.fr/encyclopedie/#Lwandushini) des [nodulistes](https://paoriiu.jiuuijh.fr/encyclopedie/#Noduliste) par exemple, ou encore les somptueux [Peinexos](https://paoriiu.jiuuijh.fr/encyclopedie/#Peinexos).
 
@@ -134,57 +146,57 @@ Pour tout à l'heure.
 
 XeAr arrange sa longue chevelure. Elle s'était un peu libérée dans la nuit. Puis il va rejoindre sa famille pour le petit déjeuner, ses vêtements à la main.
 
-- Lu.» Lance-t-il et embrasse tout le monde.
+- Lu. » Lance-t-il et embrasse tout le monde.
 
-- Bien dormi.» Lui demande son père.
+- Bien dormi. » Lui demande son père.
 
 XeAr répond d'un hochement de tête tout en venant autour du repas. Il pose ses vêtements à côté de lui et se sert de quelques mollusques.
 
-- Alors, XeAR\... tes recherches ? Comment ça se passe?» Demande sa mère.
+- Alors, XeAR... tes recherches ? Comment ça se passe ? » Demande sa mère.
 
 Son père, regardant par la fenêtre qui donne sur les profondeurs bleutées, ajoute.
 
-- Oui, XeAr. On t\'a trouvé un peu\... distant, ces derniers temps. C\'est toujours cette affaire qui t\'obsède ?» Il se tourne vers son fils, son ton est sincèrement intéressé.
+- Oui, XeAr. On t'a trouvé un peu... distant, ces derniers temps. C'est toujours cette affaire qui t'obsède ? » Il se tourne vers son fils, son ton est sincèrement intéressé.
 
-La tension s'épaissit dans l\'eau ambiante. XeAr prend une grande inhalation.
+La tension s'épaissit dans l'eau ambiante. XeAr prend une grande inhalation.
 
-- Euh\... oui, enfin\... c\'était\... J\'ai eu des pistes intéressantes, mais\... rien de très concret, en fait.» Répond-il un peu hésitant, croquant mollement son mollusque.
+- Euh... oui, enfin... c'était... J'ai eu des pistes intéressantes, mais... rien de très concret, en fait. » Répond-il un peu hésitant, croquant mollement son mollusque.
 
-Sa [contingence](https://fr.wikipedia.org/wiki/Contingence) rend l\'eau de table plus dense, presque lourde à avaler.
+Sa [contingence](https://fr.wikipedia.org/wiki/Contingence) rend l'eau de table plus dense, presque lourde à avaler.
 
 Figz et Dergfe échangent un regard discret. Figz pose sa main sur celle de Dergfe, un petit sourire complice. Sa compagne se lance, la voix curieusement ferme.
 
 - Papa toi qui était [*Cijh-lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Cijh-lec), tu sais comment fonctionne la [*nord'Iës*](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI) elle est complexe.
 
-> Chacun est unique. Lâche-lui les ouïes**⸮**» Dit Dergfe en prenant un peu la défense de son grand frère. (**⸮** [point d'ironie](https://fr.wikipedia.org/wiki/Point_d%27ironie))
+> Chacun est unique. Lâche-lui les ouïes **⸮** » Dit Dergfe en prenant un peu la défense de son grand frère. (**⸮** [point d'ironie](https://fr.wikipedia.org/wiki/Point_d%27ironie))
 
 Il y a eu un peu plus d'électricité et d'ironie qu'elle le voulait, Figz vient à son renfort.
 
-- Elle n'a pas tort, ça serait dommage de gâcher ce beau début de journée en parlant de vieux dossiers sédimentés. N\'est-ce pas XeAr ?» Appuyant sa compagne avec un clin d\'œil.
+- Elle n'a pas tort, ça serait dommage de gâcher ce beau début de journée en parlant de vieux dossiers sédimentés. N'est-ce pas XeAr ? » Appuyant sa compagne avec un clin d'œil.
 
-- On ne veut pas gâcher, les filles. On se fait juste du souci; c'est plutôt bon signe de d'inquiéter pour ceux qu'on aime, non?» Demande la mère en soupirant doucement.
+- On ne veut pas gâcher, les filles. On se fait juste du souci ; c'est plutôt bon signe de d'inquiéter pour ceux qu'on aime, non ? » Demande la mère en soupirant doucement.
 
 La diplomatie à l'état brut.
 
-'*Que veux-tu répondre à ça'*; glisse doucement au milieu de la pièce.
+'*Que veux-tu répondre à ça'* ; glisse doucement au milieu de la pièce.
 
 Imparable.
 
 XeAr ressent la pression sous ses branchies diminuer et augmenter en même temps.
 
-- C\'est vrai. On a l\'impression que tu portes le poids du monde sur tes épaules, XeAr.» Approuve son père.
+- C'est vrai. On a l'impression que tu portes le poids du monde sur tes épaules, XeAr. » Approuve son père.
 
-- Ha oui... faut reconnaître ... Ils ont raison.» Concède Figz le ton redevenu un peu plus sérieux. Elle ajoute; « Je parle pour moi, mais je crois que ta sœur est d'accord ; ça nous préoccupe aussi.» Tout en la regardant.
+- Ha oui... faut reconnaître ... Ils ont raison. » Concède Figz le ton redevenu un peu plus sérieux. Elle ajoute ; « Je parle pour moi, mais je crois que ta sœur est d'accord ; ça nous préoccupe aussi. » Tout en la regardant.
 
 Dergfe acquiesce. Sa voix est douce mais ferme.
 
-- Oui. Tu peux nous parler si ça ne va pas.»
+- Oui. Tu peux nous parler si ça ne va pas. »
 
 Le silence retombe, épais.
 
-XeAr sent la chaleur de l'eau sur sa nuque. Ses doigts trituraient un mollusque, en écrasant la chair molle entre son pouce et son index, il répond:
+XeAr sent la chaleur de l'eau sur sa nuque. Ses doigts trituraient un mollusque, en écrasant la chair molle entre son pouce et son index, il répond :
 
-- Non, non, vous avez raison. C\'est\... j\'ai un peu\... dérapé, c\'est vrai. J\'ai abusé, mentalement, émotionnellement parlant. Je me suis emporté.» Relève XeAr, un air de \"mea culpa\" forcé sur le visage.
+- Non, non, vous avez raison. C'est... j'ai un peu... dérapé, c'est vrai. J'ai abusé, mentalement, émotionnellement parlant. Je me suis emporté. » Relève XeAr, un air de \"mea culpa\" forcé sur le visage.
 
 Il pose ses coudes sur la table et joint les mains.
 
@@ -192,35 +204,35 @@ La tension autour de ses branchies se relâche un peu.
 
 Les parents échangent un regard soulagé, plus doux.
 
-Figz, elle, l\'observe attentivement, les sourcils légèrement froncés.
+Figz, elle, l'observe attentivement, les sourcils légèrement froncés.
 
-- Je\... je pensais sincèrement qu\'il y avait un\... truc. Un complot. Oui, un complot\... De la [*nord'Iës*](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI). eldmI en particulier. Et puis, je soupçonnais aussi fetyW\...» Il lâche l'aveu. Sa voix devient plus assurée. Presque trop, plus sonore, comme s\'il récitait une leçon.
+- Je... je pensais sincèrement qu'il y avait un... truc. Un complot. Oui, un complot... De la [*nord'Iës*](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI). eldmI en particulier. Et puis, je soupçonnais aussi fetyW... » Il lâche l'aveu. Sa voix devient plus assurée. Presque trop, plus sonore, comme s'il récitait une leçon.
 
-L\'[Aquasphère](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquasphere) ambiante pique légèrement, l\'ozone d\'un arrière-goût de mensonge.
+L'[Aquasphère](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquasphere) ambiante pique légèrement, l'ozone d'un arrière-goût de mensonge.
 
-Il marque une pause. Comme s\'il cherchait ses mots ou qu'il pesait leur effet.
+Il marque une pause. Comme s'il cherchait ses mots ou qu'il pesait leur effet.
 
-- Mais\... en y repensant calmement, loin de tout ça et de mes théories\...» Poursuit-il.
+- Mais... en y repensant calmement, loin de tout ça et de mes théories... » Poursuit-il.
 
-Je ne sais même pas sur quoi portaient mes soupçons ! Quel genre de complot ? Dans quel but ? Ça n'aurait ni queue ni tête.» Fini-t-il d'ajouter.
+Je ne sais même pas sur quoi portaient mes soupçons ! Quel genre de complot ? Dans quel but ? Ça n'aurait ni queue ni tête. » Fini-t-il d'ajouter.
 
-- D'accord. Merci de nous en parler.» Dit son père, le regard chaleureux, la main posée sur celle de son fils.
+- D'accord. Merci de nous en parler. » Dit son père, le regard chaleureux, la main posée sur celle de son fils.
 
-- Est-ce que ce serait un mauvais concours de circonstances? Des informations mal interprétées ?» Demande sincèrement sa mère, pleine d'intérêt pour la réponse.
+- Est-ce que ce serait un mauvais concours de circonstances ? Des informations mal interprétées ? » Demande sincèrement sa mère, pleine d'intérêt pour la réponse.
 
-- Je n'y avais pas pensé comme ça. Pourquoi pas? Si j\'en suis arrivé à cette conclusion... Je\... je vais en rediscuter avec fetyW. Pour\... pour éclaircir certains points.» XeAr hoche vigoureusement la tête.
+- Je n'y avais pas pensé comme ça. Pourquoi pas ? Si j'en suis arrivé à cette conclusion... Je... je vais en rediscuter avec fetyW. Pour... pour éclaircir certains points. » XeAr hoche vigoureusement la tête.
 
-Sa sœur et Figz ne disaient rien. Elles continuaient d\'observer.
+Sa sœur et Figz ne disaient rien. Elles continuaient d'observer.
 
 Dergfe à l'air de peser chaque mot de son frère, visiblement sa compagne n'en pense pas moins. Leur regard est interrogateur et semble sonder le fond de sa conscience.
 
 XeAr reprend rapidement, anticipant peut-être une question.
 
-- Mais avant ça, je vais plutôt en parler à mes amis. Ils m\'aideront à recalibrer mon esprit.» Dit-il, le mot sonnant comme une évidence technique. Puis il conclut; «Je ne veux pas paraître ridicule devant fetyW ou eldmI quand je leur en reparlerai.»
+- Mais avant ça, je vais plutôt en parler à mes amis. Ils m'aideront à recalibrer mon esprit. » Dit-il, le mot sonnant comme une évidence technique. Puis il conclut ; « Je ne veux pas paraître ridicule devant fetyW ou eldmI quand je leur en reparlerai. »
 
-- Voilà, c'est une bonne idée d'en parler à tes amis, demander conseil. Je ne sais pas si je suis réellement rassuré mais...» Laissé en suspens. Son père tapote sa main, soulagé quand même.
+- Voilà, c'est une bonne idée d'en parler à tes amis, demander conseil. Je ne sais pas si je suis réellement rassuré mais... » Laissé en suspens. Son père tapote sa main, soulagé quand même.
 
-- Merci.» Dit sa mère, déposant sa tendresse dans le mot, avec une arôme [poulégone](https://fr.wikipedia.org/wiki/Pulégone).
+- Merci. » Dit sa mère, déposant sa tendresse dans le mot, avec une arôme [poulégone](https://fr.wikipedia.org/wiki/Pulégone).
 
 Simplement, tout simplement 'merci'.
 
@@ -228,13 +240,13 @@ Parfois il n'y a pas besoin de faire de longues phrases.
 
 Son regard, l'intonation de son merci... Ça voulait dire bien plus que 'merci'.
 
-L\'eau se réchauffe autour d\'eux, laissant le sillage enveloppant d\'un miel floral mentholé.
+L'eau se réchauffe autour d'eux, laissant le sillage enveloppant d'un miel floral mentholé.
 
 XeAr a compris, il sourit. 'Elle est forte, très très forte' pense-t-il affectueusement.
 
-- Ok. Ça va aller mieux. Promis.» Répond-il aussi simplement.
+- Ok. Ça va aller mieux. Promis. » Répond-il aussi simplement.
 
-L'atmosphère se détend. L\'eau s\'éclaircit d\'un coup autour des parents.
+L'atmosphère se détend. L'eau s'éclaircit d'un coup autour des parents.
 
 Tout le monde finis le petit-déjeuner dans une ambiance plus légère. Avec plus de banalités, autour des voisins, de leur jardinet.
 
@@ -248,21 +260,21 @@ Son père se lève à son tour.
 
 XeAr range rapidement les affaires du repas. Sa belle-sœur lui fait signe : elle s'en charge.
 
-- Bon ok, je vais au [Lustrâme](https://paoriiu.jiuuijh.fr/encyclopedie/#Lustrame).»
+- Bon ok, je vais au [Lustrâme](https://paoriiu.jiuuijh.fr/encyclopedie/#Lustrame). »
 
-Il s\'éloigne.
+Il s'éloigne.
 
-Figz le regarde partir, les yeux plissés. Dergfe pose une main chaleureuse sur son bras. Son frère a disparu à l'étage, elle guette un instant, puis se tourne vers sa compagne:
+Figz le regarde partir, les yeux plissés. Dergfe pose une main chaleureuse sur son bras. Son frère a disparu à l'étage, elle guette un instant, puis se tourne vers sa compagne :
 
-- Ça t\'a pas convaincue **‽**» Demande-t-elle inquiète. (**‽** [point exclarrogatif](https://fr.wikipedia.org/wiki/Point_exclarrogatif))
+- Ça t'a pas convaincue **‽** » Demande-t-elle inquiète. (**‽** [point exclarrogatif](https://fr.wikipedia.org/wiki/Point_exclarrogatif))
 
-- Moins que tes parents. Tu en penses quoi? Ce discours\... \"*mauvais concours de circonstances*\", \"*parler à fetyW mais après les amis*\"\... Ça sonnait trop comme\... comme si... Il nous disait ce que nous voulons entendre: et pas comme la vérité.» Murmure Figz.
+- Moins que tes parents. Tu en penses quoi ? Ce discours... \"*mauvais concours de circonstances*\", \"*parler à fetyW mais après les amis*\"... Ça sonnait trop comme... comme si... Il nous disait ce que nous voulons entendre : et pas comme la vérité. » Murmure Figz.
 
-- C\'est bien ce que je pensais aussi. Il prépare quelque chose.» Dergfe frissonne légèrement, malgré la chaleur de l\'eau ambiante.
+- C'est bien ce que je pensais aussi. Il prépare quelque chose. » Dergfe frissonne légèrement, malgré la chaleur de l'eau ambiante.
 
-- Évidemment qu\'il prépare quelque chose. C'est ton frère! Et je doute vraiment que ça implique de demander poliment des explications à fetyW.»
+- Évidemment qu'il prépare quelque chose. C'est ton frère ! Et je doute vraiment que ça implique de demander poliment des explications à fetyW. »
 
-- Tu as raison. Je vais lui parler.» Dergfe embrasse doucement sa compagne, un geste tendre sur son ventre.
+- Tu as raison. Je vais lui parler. » Dergfe embrasse doucement sa compagne, un geste tendre sur son ventre.
 
 Pendant ce temps, XeAr s'est laissé glisser à l'étage d'une nage flegmatique.
 
@@ -270,7 +282,7 @@ L'eau du couloir est tiède, légèrement ambrée.
 
 Il entre dans le [Lustrâme](https://paoriiu.jiuuijh.fr/encyclopedie/#Lustrame).
 
-Derrière lui le [périanthe](https://fr.wikipedia.org/wiki/Périanthe) s'illumine brièvement d'un halo [garance](https://encycolorpedia.fr/ee1010). Il ôte son boxer et son haut en même temps qu'il entend le soupirde la [corolle](https://fr.wikipedia.org/wiki/Corolle) et du [calice](https://fr.wikipedia.org/wiki/Calice_(botanique)) qui se scellent. Les [tépales](https://fr.wikipedia.org/wiki/Tépale) sont hermétiquement fermés. Il jette les vêtements sales dans un panier, et dépose les propres dans la niche prévue. Un doux parfum mentholé plane. La [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) s'est opacifiée dans des couleurs tendres.
+Derrière lui le [périanthe](https://fr.wikipedia.org/wiki/Périanthe) s'illumine brièvement d'un halo [garance](https://encycolorpedia.fr/ee1010). Il ôte son boxer et son haut en même temps qu'il entend le soupir de la [corolle](https://fr.wikipedia.org/wiki/Corolle) et du [calice](https://fr.wikipedia.org/wiki/Calice_(botanique)) qui se scellent. Les [tépales](https://fr.wikipedia.org/wiki/Tépale) sont hermétiquement fermés. Il jette les vêtements sales dans un panier, et dépose les propres dans la niche prévue. Un doux parfum mentholé plane. La [floraille](https://paoriiu.jiuuijh.fr/encyclopedie/#Floraille) s'est opacifiée dans des couleurs tendres.
 
 Le silence fleurit, la pièce est close.
 
@@ -288,17 +300,17 @@ Leurs petites mandibules le chatouillent. XeAr se laisse caresser.
 
 Entre deux maxillaires de poissons nettoyeurs, il laisse vagabonder son esprit.
 
-Il ferme les yeux et en profite pour se détendre dans l'[Aquanitescence](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquanitescence) chaleureuse dans laquelle il baigne. Parce ce que ce n'est pas qu'une simple toilette : c'est une douce alchimie de vie qui remet ses idées en place, un massage de l\'âme. XeAr flotte dans une couleur bleutée qui danse autour lui.
+Il ferme les yeux et en profite pour se détendre dans l'[Aquanitescence](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquanitescence) chaleureuse dans laquelle il baigne. Parce ce que ce n'est pas qu'une simple toilette : c'est une douce alchimie de vie qui remet ses idées en place, un massage de l'âme. XeAr flotte dans une couleur bleutée qui danse autour lui.
 
 Il est entouré des reflets de petits poissons aux fresques vives.
 
 Une sensation de milliers de petites tendresses partout sur son corps. Il savoure ce moment suspendu.
 
-Après un moment et se sentant mieux dans cette «peau neuve», il élance doucement sa main vers le boîtier de contrôle. Il prend garde de ne pas brusquer la nuée. Il compose un nouveau code. La trappe s'ouvre à nouveau. Par un signal mystérieux, le nuage s'élance comme un seul être dans le refuge. Le [zoosymbiote](https://paoriiu.jiuuijh.fr/encyclopedie/#Zoosymbiote) a intégralement disparu. Il ne reste pas même une bactérie.
+Après un moment et se sentant mieux dans cette « peau neuve », il élance doucement sa main vers le boîtier de contrôle. Il prend garde de ne pas brusquer la nuée. Il compose un nouveau code. La trappe s'ouvre à nouveau. Par un signal mystérieux, le nuage s'élance comme un seul être dans le refuge. Le [zoosymbiote](https://paoriiu.jiuuijh.fr/encyclopedie/#Zoosymbiote) a intégralement disparu. Il ne reste pas même une bactérie.
 
 La trappe se referme.
 
-XeAr se fait masser par un jeu d'eau sous pression. Il l'aime un peu chaude et acide. Une saveur qui lui rappelle la fosse *f'ljos'ti*, là où les fumeroles crachent une eau de source minérale, douce et brûlante. (*Prononcer fioje sti ou flioje sti)*
+XeAr se fait masser par un jeu d'eau sous pression. Il l'aime un peu chaude et acide. Une saveur qui lui rappelle la fosse *f'ljos'ti*, là où les fumeroles crachent une eau de source minérale, douce et brûlante. (*prononcer fioje sti ou flioje sti* / \[flijoːʒɛ sti\]*)*
 
 La chaleur acide lui pince la peau et fait fondre ce que les poissons avaient laissé. L'eau n'a pas le goût soufré ni métallique des cheminées [grège](https://encycolorpedia.fr/search?q=grège).
 
@@ -306,13 +318,13 @@ La chaleur acide lui pince la peau et fait fondre ce que les poissons avaient la
 
 Sa tête heurte doucement le mur, il a un peu dérivé dans la cabine. Il rêvassait.
 
-L'eau qui massait les muscles a fini le travail du [zoosymbiote](https://paoriiu.jiuuijh.fr/encyclopedie/#Zoosymbiote), stimulant sa peau et dissolvant les impuretés résiduelles avec ses pensées. XeAr réouvre les paupières et se redresse d\'un coup.
+L'eau qui massait les muscles a fini le travail du [zoosymbiote](https://paoriiu.jiuuijh.fr/encyclopedie/#Zoosymbiote), stimulant sa peau et dissolvant les impuretés résiduelles avec ses pensées. XeAr réouvre les paupières et se redresse d'un coup.
 
 Il jette un coup d'œil à l'heure, il va finir par être en retard.
 
 OK la toilette traditionnelle [Bainymbiose](https://paoriiu.jiuuijh.fr/encyclopedie/#Bainymbiose) n'est pas finie, mais ça va aller.
 
-Il se sent entièrement purifié; plus net.
+Il se sent entièrement purifié ; plus net.
 
 Ce nettoyage rapide suffit amplement, inutile de faire une séance complète. Il fait évacuer l'eau acide pour en mettre une plus salée et propre. Normalement un vortex envahi la [zoOndirielle](https://paoriiu.jiuuijh.fr/encyclopedie/#zoOndirielle) et fait tournoyer l'[Aquanitescence](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquanitescence) dans toute la cabine. Mais XeAr préfère se rincer la peau à sa manière. Il fait quelques tours sur lui-même et sort.
 
@@ -322,29 +334,29 @@ XeAr fini de s'habiller, des vêtements un peu plus stricts car il a des cours..
 
 Sa sœur entre, sans se signaler, comme quand ils étaient enfants.
 
-- Alors? ça ne va pas? tu as trouvé 'des trucs'.» Lui lance-t-elle à brûle pour point.
+- Alors ? ça ne va pas ? tu as trouvé 'des trucs'. » Lui lance-t-elle à brûle pour point.
 
-- C'est ... un peu plus compliqué que ça.»
+- C'est ... un peu plus compliqué que ça. »
 
-- Pas le discours du; '*vous voulez entendre ça'*. Pas à moi; raconte!» Directe la sœur.
+- Pas le discours du ; '*vous voulez entendre ça'*. Pas à moi ; raconte ! » Directe la sœur.
 
-- Brièvement des [*nord'I*](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI) ne veulent pas répondre à certaines de mes questions.»
+- Brièvement des [*nord'I*](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI) ne veulent pas répondre à certaines de mes questions. »
 
-- Ben sur quoi?» Demande Dergfe.
+- Ben sur quoi ? » Demande Dergfe.
 
 Il hésite.
 
-- Euh ... c'est là que ça devient délicat en fait ...»
+- Euh ... c'est là que ça devient délicat en fait ... »
 
-- Comment ça?»
+- Comment ça ? »
 
-- Je ne peux pas vraiment t'en parler, et de toutes façons, je préfèrerais avoir des preuves.»
+- Je ne peux pas vraiment t'en parler, et de toutes façons, je préfèrerais avoir des preuves. »
 
-- Mouaii ça doit me rassurer?» Dit-elle en faisant la moue.
+- Mouaii ça doit me rassurer ? » Dit-elle en faisant la moue.
 
 - ...
 
-- Bon ben fait gaffe où tu mets les palmes! Et n'hésite pas à appeler ta sœur!» Ajoute-t-elle en pliant le bras gauche avec sa main droite sur le biceps, le regard tendre vers son grand frère.
+- Bon ben fait gaffe où tu mets les palmes ! Et n'hésite pas à appeler ta sœur ! » Ajoute-t-elle en pliant le bras gauche avec sa main droite sur le biceps, le regard tendre vers son grand frère.
 
 Il lui répond d'un clignement des yeux, quand il les réouvre, elle s'en va, le son de sa nage s'estompe.
 
@@ -352,13 +364,13 @@ XeAr fini de se préparer, rassembler ses affaires.
 
 Il rejoint sa famille pour leur dire au revoir.
 
-- Tu reviens nous voir quand?» Lui demande son père d'un air déçu de le voir partir si vite.
+- Tu reviens nous voir quand ? » Lui demande son père d'un air déçu de le voir partir si vite.
 
-- Hummm» Il compte sur ses doigts.
+- Hummm » Il compte sur ses doigts.
 
-- Quand tu veux mon chéri.» Lui lance sa mère.
+- Quand tu veux mon chéri. » Lui lance sa mère.
 
-- Pas avant la prochaine lune, j'ai pas mal de recherches à faire...»
+- Pas avant la prochaine lune, j'ai pas mal de recherches à faire... »
 
 Sa mère regarde son père et tous deux acquiescent.
 
@@ -367,7 +379,9 @@ XeAr les remercie d'un regard chaleureux. Il déjà dit aurevoir aux filles et �
 Il remet son sac et part.
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+
 ----
+
 ----
 
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>

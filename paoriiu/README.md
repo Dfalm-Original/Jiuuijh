@@ -1,22 +1,27 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## **Objet : Proposition d'un projet de roman libre, gratuit et participatif** - *p’Aoriiu Jiuuijh*
+
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/Affiche02b.png" width="85%" height="85%">
 
 ----
+
 # LE VOLET 1
+
 1. ### [LIRE le volet 1 : "p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Version-Courante/00_Il-était-une-fois-sous-l-eau.md)
-1. ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
-1. ### [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
-1. ### [Avertissement de lecture](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
-1. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
-1. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.2.Resume.md)
-1. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.1.Longue.md)
-1. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Licence.md)
-1. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
+2. ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
+3. ### [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
+4. ### [Avertissement de lecture](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Lire.md)
+5. ### [Mon Univers Aquatique : Si tu as pas peur de te faire spoiler](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/spoiler.md)
+6. ### [Présentation du projet en Résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.2.Resume.md)
+7. ### [Présentation version Longue du projet](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Presentation.1.Longue.md)
+8. ### [La licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/Licence.md)
+9. ### [Encyclopédie +/- Lexique](https://paoriiu.jiuuijh.fr/encyclopedie)
+
 ---
 
-### Le premier élément est la Langue : 
+### Le premier élément est la Langue :
+
 Pour distinguer le Français de l'Anglais je vais utiliser les icones suivantes :<br>
 To distinguish French from English I will use the following icons:<br>
 
@@ -28,41 +33,51 @@ To distinguish French from English I will use the following icons:<br>
 ## ⚠️ There is not and there will not be a translated version of the *project* in English (from me)
 
 > however if you want an English version (*or in another language*) you are free to do so ; translate and adapt this text & full PROJECT which is under [WTFPL license](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md).
+
 ----
+
 ----
+
 Version précédentes :
+
 1. lololo
-1. lillili
+2. lillili
 
 ----
 
 # 🔵⚪️🔴  Présentation du projet « Jiuuijh »
+
 Ici tu es à la racine du projet tu peux commencer par lire le premier volet ["p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/tree/main/paoriiu) : SPOILER  🫣 il y a plusieurs volets
 
 #### Alors ça se passe sur GitHub : https://github.com/Dfalm-Original/jiuuijh
 
 Ici nous sommes sur la version « [CANON](https://fr.wikipedia.org/wiki/Canon_(fiction)) » 
+
 - Si tu connais pas ou que tu sais pas comment ça marche ou que tu as peur, pas de panique ;
-Il y a plein d'autres liens tu peux retrouver la liste ici 👉 https://paoriiu.jiuuijh.fr/liens/ <br>
-### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
-> 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
-> 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
-> 🔖 Sur Substack : https://substack.com/@dfalm<br>
-> 📜 Sur Medium https://medium.com/@dfalm<br>
-> 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
-> 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
-> 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
-> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
+  Il y a plein d'autres liens tu peux retrouver la liste ici 👉 https://paoriiu.jiuuijh.fr/liens/ <br>
+  
+  ### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
+  
+  > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
+  > 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
+  > 🔖 Sur Substack : https://substack.com/@dfalm<br>
+  > 📜 Sur Medium https://medium.com/@dfalm<br>
+  > 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
+  > 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
+  > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
+  > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
 Et lien des 'RS' :<br>
+
 - Pour me joindre sur BlueSky je n’utilise pas l’autre réseau ; trop  N*zi à mon goût<br>
-https://bsky.app/profile/dfalm-original.bsky.social
+  https://bsky.app/profile/dfalm-original.bsky.social
 - Matrix ; un Discord OPEN SOURCE et Libre pour échanger<br>
-https://matrix.to/#/#Dfalm:matrix.org
+  https://matrix.to/#/#Dfalm:matrix.org
 - Et bien sûr il y a Discord<br>
-https://discord.gg/bf8uzxec
+  https://discord.gg/bf8uzxec
 
 # A - Présentation en Résumé
+
 ### Je t'invite à lire le texte plus exhaustif de la présentation en [résumé](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)
 
 Alors c’est l’histoire d’un projet qui sort un peu de l’ordinaire.
@@ -70,16 +85,20 @@ Alors c’est l’histoire d’un projet qui sort un peu de l’ordinaire.
 #### FIN DE LE PRÉSENTATION EN 1 PHRASE
 
 # B - Présentation version longue
+
 ### Je t'invite à lire le texte plus exhaustif de la présentation en [version longue](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.1.Longue.md).
 
 **« Le présent document a pour but de te présenter un projet d’écriture singulier :
 la création et le partage d’un texte sous licence libre, accessible gratuitement et ouvert à ta participation. »**
 
 Ça c'est pour la présentation *pompeuse*.
+
 #### FIN DE LE PRÉSENTATION EN PLUSIEURS PHRASES
 
 # C - La Licence WTFPL
+
 ### Je t'invite vivement à lire la [licence WTFPL](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md), c'est une licence "zéro" mais c'est important que tu la lises pour comprendre ce que cela signifie.
+
 C'est "plus" qu'une licence "ZERO" : domaine public.
 
 #### DONC : RTFM [licence](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md) 😉, merci tu me fais plaisir
@@ -93,12 +112,15 @@ Puis il y a des mots inventés, que j’ai inventé comme [p’Aoriiu](https://p
 Et c’est là la magie de l’internet mondial du ouaibe et des « liens » : comme tu le vois les mots sont écrits de manières différentes, il suffit de cliquer dessus pour aller lire la définition ; réelle ou imaginaire et avoir plus de détails.
 
 # E - LIRE
+
 Le premier volet l'appelle ["p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/tree/main/paoriiu) et il suffit de cliquer sur le lien pour venir le lire.
 
+----
 
 ----
-----
+
 # 🌎🌍🌏 Presentation of the "Jiuijh" project
+
 Here you are at the root of the project. You can start by reading the first part ["p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/tree/main/paoriiu): SPOILER 🫣 there are several parts
 
 ## SORRY ⚠️ There is not and there will not be a translated version of the *project* in English (from me)
@@ -108,27 +130,30 @@ Here you are at the root of the project. You can start by reading the first part
 #### So it's on GitHub: https://github.com/Dfalm-Original/jiuuijh
 
 Here we are on the "[CANON](https://fr.wikipedia.org/wiki/Canon_(fiction))" version
-- If you don't know how it works, or you're scared, don't panic; There are plenty of other links, you can find the list here 👉 https://paoriiu.jiuuijh.fr/liens/ <br>
-And here 👇<br>
-> 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
-> 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
-> 🔖 Sur Substack : https://substack.com/@dfalm<br>
-> 📜 Sur Medium https://medium.com/@dfalm<br>
-> 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
-> 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
-> 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
-> 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
+- If you don't know how it works, or you're scared, don't panic; There are plenty of other links, you can find the list here 👉 https://paoriiu.jiuuijh.fr/liens/ <br>
+  And here 👇<br>
+  
+  > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
+  > 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
+  > 🔖 Sur Substack : https://substack.com/@dfalm<br>
+  > 📜 Sur Medium https://medium.com/@dfalm<br>
+  > 💻 Sur MINDS : https://www.minds.com/dfalm/<br>
+  > 👩🏻‍💻 Sur Somee : https://somee.social/Dfalm<br>
+  > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
+  > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
 And the 'RS' link: <br>
+
 - To reach me on BlueSky, I don't use the other network; too N*zi for my taste<br>
-https://bsky.app/profile/dfalm-original.bsky.social
+  https://bsky.app/profile/dfalm-original.bsky.social
 - Matrix; an OPEN SOURCE and Free Discord for exchanging ideas<br>
-https://matrix.to/#/#Dfalm:matrix.org
+  https://matrix.to/#/#Dfalm:matrix.org
 - And of course there's Discord<br>
-https://discord.gg/bf8uzxec
+  https://discord.gg/bf8uzxec
 
 # A - Presentation Summary
+
 ### I invite you to read the more exhaustive text of the presentation in [summary](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.2.Resume.md)
 
 So this is the story of a project that's a bit out of the ordinary.
@@ -136,6 +161,7 @@ So this is the story of a project that's a bit out of the ordinary.
 #### END OF THE ONE-SENTENCE PRESENTATION
 
 # B - Long Presentation
+
 ### I invite you to read the more comprehensive text of the presentation in [long version](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Presentation.1.Longue.md).
 
 **"The purpose of this document is to present to you a unique writing project:
@@ -146,6 +172,7 @@ That's for the *pompous* presentation.
 #### END OF THE PRESENTATION IN SEVERAL SENTENCES
 
 # C - The WTFPL License
+
 ### I strongly encourage you to read the [WTFPL License](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md). It's a "zero" license, but it's important that you read it to understand what it means. It's "more" than a "ZERO" license: public domain.
 
 #### SO: RTFM [license](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Licence.md) 😉, thank you, you please me
@@ -159,6 +186,7 @@ Then there are invented words, which I invented, like [p’Aoriiu](https://paori
 And that's the magic of the global internet and "links": as you can see, the words are written in different ways, just click on them to read the definition—real or imaginary—and get more details.
 
 # E - READ
+
 The first part is called ["p’Aoriiu Jiuuijh"](https://github.com/Dfalm-Original/Jiuuijh/tree/main/paoriiu), and you just click on the link to read it.
 ----
 

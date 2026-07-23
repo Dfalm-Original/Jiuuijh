@@ -1,11 +1,15 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## PREMIER VOLET :  *p’Aoriiu Jiuuijh* -- Version V0.3
+
 <img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/06_Chapitre06_V0.2.png" width="85%" height="85%">
 
 ----
-Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
+
+Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
+
 ### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
+
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
 > 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
 > 🔖 Sur Substack : https://substack.com/@dfalm<br>
@@ -15,10 +19,12 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
 > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
-Et tu peux lire ici  ⏬
+Et tu peux lire ici  ⏬
 
 ----
+
 ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
+
 ### [Télécharger le fichier ODT](a-pAoriiu-jiuuijh_Volet1_Version.0.3.odt)  -- Version V0.3 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/odt.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.3.odt)
 
 #### [Télécharger toutes les versions .z7](a-pAoriiu-jiuuijh_Volet1_Version.0.3-Accessible-Luciole-PDF-livretA5.7z)  -- Version V0.3 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/pdf.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.3-Accessible-Luciole-PDF-livretA5.7z)
@@ -28,12 +34,17 @@ Police de caractères "Luciole" pour les malvoyants. [ICI LE SITE + Télécharge
 Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
 
 ----
+
 ## [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
+
 ----
+
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+
 [Version intégrale](a-pAoriiu-jiuuijh_Volet1_Version.0.3.md)  -- Version V0.3
+
 - [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
 - [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
 - [ ... sort en quelques coups ... ](04_Chapitre04.md)
@@ -54,15 +65,16 @@ Rappel : les mots avec une couleur différente c’est des liens cliquables. �
 ### [**Lexique**](a-pAoriiu-jiuuijh_Volet1-lexique.md)
 
 ---
+
 **Chapitre 6**
 
-XeAr pénètre le premier dans la grotte, il s\'immerge, et l'onde de choc est spatiale.
+XeAr pénètre le premier dans la grotte, il s'immerge, et l'onde de choc est spatiale.
 
 Moins vaste que la cité, pourtant, elle paraît plus immense --- infiniment vide, silencieuse, offerte.
 
-Ce n'est pas une [pangomaji](https://paoriiu.jiuuijh.fr/encyclopedie/#Pangomaji) --- ces cités organiques, ou la capitale --- où l\'ingénierie et la magie se mêlent pour créer un écosystème de vie. Cette grotte, elle, se dresse devant lui : brute, comme un long tunnel démesuré ; large, elle monte à pic sur mille mètres au-dessus.
+Ce n'est pas une [pangomaji](https://paoriiu.jiuuijh.fr/encyclopedie/#Pangomaji) --- ces cités organiques, ou la capitale --- où l'ingénierie et la magie se mêlent pour créer un écosystème de vie. Cette grotte, elle, se dresse devant lui : brute, comme un long tunnel démesuré ; large, elle monte à pic sur mille mètres au-dessus.
 
-C'est le réservoir d'échange d'eau ; une cavité rustique sans équipements, pas aménagée ni implantée.
+C'est le réservoir d'échange d'eau ; une cavité rustique sans équipements, pas aménagée ni implantée.
 
 C'est cette nudité, vierge, immaculée, qui procure à XeAr cet air de gigantisme, de liberté.
 
@@ -74,17 +86,17 @@ Avec xxsioo ils sont entrés par un local de service, une plateforme surélevée
 
 De leur perchoir ils distinguent les parois verticales et la largeur colossale d'à peu près trois kilomètres.
 
-Ici l'eau est moins [laminaire](https://fr.wikipedia.org/wiki/Écoulement_laminaire) et moins claire que celle de la cité --- c'est sa fonction ; se débarrasser de l'eau de la capitale. Les branchies de XeAr le lui rappellent.
+Ici l'eau est moins [laminaire](https://fr.wikipedia.org/wiki/Écoulement_laminaire) et moins claire que celle de la cité --- c'est sa fonction ; se débarrasser de l'eau de la capitale. Les branchies de XeAr le lui rappellent.
 
 Malgré sa [turbidité](https://fr.wikipedia.org/wiki/Turbidité), on aperçoit le fond de la grotte à presque deux [lieues](https://fr.wikipedia.org/wiki/Lieue) de là, un frisson parcourt ses ouïes à chaque fois qu'il en saisit la profondeur.
 
 Le plafond à peine un kilomètre au-dessus de XeAr fait apparaitre des veinures étranges.
 
-Avec le temps et le mouvement perpétuel de l'eau chaude, l\'érosion a creusé les roches tendres. Les courants se sont chargés de dessiner de jolies fresques géologiques. Ces striures serpentent avec une élégance sauvage, comme des souvenirs laissés par un geste ancien.
+Avec le temps et le mouvement perpétuel de l'eau chaude, l'érosion a creusé les roches tendres. Les courants se sont chargés de dessiner de jolies fresques géologiques. Ces striures serpentent avec une élégance sauvage, comme des souvenirs laissés par un geste ancien.
 
 La grotte est le plus grand des prolongements naturels de la capitale, d'anciennes bulles de magma.
 
-Le regarde de XeAR remonte le long des veines volcaniques qui relient les deux cavités dans un système de [convection](https://fr.wikipedia.org/wiki/Convection_thermique) thermique spontané. Les [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) et les [Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) les ont transformé et optimisé, de nouvelles structures ont vu le jour, dans un mouvement [hélicoïdal](https://fr.wikipedia.org/wiki/Hélicoïde) ; les [Spirales des Marées Éternelles](https://paoriiu.jiuuijh.fr/encyclopedie/#Spirale%20des%20Marées%20Éternelles).
+Le regarde de XeAR remonte le long des veines volcaniques qui relient les deux cavités dans un système de [convection](https://fr.wikipedia.org/wiki/Convection_thermique) thermique spontané. Les [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) et les [Jobotaa](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) les ont transformé et optimisé, de nouvelles structures ont vu le jour, dans un mouvement [hélicoïdal](https://fr.wikipedia.org/wiki/Hélicoïde) ; les [Spirales des Marées Éternelles](https://paoriiu.jiuuijh.fr/encyclopedie/#Spirale%20des%20Marées%20Éternelles).
 
 L'eau chaude remonte de la cité par ces spirales vers l'immense réservoir, elle s'y refroidi pour être évacuée --- vers les failles lointaines --- purifiant tout le système.
 
@@ -92,7 +104,7 @@ Cette exhalation lente maintient la vie.
 
 XeAr sent immédiatement la différence : l'eau est plus chaude, plus chaotique. Elle a quelques degrés de plus, pas brûlante --- juste assez pour qu'il la sente sur ses branchies, comme une tiédeur confortable.
 
-Le débit de ces immenses structures crée des courants chauds et froids qui s\'affrontent et tourbillonnent --- d\'où le nom de « Grotte des Tourbillons ».
+Le débit de ces immenses structures crée des courants chauds et froids qui s'affrontent et tourbillonnent --- d'où le nom de « Grotte des Tourbillons ».
 
 L'eau chaude s'écoule depuis le haut de la caverne, pour aller se jeter au fond, à deux [lieues](https://fr.wikipedia.org/wiki/Lieue), dans des fractures et failles éparses. Finalement elle s'écoule à nouveau propre et à température normale, quelques dizaines de [lieues](https://fr.wikipedia.org/wiki/Lieue) derrière la mégapole, de l'autre côté de l'ancienne [dorsale](https://fr.wikipedia.org/wiki/Dorsale_(géologie)).
 
@@ -100,11 +112,11 @@ Les yeux de XeAr quittent les anfractuosités de décharge, équipées de filtre
 
 Originellement l'endroit n'était pas ouvert au public.
 
-De petites balises [Blanÿdro](https://paoriiu.jiuuijh.fr/encyclopedie/#Blanÿdro) clignotent comme des [calamars-lucioles](https://en.wikipedia.org/wiki/Firefly_squid), signalant les conduits d'évacuation. Elles émettent des signaux lumineux avec une signature thermique spécifiquement ; identifiable sous l\'eau. La zone de loisir est clairement délimitée et bien protégée par la douce magie du maillage de ces balises. Là-bas l'[Ondosphère](https://paoriiu.jiuuijh.fr/encyclopedie/#Ondosphere) a un goût subtil de quartz réchauffé.
+De petites balises [Blanÿdro](https://paoriiu.jiuuijh.fr/encyclopedie/#Blanÿdro) clignotent comme des [calamars-lucioles](https://en.wikipedia.org/wiki/Firefly_squid), signalant les conduits d'évacuation. Elles émettent des signaux lumineux avec une signature thermique spécifiquement ; identifiable sous l'eau. La zone de loisir est clairement délimitée et bien protégée par la douce magie du maillage de ces balises. Là-bas l'[Ondosphère](https://paoriiu.jiuuijh.fr/encyclopedie/#Ondosphere) a un goût subtil de quartz réchauffé.
 
 XeAr ne sent pas cette pression mentale qui le hante en ville.
 
-- Tu viens ? » Lance xxsioo, en quittant la plate-forme de maintenance, bordée de gyrophares et de crochets pour les équipes techniques.
+- Tu viens ? » Lance xxsioo, en quittant la plate-forme de maintenance, bordée de gyrophares et de crochets pour les équipes techniques.
 
 Deux rampes s'en détachent : l'une vers le poste de secours facile à repérer de sa couleur [safran](https://encycolorpedia.fr/search?q=safran). De l'autre côté différents kiosques ; nourriture, partage de matériel, ballons de chutes, vestiaires et souvenirs. C'est autant un lieu de loisir et de détente que de curiosité touristique.
 
@@ -118,25 +130,25 @@ Tant mieux : il aurait le temps d'aller chercher des palmes.
 
 Il n'a que ses palmes de ville, pratiques pour les manœuvres rapides des couloirs, dans la foule mais ici.
 
-- Je te prends un cornet ? » Demande xxsioo.
+- Je te prends un cornet ? » Demande xxsioo.
 
-- Humm oui tient. Un petit s'il te plait, je vais en profiter pour laisser 'toutes' mes affaires au vestiaire. » Avec un clin d'œil complice, sur le « toutes » » ; mes affaires.
+- Humm oui tient. Un petit s'il te plait, je vais en profiter pour laisser 'toutes' mes affaires au vestiaire. » Avec un clin d'œil complice, sur le « toutes » » ; mes affaires.
 
-- Vous me laissez faire les sales besognes de larbin... » Répond la [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe), d'un bras ondoyant.
+- Vous me laissez faire les sales besognes de larbin... » Répond la [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe), d'un bras ondoyant.
 
 XeAr est déjà arrivé au guichet de partage avant que son ami ait fini son sarcasme. Il choisit une paire de palmes [orangée](https://encycolorpedia.fr/search?q=orange), celles des techniciens des canalisations, lorsqu'ils font leurs inspections. Ça fait longtemps qu'il a envie de les essayer, c'est l'occasion.
 
-Après avoir déposé ses affaires et ses soucis au vestiaire comme ils l'avaient convenu ; il chausse. Une fois ses pieds dedans, un léger ajustement. Elles lui procurent un sentiment d\'efficacité professionnelle, une force empruntée. Il kiffe bien.
+Après avoir déposé ses affaires et ses soucis au vestiaire comme ils l'avaient convenu ; il chausse. Une fois ses pieds dedans, un léger ajustement. Elles lui procurent un sentiment d'efficacité professionnelle, une force empruntée. Il kiffe bien.
 
 Dans une nage de découverte, il rejoint xxsioo qui tient un cornet à la main et de l'autre NaHO.
 
-- Vous arrivez ? » Lui demande ce dernier en voyant arriver XeAr.
+- Vous arrivez ? » Lui demande ce dernier en voyant arriver XeAr.
 
 - Comme tu vois. Cette andouille m'a pas dit qu'on venait. » Tout en l'enlaçant.
 
-- Toi ! Tu es un génie, tu as compris le principe de la surprise. » Lui répond moqueur NaHO.
+- Toi ! Tu es un génie, tu as compris le principe de la surprise. » Lui répond moqueur NaHO.
 
-- Allez ! montre-nous tes palmes. » S'exclame XeAr, tandis que xxsioo lui tend le cornet, mains nues.
+- Allez ! montre-nous tes palmes. » S'exclame XeAr, tandis que xxsioo lui tend le cornet, mains nues.
 
 NaHO est un [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) plutôt râblais et trapu, mais plus gras et petit que XeAr.
 
@@ -148,13 +160,13 @@ Il est très musclé, c'est un grand sportif, il participe et gagne beaucoup de 
 
 Son visage rond est éclairé par de petits yeux malicieux [olivâtre](https://encycolorpedia.fr/708d23), enchâssés dans ses pommettes rosées.
 
-- Hé bien elles ont l'air taillées pour la chasse ! Tu dois te faire de sacrés sprints... » Sourit XeAr.
+- Hé bien elles ont l'air taillées pour la chasse ! Tu dois te faire de sacrés sprints... » Sourit XeAr.
 
-- Je viens de faire trois ou quatre petits tours. Je suis arrivé un peu en avance pour les essayer. Elles sortent de leur emballage et je ne voulais pas trop passer pour un alevin. » Avoua NaHO.
+- Je viens de faire trois ou quatre petits tours. Je suis arrivé un peu en avance pour les essayer. Elles sortent de leur emballage et je ne voulais pas trop passer pour un alevin. » Avoua NaHO.
 
-- On y va ! » Demande xxsioo en remettant ses gants qui transforme ses longs doigts en véritables pagaies.
+- On y va ! » Demande xxsioo en remettant ses gants qui transforme ses longs doigts en véritables pagaies.
 
-- Le denier en haut est de corvée ! » Clame NaHO en s'élançant sournoisement.
+- Le denier en haut est de corvée ! » Clame NaHO en s'élançant sournoisement.
 
 xxsioo claque des talons.
 
@@ -162,7 +174,7 @@ Ses bottes libèrent les membranes de ses palmes qui s'ouvrent comme des fleurs.
 
 Ce sont deux belles [marinoptère](https://paoriiu.jiuuijh.fr/encyclopedie/#Marinoptère) argentées, longues, effilées plus longues que celles de NaHO.
 
-En « configuration-nage » et en une ondulation du bassin il se soulève du sol.
+En « configuration-nage » et en une ondulation du bassin il se soulève du sol.
 
 Dans le même mouvement, ses palmes se solidarisent en une nageoire unique --- scellée par une impulsion magique.
 
@@ -182,15 +194,15 @@ XeAr suit ses amis dans le tourbillon d'eau froide ascendant qui vrille autour d
 
 Ils viennent souvent à ce moment de la journée, pour profiter du calme, il y a peu de monde et les courants chauds ne sont pas violents.
 
-La majorité des gens choisissent de venir plus tard, préférant des températures plus clémentes, chaudes. C'est plus agréable et c'est plus familial ; les enfants se régalent. Comme tous les enfants, tous les trois ont découvert la grotte de cette manière.
+La majorité des gens choisissent de venir plus tard, préférant des températures plus clémentes, chaudes. C'est plus agréable et c'est plus familial ; les enfants se régalent. Comme tous les enfants, tous les trois ont découvert la grotte de cette manière.
 
 XeAr commence à rattraper NaHO avec ses larges palmes de technicien. Il ne les a pas [*accaudées*](https://paoriiu.jiuuijh.fr/encyclopedie/#Accauder) préférant battre des deux jambes, comme les chasseurs de sa région.
 
-Ils continuent la grimpée, portés dans la colonne d'eau principale ; « *le pog* » --- les larges spirales permettent d'en profiter au maximum. Le courant se resserre autour d'eux, et la sensation d'être pris dans un couloir liquide galvanise XeAr.
+Ils continuent la grimpée, portés dans la colonne d'eau principale ; « *le pog* » --- les larges spirales permettent d'en profiter au maximum. Le courant se resserre autour d'eux, et la sensation d'être pris dans un couloir liquide galvanise XeAr.
 
 Après être montés de plusieurs centaines de mètres assez doucement --- afin de se chauffer les muscles --- ils finissent une boucle. En revenant près de la paroi XeAr fait signe. Les trois amis quittent le '[thermique](https://fr.wikipedia.org/wiki/Convection_thermique)' pour aller frôler la roche nue.
 
-Là se love « Le propulseur », coincé entre la colonne d'eau et l'escarpement, un mince couloir de friction où la montée devient brutale, presque violente. Seuls les nageurs aguerris se risquent dans ce courant, XeAr sent l'excitation monter dans sa poitrine, une pointe délicieuse sur ses ouïes de « [fretin](https://www.cnrtl.fr/definition/fretin) ».
+Là se love « Le propulseur », coincé entre la colonne d'eau et l'escarpement, un mince couloir de friction où la montée devient brutale, presque violente. Seuls les nageurs aguerris se risquent dans ce courant, XeAr sent l'excitation monter dans sa poitrine, une pointe délicieuse sur ses ouïes de « [fretin](https://www.cnrtl.fr/definition/fretin) ».
 
 Il [*accaude*](https://paoriiu.jiuuijh.fr/encyclopedie/#Accauder) ses palmes. C'est le goût de l'adrénaline qu'il sent aux branchies. La course est lancée. L'[Hydrocène](https://paoriiu.jiuuijh.fr/encyclopedie/#Hydrocene) devient plus dense.
 
@@ -210,13 +222,13 @@ Il faut monter le long de la paroi, pour être éjecter par le puissant courant 
 
 xxsioo quant à lui les double quelques secondes après profitant d'un courant cisaillant entre l'eau chaude et le plafond. Son ami glisse dans une sinusoïde gracieuse, porté par l'effet de [rhéofluidification](https://fr.wikipedia.org/wiki/Rhéofluidification), qu'il maîtrise avec une aisance presque insolente.
 
-XeAr trouve son petit nom plus joli ; « [Nœud de Courant](https://paoriiu.jiuuijh.fr/encyclopedie/#Noeud-de-Courant) », parce que les eaux s'enlacent et permet et d'aller plus vite que le courant principal.
+XeAr trouve son petit nom plus joli ; « [Nœud de Courant](https://paoriiu.jiuuijh.fr/encyclopedie/#Noeud-de-Courant) », parce que les eaux s'enlacent et permet et d'aller plus vite que le courant principal.
 
 xxsioo a reconfiguré ses genoux, sa mono-palme est désormais perpendiculaire à ses épaules. Il ondule comme un requin de gauche et droite, fluide, précis.
 
-- Il l'a eu. » Lance NaHO sans vraiment savoir si XeAr a entendu.
+- Il l'a eu. » Lance NaHO sans vraiment savoir si XeAr a entendu.
 
-xxsioo a toujours été doué en [Kaironautique](https://paoriiu.jiuuijh.fr/encyclopedie/#Kaironautique) ; il sait super bien lire les courants. Il trouve toujours les trajets les plus sûrs, plus rapides ou plus discrets. Il a vraiment une perception intuitive des \"moments opportuns\".
+xxsioo a toujours été doué en [Kaironautique](https://paoriiu.jiuuijh.fr/encyclopedie/#Kaironautique) ; il sait super bien lire les courants. Il trouve toujours les trajets les plus sûrs, plus rapides ou plus discrets. Il a vraiment une perception intuitive des \"moments opportuns\".
 
 Les deux [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) s'aident de leurs bras pour rejoindre aussi cette zone de '*subito*', qui longe le plafond.
 
@@ -224,7 +236,7 @@ Ils profitent qu'il y ait peu de monde.
 
 Ils rasent la roche volcanique de la voûte pour profiter du tube de courant et gagner encore un peu de vitesse. Ils se doublent et se redoublent, donnant une tape amicale sur l'épaule de l'autre.
 
-Chacun avec sa technique de nage : NaHO le champion, XeAr le chasseur et xxsioo la [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe).
+Chacun avec sa technique de nage : NaHO le champion, XeAr le chasseur et xxsioo la [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe).
 
 À trois, ils forment une chorégraphie désordonnée mais joyeuse. La grotte résonne des courants, et XeAr sent son cœur battre au même rythme que la caverne.
 
@@ -232,7 +244,7 @@ Bientôt ils atteignent à la moitié de la grotte.
 
 Le *ciuda* s'est déjà beaucoup tiédi et ils ont perdu plusieurs dizaines de mètres depuis le plafond.
 
-Dans une centaine de mètres ce courant principal se refroidi brutalement et plonge dans une marche abrupte. C'est la zone de [subduction](https://fr.wikipedia.org/wiki/Subduction) ; un ruban de front.
+Dans une centaine de mètres ce courant principal se refroidi brutalement et plonge dans une marche abrupte. C'est la zone de [subduction](https://fr.wikipedia.org/wiki/Subduction) ; un ruban de front.
 
 Il a hâte.
 
@@ -244,7 +256,7 @@ Dans un échange thermodynamique complexe mais amusant, cette masse qui arrive d
 
 Le courant, dans lequel ils nageaient, va rencontrer un « mur » d'eau --- une [pycnocline](https://fr.wikipedia.org/wiki/Pycnocline) --- et va devoir passer. Mais il va passer par en dessous, vers le bas. XeAr sent son ventre se serrer d'excitation.
 
-C'est un jeu pour ceux qui le connaissent : il faut quitter le courant --- le *ciuda* --- pour remonter au plafond et passer par-dessus la zone d'affrontement.
+C'est un jeu pour ceux qui le connaissent : il faut quitter le courant --- le *ciuda* --- pour remonter au plafond et passer par-dessus la zone d'affrontement.
 
 Le courant plonge alors brusquement, créant ce pli d'eau que seuls les nageurs avertis savent contourner.
 
@@ -266,7 +278,7 @@ XeAr commence à le sentir, ce courant aspirateur descendant, froid et très rap
 
 Ses branchies sont pénétrées de l'échange de chaleur et le changement de salinité.
 
-Il y est, en plein dedans ; « *la tombante* », c'est le courant sœur du « *pog* » une violente [Thermocline](https://fr.wikipedia.org/wiki/Thermocline).
+Il y est, en plein dedans ; « *la tombante* », c'est le courant sœur du « *pog* » une violente [Thermocline](https://fr.wikipedia.org/wiki/Thermocline).
 
 Là où l'autre monte l'une descend avec une voracité silencieuse.
 
@@ -296,19 +308,19 @@ Des centaines de mètres dessous, aspiré comme un grain dans un tourbillon affa
 
 XeAr le suit, puis NaHO, incapables de résister à la force titanesque qui les tort.
 
-C'est « la claque sur les épaules », le tourbillon qui les happe.
+C'est « la claque sur les épaules », le tourbillon qui les happe.
 
 Ils [choient](https://conjugaison.bescherelle.com/verbes/choir), xxsioo est déjà parti en vrille pour garder la direction.
 
 XeAr met son bras droit incurvé et donne de violents coups du bras gauche pour prendre l'angle. La rotation commence et s'accélère très rapidement.
 
-Le but est de plonger, en utilisant la colonne froide de la « tombante » puis de transpercer en premier, le *ciuda* puis le [Zéphal](https://paoriiu.jiuuijh.fr/encyclopedie/#Zéphal).
+Le but est de plonger, en utilisant la colonne froide de la « tombante » puis de transpercer en premier, le *ciuda* puis le [Zéphal](https://paoriiu.jiuuijh.fr/encyclopedie/#Zéphal).
 
-Un choc, puis un autre, il a perforé le premier, il est ballotté dans tous les sens ; entre les deux courants.
+Un choc, puis un autre, il a perforé le premier, il est ballotté dans tous les sens ; entre les deux courants.
 
-Le *ciuda* et le [Zéphal](https://paoriiu.jiuuijh.fr/encyclopedie/#Zéphal), vont en sens contraire, créant ce courant de friction ; le « *fricteur bas* ».
+Le *ciuda* et le [Zéphal](https://paoriiu.jiuuijh.fr/encyclopedie/#Zéphal), vont en sens contraire, créant ce courant de friction ; le « *fricteur bas* ».
 
-Tout va trop vite pour que la pensée puisse rattraper l'action, il est propulsé en avant, en arrière, droite gauche\... Vlan ! ça recommence, il prend le *ciuda* de sortie.
+Tout va trop vite pour que la pensée puisse rattraper l'action, il est propulsé en avant, en arrière, droite gauche... Vlan ! ça recommence, il prend le *ciuda* de sortie.
 
 XeAr est complètement désorienté. Il a le tournis. Il sent qu'il virevolte. Il dérive encore un peu et continue de tomber puis il rencontre le *fricteur bas* et se sent propulsé dans tous les sens, le corps incontrôlable. Ses branchies sont irritées mais la sensation est agréable, familière, presque rassurante.
 
@@ -320,13 +332,13 @@ XeAr et NaHO un peu fatigués, leurs branchies à tous deux irritées mais la se
 
 Arrivés, ils s'installent sur la petite plateforme. XeAr et NaHO inhalent et exhalent profondément.
 
-xxsioo s'assoit sur le rebord. Il laisse pendre ses longues jambes profilées et bat doucement l\'eau, palmes repliées. De son corps musculeux en métal, on voit l'eau qui ondule à cause du rayonnement de chaleur. Dans son dos il a ouvert ses évents thermiques. Ses jambes irradient et réchauffent l'eau, avec la lumière ça fait des reflets rigolos.
+xxsioo s'assoit sur le rebord. Il laisse pendre ses longues jambes profilées et bat doucement l'eau, palmes repliées. De son corps musculeux en métal, on voit l'eau qui ondule à cause du rayonnement de chaleur. Dans son dos il a ouvert ses évents thermiques. Ses jambes irradient et réchauffent l'eau, avec la lumière ça fait des reflets rigolos.
 
 Les deux [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu) reviennent à eux, le regard vague vers la grotte.
 
 C'est NaHO qui se retourne le premier.
 
-- Wouaaaa. »
+- Wouaaaa. »
 
 - Oui. » Répond XeAr.
 
@@ -336,7 +348,7 @@ Ils regardent passer les gens qui profitent du [Zéphal](https://paoriiu.jiuuijh
 
 Malgré la grande distance, XeAr distingue les bâtiments [safran](https://encycolorpedia.fr/search?q=safran) de secourisme et les déversoirs. Pourtant ils ne sont même pas à cinq cents mètres de la fin de la grotte. De l'autre côté, il peut voir les fissures d'évacuations balisées de lampes [Blanÿdro](https://paoriiu.jiuuijh.fr/encyclopedie/#Blanÿdro) et filins de sécurités. Les lumières des puissants projecteurs lancent leurs rayons à travers les différentes masses d'eau, les courants et le sel.
 
-- Elle est vraiment très belle cette grotte. » Murmure XeAr en regardant ses amis.
+- Elle est vraiment très belle cette grotte. » Murmure XeAr en regardant ses amis.
 
 Tous trois voient arriver un groupe de jeunes qui essayent eux aussi le même petit jeu. Les premiers, plus costauds, passent assez facilement, l'élan et le poids. XeAr observe, les dernières silhouettes sont plus fluettes, légères et éprouvent des difficultés. Elles se débattent avec une énergie désordonnée et leur trajectoire semble hésiter, presque fragile.
 
@@ -344,11 +356,11 @@ XeAr, NaHO et xxsioo échangent des regards. Ils ont vu la même chose.
 
 C'est xxsioo qui parle.
 
-- Cette fois ci, c'est ton tour XeAr. »
+- Cette fois ci, c'est ton tour XeAr. »
 
 Sans protester, il détend ses jambes. Il fait quelques mouvements et se laisse tomber de la plateforme, il [accaude](https://paoriiu.jiuuijh.fr/encyclopedie/#Accauder) ses palmes. Il nage hâtivement, vers le petit groupe. Il prend de la vitesse rapidement ; son corps retrouve ses automatismes, la respiration fluide, les branchies ouvertes juste ce qu'il faut pour absorber la densité fraîche du courant. Il franchit vite les quelques cent mètres qui les séparent.
 
-Il voit mieux. La scène se précise : une des dernières silhouettes n'est pas arrivée pas assez vite. Elle n'a pas pu traverser le mur d\'eau cette frontière mouvante qui demande autant de timing que d\'élan.
+Il voit mieux. La scène se précise : une des dernières silhouettes n'est pas arrivée pas assez vite. Elle n'a pas pu traverser le mur d'eau cette frontière mouvante qui demande autant de timing que d'élan.
 
 Elle se fait happer par la retombée du ciuda et roule vers l'aval, désorientée.
 
@@ -388,7 +400,7 @@ D'un coup sec, il l'entraine vers le bas.
 
 Leurs regards se croisent. Elle paraît à peine surprise.
 
-Elle saisit la main qu\'il lui tend.
+Elle saisit la main qu'il lui tend.
 
 D'un signe de tête, il lui indique de descendre. Il l'aide en nageant vers le courant de retour. Sa main dans la sienne, tendue le long du corps. Il la tire ou l'attire vers le sol, tout en faisant attention à elle.
 
@@ -414,7 +426,7 @@ Il l'aide à s'asseoir contre le rebord d'une corniche.
 
 Puis, d'un geste tendre, sort de son sac à flanc une barre d'algue vitaminée. Une [homeyostase](https://paoriiu.jiuuijh.fr/encyclopedie/#Homeyostase) de sa composition.
 
-- Recette perso. » En souriant.
+- Recette perso. » En souriant.
 
 Quelques filtrations d'eau plus fortes, elle accepte. Elle croque à pleines dents ; ça va la booster.
 
@@ -434,43 +446,43 @@ Ses cheveux roux flamboyant s'échappent légèrement de son voile [cobalt](http
 
 Elle se laisse faire en inclinant légèrement la tête pour faciliter son geste. La [Voluméa](https://paoriiu.jiuuijh.fr/encyclopedie/#Volumea) a un arôme doux et légèrement épicé, une note anisée sur une exhalation courte le long de ses branchies.
 
-- Merci. » Dit-elle simplement.
+- Merci. » Dit-elle simplement.
 
-- Vous êtes encore plus jolie comme ça. » Répond-il avant même de réfléchir.
+- Vous êtes encore plus jolie comme ça. » Répond-il avant même de réfléchir.
 
 Elle écarquille les yeux.
 
-- Je voulais dire pour... » D'un regard vers les courants.
+- Je voulais dire pour... » D'un regard vers les courants.
 
-- Votre imprudence ? »
+- Votre imprudence ? »
 
-- Je n'aurais pas dit ça si franchement, mais en effet... »
+- Je n'aurais pas dit ça si franchement, mais en effet... »
 
-- Hummm voilà. » Dit-il en finissant d'ajuster le dernier pli de son voile de coiffe.
+- Hummm voilà. » Dit-il en finissant d'ajuster le dernier pli de son voile de coiffe.
 
-Elle soupire :
+Elle soupire :
 
-- J'ai l'air un peu stupide... »
+- J'ai l'air un peu stupide... »
 
-- Je n'aurais pas dit ça si franchement. » Pour reprendre ses termes à elle et d'ajouter,
+- Je n'aurais pas dit ça si franchement. » Pour reprendre ses termes à elle et d'ajouter,
 
-> Disons 'novice' je suppose que c'est votre première fois ici ? »
+> Disons 'novice' je suppose que c'est votre première fois ici ? »
 
-- La deuxième, en réalité. »
+- La deuxième, en réalité. »
 
-- XeAr. Enchanté ! Vous ferrez plus attention la prochaine fois et vous vous amuserez, promis. »
+- XeAr. Enchanté ! Vous ferrez plus attention la prochaine fois et vous vous amuserez, promis. »
 
-- AgI... » Répond-t-elle en se relevant, dans une fragrance complexe, à la fois frais et miellé de notes chaudes aromatique :
+- AgI... » Répond-t-elle en se relevant, dans une fragrance complexe, à la fois frais et miellé de notes chaudes aromatique :
 
-> ... elles sont très bonnes vos barres d'algues. » Ajoute-t-elle avec sincérité.
+> ... elles sont très bonnes vos barres d'algues. » Ajoute-t-elle avec sincérité.
 
 Il la regarde en levant la tête, les yeux à la hauteur son pubis surligné de [pourpre](https://encycolorpedia.fr/search?q=pourpre). Ses seins en contre plongée dans un bonnet [écru](https://encycolorpedia.fr/eeceac), elle lui tend la main.
 
-- Adaptation personnelle d'une recette de ma région natale. » Dit-il en la saisissant pour se lever à son tour.
+- Adaptation personnelle d'une recette de ma région natale. » Dit-il en la saisissant pour se lever à son tour.
 
-- Nous devrions rejoindre nos amis. » Son voile de coiffe remis en place, prolonge le synthé-peau de soie, des oreilles et descend jusqu'à son cou.
+- Nous devrions rejoindre nos amis. » Son voile de coiffe remis en place, prolonge le synthé-peau de soie, des oreilles et descend jusqu'à son cou.
 
-- Après vous. » Dans une déférence pleine d'humour.
+- Après vous. » Dans une déférence pleine d'humour.
 
 Ils repartent tous les deux vers la plateforme où les attend les deux groupes.
 
@@ -496,35 +508,35 @@ AgI s'est faite avoir, mais on ne l'y reprendra plus.
 
 NaHO de son expérience de compétiteur, la rassure, elle et ses amis. Ce petit jeu est difficile. C'est en faisant des erreurs qu'on apprend, d'un ton rieur.
 
-- Je me souviens, nous étions venus tous les deux avec XeAr. Nos parents étaient inquiets de pas nous voir revenir. Mais ils se sont tellement marrés en nous voyant arriver avec les techniciens qui nous avaient récupérés. » Renchérit NaHO.
+- Je me souviens, nous étions venus tous les deux avec XeAr. Nos parents étaient inquiets de pas nous voir revenir. Mais ils se sont tellement marrés en nous voyant arriver avec les techniciens qui nous avaient récupérés. » Renchérit NaHO.
 
-- On avait tellement honte. Leurs rires et leurs câlins nous ont fait du bien. » Confirme XeAr.
+- On avait tellement honte. Leurs rires et leurs câlins nous ont fait du bien. » Confirme XeAr.
 
-Curieuse une voix dans le groupe s'intéresse et demande dans quelle branche ils sont ?
+Curieuse une voix dans le groupe s'intéresse et demande dans quelle branche ils sont ?
 
-C'est NaHO qui répond le premier :
+C'est NaHO qui répond le premier :
 
-- Je suis en [*Cijh-lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Cijh-lec) spécialité [*Exlec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Exlec). »
+- Je suis en [*Cijh-lec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Cijh-lec) spécialité [*Exlec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Exlec). »
 
 AgI est très intéressée, car elle hésite entre [*Exlec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Exlec) ou [*Ectec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Ectec). Mais comme elle est encore en première année. Elle fait ses généralisations avant de vraiment choisir. Elle aime bien l'idée de participer à l'entretient et le bon fonctionnement de [nord'I](https://paoriiu.jiuuijh.fr/encyclopedie/#NordI). Ça doit vraiment être grisant de pouvoir être à leur contact direct, peu importe la spécialisation, technique ou logicielle. Elle et plusieurs autres entament des échanges animés autour du sujet.
 
 XeAr en profite pour demander un peu à part à xxsioo.
 
-- Comment tu la connais la [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) ? » Demande-t-il sincèrement curieux.
+- Comment tu la connais la [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) ? » Demande-t-il sincèrement curieux.
 
 xxsioo un regard tendre lui répond, ses yeux devenant étrangement doux.
 
-- On était voisins, c'est une amie d'enfance, nous avons partagés les mêmes cuves [Germinode](https://paoriiu.jiuuijh.fr/encyclopedie/#Germinode)... »
+- On était voisins, c'est une amie d'enfance, nous avons partagés les mêmes cuves [Germinode](https://paoriiu.jiuuijh.fr/encyclopedie/#Germinode)... »
 
-- Quoi ? Mais alors vous avez grandi dans la même culture [Bouturhine](https://paoriiu.jiuuijh.fr/encyclopedie/#Bouturhine) ? C'est trop cool ! » le coupe plein d'enthousiasme XeAr.
+- Quoi ? Mais alors vous avez grandi dans la même culture [Bouturhine](https://paoriiu.jiuuijh.fr/encyclopedie/#Bouturhine) ? C'est trop cool ! » le coupe plein d'enthousiasme XeAr.
 
-- J'y suis resté, jusqu'à ce que mes parents déménagent au village. C'était tout juste après ma mue. »
+- J'y suis resté, jusqu'à ce que mes parents déménagent au village. C'était tout juste après ma mue. »
 
-- Je me rappelle, elle n'était pas totalement polymérisée à ce moment-là, non ? Mais ce n'était pas trop tôt pour toi de faire ce voyage ? »
+- Je me rappelle, elle n'était pas totalement polymérisée à ce moment-là, non ? Mais ce n'était pas trop tôt pour toi de faire ce voyage ? »
 
-- Oui, mais ta grand-mère m'a beaucoup aidé pendant cette période de transition. »
+- Oui, mais ta grand-mère m'a beaucoup aidé pendant cette période de transition. »
 
-- Tu l'avais dit pendant ton discours pour son [Épanuitude](https://paoriiu.jiuuijh.fr/encyclopedie/#Epanuitude). Il était émouvant. Rien que d'y penser... » Dit Xear, la voix pleine d'émotion.
+- Tu l'avais dit pendant ton discours pour son [Épanuitude](https://paoriiu.jiuuijh.fr/encyclopedie/#Epanuitude). Il était émouvant. Rien que d'y penser... » Dit Xear, la voix pleine d'émotion.
 
 XeAr sent une pression douce contre sa poitrine. Le souvenir est encore vivant, lumineux.
 
@@ -534,39 +546,39 @@ Une odeur de terre tiède lui revient. Son cœur bat plus lentement.
 
 Tous les deux se regardent, souriant et joyeux.
 
-- Elle m'a énormément soutenu. La transition c'est toujours délicat pour une [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe). Mon ami a choisi son état et moi j'ai laissé faire le hasard, et me voici. »
+- Elle m'a énormément soutenu. La transition c'est toujours délicat pour une [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe). Mon ami a choisi son état et moi j'ai laissé faire le hasard, et me voici. »
 
-- C'est super ça, du coup maintenant il fait quoi ? »
+- C'est super ça, du coup maintenant il fait quoi ? »
 
-- Il est à l'entretien comme tu as vu mais aussi mannequin. Il est venu avec sa fille, il a quitté le village. Il a rencontré une superbe [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu). Et ça semble aller pour eux\... »
+- Il est à l'entretien comme tu as vu mais aussi mannequin. Il est venu avec sa fille, il a quitté le village. Il a rencontré une superbe [p'Aoriiu](https://paoriiu.jiuuijh.fr/encyclopedie/#pAoriiu). Et ça semble aller pour eux... »
 
 La conversation est interrompue par l'agenda de XeAr.
 
-- Mince c'est déjà l'heure ? » Dit-il surpris lui-même.
+- Mince c'est déjà l'heure ? » Dit-il surpris lui-même.
 
-- ... » Demande xxsioo.
+- ... » Demande xxsioo.
 
-- Je mange en famille ce soir. »
+- Je mange en famille ce soir. »
 
-- Il y aura Uzeanu ? » Demande xxsioo, super content.
+- Il y aura Uzeanu ? » Demande xxsioo, super content.
 
-- Non y peut pas il a aqua-narval... Mais bien sûr qu'il sera là, c'est un bébé. »
+- Non y peut pas il a aqua-narval... Mais bien sûr qu'il sera là, c'est un bébé. »
 
-xxsioo acquiesce d'un rire bonne enfant, tout en faisant un signe par côté ;
+xxsioo acquiesce d'un rire bonne enfant, tout en faisant un signe par côté ;
 
-- Il s'est encore fait des amis. » Dit-il en désignant NaHO.
+- Il s'est encore fait des amis. » Dit-il en désignant NaHO.
 
-- Quelle surprise ! Si on l'abandonnait seul au pôle sur la banquise. Au bout d'une semaine il serait copains avec tous les pingouins. » Approuve-t-il tendrement.
+- Quelle surprise ! Si on l'abandonnait seul au pôle sur la banquise. Au bout d'une semaine il serait copains avec tous les pingouins. » Approuve-t-il tendrement.
 
-- Ce ne serait pas de la torture ; c'est pour la science. » Lance xxsioo ses longs bras ondoyants.
+- Ce ne serait pas de la torture ; c'est pour la science. » Lance xxsioo ses longs bras ondoyants.
 
-- Pour la science. » Approuve XeAr en se levant pour y aller.
+- Pour la science. » Approuve XeAr en se levant pour y aller.
 
 Il enlace xxsioo dans une étreinte mi-moqueuse. Cela donne l'occasion, pour le groupe, de proposer de refaire un petit tour. Accepté à l'unanimité.
 
-XeAr dit au revoir à tout le monde. Il embrasse NaHO qui lui lance un regard interrogateur. Son ami se tourne dubitatif vers xxsioo. Discrètement, en langage de guerre il signe :
+XeAr dit au revoir à tout le monde. Il embrasse NaHO qui lui lance un regard interrogateur. Son ami se tourne dubitatif vers xxsioo. Discrètement, en langage de guerre il signe :
 
-- *Il va chez ses parents pour manger.* » Ses doigts ont à peine bougé, le visage discrètement penché pour dicter les micro-expressions de sa phrase.
+- *Il va chez ses parents pour manger.* » Ses doigts ont à peine bougé, le visage discrètement penché pour dicter les micro-expressions de sa phrase.
 
 NaHO compréhensif rend l'accolade à XeAr.
 
@@ -576,13 +588,13 @@ D'un clin d'œil complice, sans même avoir besoin de parler, il promet à xxsio
 
 XeAr les quitte.
 
-Le groupe recomposé se dirige vers le « *pog* ». Ils partent dans un tumulte de jeunesse dans le courant ascendant, faisant la course, se rattrapant et s'amusant.
+Le groupe recomposé se dirige vers le « *pog* ». Ils partent dans un tumulte de jeunesse dans le courant ascendant, faisant la course, se rattrapant et s'amusant.
 
-XeAr lui part récupérer ses palmes. Il remercie la personne au guichet, s\'attardant un peu sur le plaisir qu'il a eu d'essayer ce modèle, pendant qu'il remet les siennes. D'un geste de la main, il dit au revoir et nage le long de la rampe pour regagner la sortie.
+XeAr lui part récupérer ses palmes. Il remercie la personne au guichet, s'attardant un peu sur le plaisir qu'il a eu d'essayer ce modèle, pendant qu'il remet les siennes. D'un geste de la main, il dit au revoir et nage le long de la rampe pour regagner la sortie.
 
 Son corps flotte dans l'eau tiède, léger et serein.
 
-Il se pose sur la plateforme d'entretien. L'ami de xxsioo l'a vu et lui ouvre. Il passe le sas, sentant le léger changement de goût et de température de l\'[Aquasphère](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquasphere). XeAr remercie la [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) et plonge dans les couloirs des [*sousharroyeurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Sousharroyeur).
+Il se pose sur la plateforme d'entretien. L'ami de xxsioo l'a vu et lui ouvre. Il passe le sas, sentant le léger changement de goût et de température de l'[Aquasphère](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquasphere). XeAr remercie la [Jobotahe](https://paoriiu.jiuuijh.fr/encyclopedie/#Jobotahe) et plonge dans les couloirs des [*sousharroyeurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Sousharroyeur).
 
 Il tire au passage un magazine d'un distributeur et va s'assoir sur un banc en attendant sa navette.
 
@@ -592,7 +604,7 @@ Il se demande s'il prend les transports pour les deux arrêts restants ou s'il f
 
 XeAr reprend où il en était, les nouvelles de sa région.
 
-Les migrations sont en avance cette année, et les récoltes sont assez bonnes dans l'ensemble. Quelques nouvelles de *glem ga po gui*, la cité des champs de romance, dont son village est le vassal. Un cambriolage d'un stock de [*labeurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Labeur) retient son attention. C'est du piratage ; souvent les contrebandiers les revendent en principe aux [nodulistes](https://paoriiu.jiuuijh.fr/encyclopedie/#Noduliste) qui exploitent des champs dans des zones illégales. Dans l'article, les autorités penchent pour des combats illégaux.
+Les migrations sont en avance cette année, et les récoltes sont assez bonnes dans l'ensemble. Quelques nouvelles de *glem ga po gui*, la cité des champs de romance, dont son village est le vassal. Un cambriolage d'un stock de [*labeurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Labeur) retient son attention. C'est du piratage ; souvent les contrebandiers les revendent en principe aux [nodulistes](https://paoriiu.jiuuijh.fr/encyclopedie/#Noduliste) qui exploitent des champs dans des zones illégales. Dans l'article, les autorités penchent pour des combats illégaux.
 
 XeAr lit en souriant car il connaît un peu eldmI dont dépend *ga po (cité de champs)* ...
 
@@ -636,51 +648,51 @@ En dehors de la cité, la vue [laminaire](https://fr.wikipedia.org/wiki/Écoulem
 
 La plupart sont des [Baharimbas](https://paoriiu.jiuuijh.fr/encyclopedie/#Baharimba) familiales, comme celle de ses parents, ou des [Aquajins](https://paoriiu.jiuuijh.fr/encyclopedie/#Aquajin) pour une personne célibataire ou deux. Plus haut, jouant avec les lumières, sur les collines proches de l'entrée de la grotte, il reconnaît des [Lwandorias](https://paoriiu.jiuuijh.fr/encyclopedie/#Lwandoria). Il est trop loin, mais normalement on peut les sentir vibrer doucement. XeAr aime beaucoup ces habitations sculptées, faites de récifs artificiels intelligents.
 
-Elles s'intègrent parfaitement à l'environnement. Mais surtout, ce qu'il apprécie le plus, elles changent de couleur selon les saisons ; elles renvoient des nuances chaudes de cuivre et d\'ambre rouge. XeAr préfère leur prochaine variation, dans plusieurs mois, une multitude de bleus qu'il aime beaucoup.
+Elles s'intègrent parfaitement à l'environnement. Mais surtout, ce qu'il apprécie le plus, elles changent de couleur selon les saisons ; elles renvoient des nuances chaudes de cuivre et d'ambre rouge. XeAr préfère leur prochaine variation, dans plusieurs mois, une multitude de bleus qu'il aime beaucoup.
 
-Le quartier où il se trouver est le plus grand [Ileomis](https://paoriiu.jiuuijh.fr/encyclopedie/#Ileomi), le poumon résidentiel de la cité. Les allées dans lesquelles il nage sont spacieuses, prévues pour la circulation au sol. Partout, les résidences sont entourées de jardinets, plus ou moins portager, parfois juste esthétique, mais toujours pour le plaisir. Il effleure au passage une touffe de kelp doré, comme il le faisait enfant : comme le font tous les enfants.
+Le quartier où il se trouver est le plus grand [Ileomis](https://paoriiu.jiuuijh.fr/encyclopedie/#Ileomi), le poumon résidentiel de la cité. Les allées dans lesquelles il nage sont spacieuses, prévues pour la circulation au sol. Partout, les résidences sont entourées de jardinets, plus ou moins portager, parfois juste esthétique, mais toujours pour le plaisir. Il effleure au passage une touffe de kelp doré, comme il le faisait enfant : comme le font tous les enfants.
 
 XeAr arrive à sa destination. Il ralentit son allure.
 
-Il salue sa voisine ; o'oTd et sa nouvelle compagne.
+Il salue sa voisine ; o'oTd et sa nouvelle compagne.
 
 Il s'arrête.
 
 Il sent la [Voluméa](https://paoriiu.jiuuijh.fr/encyclopedie/#Volumea) familière sous la pression des embrassades. Il prend des nouvelles, donne les siennes, ancrant son retour par cette chaleur intime.
 
-Il échange encore un mot avec un autre voisin ; UzOe, puis, avec un dernier coup de palme, il rejoint la [Baharimba](https://paoriiu.jiuuijh.fr/encyclopedie/#Baharimba) de ses parents.
+Il échange encore un mot avec un autre voisin ; UzOe, puis, avec un dernier coup de palme, il rejoint la [Baharimba](https://paoriiu.jiuuijh.fr/encyclopedie/#Baharimba) de ses parents.
 
 XeAr appelle à l'entrée. Elle s'ouvre en corolle, une bouffée de lumière douce s'en échappe.
 
-- Wouaaa. » Lance XeAr.
+- Wouaaa. » Lance XeAr.
 
-Figz lui sourit, superbe dans une robe [pourpre](https://encycolorpedia.fr/search?q=pourpre) qui met en valeur son gros ventre. Sa coiffe discrète descend sur ses omoplates, dénudant ses épaules et dégage sa gorge. Son cou blanc serti d'un collier serré où brille une perle que lui a offert Dergfe (*prononcer dèrgue fée*).
+Figz lui sourit, superbe dans une robe [pourpre](https://encycolorpedia.fr/search?q=pourpre) qui met en valeur son gros ventre. Sa coiffe discrète descend sur ses omoplates, dénudant ses épaules et dégage sa gorge. Son cou blanc serti d'un collier serré où brille une perle que lui a offert Dergfe (*prononcer dèrgue fée* / \[dɛrgfeː\]).
 
-- Ravie de te voir aussi. » Répond-elle en l'embrassant.
+- Ravie de te voir aussi. » Répond-elle en l'embrassant.
 
 Une voix résonne depuis la pièce du fond :
 
-- XeAr mon grand frère. »
+- XeAr mon grand frère. »
 
-- Tu es superbe Figz, tu le sais. Ça se passe bien ? » (*prononcer Figuehz ou 'fix'* )
+- Tu es superbe Figz, tu le sais. Ça se passe bien ? » (*prononcer Figuehz ou 'fix'* / \[figɛz\])
 
-- Oui assez bien, ta sœur est au petit soin avec moi et il ne me reste plus que quelques semaines. »
+- Oui assez bien, ta sœur est au petit soin avec moi et il ne me reste plus que quelques semaines. »
 
-- Avant que je sois à nouveau tonton. » Dit-il en enlaçant sa sœur qui arrive à son tour.
+- Avant que je sois à nouveau tonton. » Dit-il en enlaçant sa sœur qui arrive à son tour.
 
 Dergfe porte son uniforme d'[*Exlec*](https://paoriiu.jiuuijh.fr/encyclopedie/#Exlec) ; noir souligné sur toute la silhouette par un liseré [bleu électrique](https://encycolorpedia.fr/2c75ff). Son insigne au-dessus du sein droit, presque à la clavicule. A gauche, un scratch vide sur lequel elle y place d'habitude son distributeur. Il est posé derrière, sur la desserte des convenances avec sa coiffe réglementaire. Elle a les cheveux bruns complètement détachés qui ondulent tout autour d'elle. Elle porte des bottes en cuir de [mégaptera](https://fr.wikipedia.org/wiki/Megaptera)-recyclé qui remonte au genou --- un peu comme celles de xxsioo. XeAr continue de la scruter, à mi-cuisse, brodés aussi de dentelles, un holster accroché à une ceinture [vermillon](https://encycolorpedia.fr/ff0921) et son ventre est bien redevenu plat, on ne dirait pas qu'elle est une jeune maman.
 
-Dergfe suit le regard de son frère vers le [contacteur](https://paoriiu.jiuuijh.fr/encyclopedie/#Contacteur) à sa hanche :
+Dergfe suit le regard de son frère vers le [contacteur](https://paoriiu.jiuuijh.fr/encyclopedie/#Contacteur) à sa hanche :
 
-- Désolée, je suis d'astreinte, c'est pour ça que je ne me suis pas changée. » Dit-elle sur un air d'excuses sincères.
+- Désolée, je suis d'astreinte, c'est pour ça que je ne me suis pas changée. » Dit-elle sur un air d'excuses sincères.
 
 D'un geste de la tête il lui fait comprendre que c'est [grapave](https://paoriiu.jiuuijh.fr/encyclopedie/#Grapave) et qu'il est content de les revoir.
 
-Leur père apparaît, tenant son neveu dans les bras. Le petit est mignon. Il a encore grandi et dans ses vêtements [azur](https://encycolorpedia.fr/search?q=azur) il est adorable. Uzeanu s'amuse avec les nattes épaisses de cheveux que son grand-père laisse flotter sans coiffe. Bras nus avec un simple ensemble moulant. Ils s'embrassent, échangent un regard complice, quand XeAr a vu les nattes de son père. Ils échangent quelques mots *vjeoz*, le dialecte de leur village --- un son doux, roulé comme une vague. (*prononcer fioch*).
+Leur père apparaît, tenant son neveu dans les bras. Le petit est mignon. Il a encore grandi et dans ses vêtements [azur](https://encycolorpedia.fr/search?q=azur) il est adorable. Uzeanu s'amuse avec les nattes épaisses de cheveux que son grand-père laisse flotter sans coiffe. Bras nus avec un simple ensemble moulant. Ils s'embrassent, échangent un regard complice, quand XeAr a vu les nattes de son père. Ils échangent quelques mots *vjeoz*, le dialecte de leur village --- un son doux, roulé comme une vague. (*prononcer fioch* / \[fjɔʃ\]).
 
 D'un sourire, XeAr s'approche. Son père en profite pour lui donner son neveu dans les bras.
 
-- Tiens, fais-lui faire un tour, je vais voir ce que fait ta mère. » Dit-il en partant d'une nage gracile à l'étage.
+- Tiens, fais-lui faire un tour, je vais voir ce que fait ta mère. » Dit-il en partant d'une nage gracile à l'étage.
 
 Il ondule de sa jambe droite puissance, la prothèse au-dessus du genou gauche, suit le mouvement et l'aide à avancer rapidement et avec élégance.
 
@@ -690,7 +702,7 @@ Figz se dirige vers l'[oecus](https://fr.wikipedia.org/wiki/Oecus). Un peu fatig
 
 L'[oecus](https://fr.wikipedia.org/wiki/Oecus) est une pièce plutôt grande, rectangulaire.
 
-Il y a plusieurs fauteuils confortables de différentes formes et différentes hauteurs : deux [bleus Majorelle](https://fr.wikipedia.org/wiki/Bleu_Majorelle), un vert tendre [sinople](https://encycolorpedia.fr/search?q=sinople) et trois jaunes orangés. Les six sont disposés autour d'une table basse en marbre bleu aux veines violettes.
+Il y a plusieurs fauteuils confortables de différentes formes et différentes hauteurs : deux [bleus Majorelle](https://fr.wikipedia.org/wiki/Bleu_Majorelle), un vert tendre [sinople](https://encycolorpedia.fr/search?q=sinople) et trois jaunes orangés. Les six sont disposés autour d'une table basse en marbre bleu aux veines violettes.
 
 Accrochés aux murs quelques tri-portraits.
 
@@ -700,7 +712,7 @@ Sa sœur va vers un meuble et sort différentes boîtes qu'elle dépose sur la t
 
 Les voilà tous trois et demi en train de discuter des études de XeAr, du poste de Dergfe, la grossesse de Figz et des progrès d'Uzeanu. Il dort bien, laissant un peu de temps à ses [génimères](https://paoriiu.jiuuijh.fr/encyclopedie/#Génimère).
 
-Figz a arrêté son travail ; elle peut s'occuper de son fils. Cela évite de devoir le faire garder. Comme ça Dergfe a pu reprendre son activité. XeAr reconnaît bien là sa sœur qui ne pouvait pas rester à « ne rien faire ». Dergfe propose quelques petites choses à grignoter à Figz et aussi histoire de changer de sujet.
+Figz a arrêté son travail ; elle peut s'occuper de son fils. Cela évite de devoir le faire garder. Comme ça Dergfe a pu reprendre son activité. XeAr reconnaît bien là sa sœur qui ne pouvait pas rester à « ne rien faire ». Dergfe propose quelques petites choses à grignoter à Figz et aussi histoire de changer de sujet.
 
 Elle lui montre un coquillage que la future maman décline, mais préfère les petites [linckia](https://fr.wikipedia.org/wiki/Linckia). Dergfe lui en tend une petite poignée.
 
@@ -723,7 +735,9 @@ La soirée a été agréable.
 Il est content de redormir dans sa chambre, à côté de celle de sa sœur.
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+
 ----
+
 ----
 
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>

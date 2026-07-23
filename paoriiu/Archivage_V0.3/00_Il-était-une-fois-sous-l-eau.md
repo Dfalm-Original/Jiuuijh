@@ -1,11 +1,15 @@
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
 
 ## PREMIER VOLET :  *p’Aoriiu Jiuuijh* -- Version V0.3
-<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/00_Il-était-une-fois-sous-l-eau_V0.3.png" width="85%" height="85%">
+
+<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/00_Il-était-une-fois-sous-l-eau_V0.2.png" width="85%" height="85%">
 
 ----
-Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
+
+Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si tu préfères tu peux aller 👁 :
+
 ### Et là 👉🏼  [ LISTES DE LIENS DE LECTURE ALTERNATIVES](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Liens-lectures.md)
+
 > 👁 Le site web : https://paoriiu.jiuuijh.fr <br>
 > 👩🏽‍🏫 Sur Quora : https://paoriiujiuuijh.quora.com/<br>
 > 🔖 Sur Substack : https://substack.com/@dfalm<br>
@@ -15,10 +19,12 @@ Si tu es plus à l’aise 🤳🏻 tu as d’autres manière pour lire 📖  si
 > 📖 Sur Wattpad : [https://www.wattpad.com/user/Dfalm_](https://www.wattpad.com/user/Dfalm_) <br>
 > 🧑‍💻 Sur les Atliers d'Auteurs : https://www.atelierdesauteurs.com/text/460504310/p-aoriiu-jiuuijh<br>
 
-Et tu peux lire ici  ⏬
+Et tu peux lire ici  ⏬
 
 ----
+
 ### [ANCIENNES VERSIONS](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Versions.md)
+
 ### [Télécharger le fichier ODT](a-pAoriiu-jiuuijh_Volet1_Version.0.3.odt)  -- Version V0.3 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/odt.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.3.odt)
 
 #### [Télécharger toutes les versions .z7](a-pAoriiu-jiuuijh_Volet1_Version.0.3-Accessible-Luciole-PDF-livretA5.7z)  -- Version V0.3 [<img src="https://raw.githubusercontent.com/Dfalm-Original/Jiuuijh/refs/heads/main/images/7z.png">](a-pAoriiu-jiuuijh_Volet1_Version.0.3-Accessible-Luciole-PDF-livretA5.7z)
@@ -28,12 +34,17 @@ Police de caractères "Luciole" pour les malvoyants. [ICI LE SITE + Télécharge
 Plus les formats "livret" PDF pour lire sur Smartphone/Tablette.
 
 ----
+
 ## [+Mini-Histoires](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/Mini-Histoires)
+
 ----
+
 Rappel : les mots avec une couleur différente c’est des liens cliquables. 🫡
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+
 [Version intégrale](a-pAoriiu-jiuuijh_Volet1_Version.0.3.md)  -- Version V0.3
+
 - [« Il était une fois sous l’eau… ](00_Il-était-une-fois-sous-l-eau.md)
 - [ ... le regard nulle part, les yeux en direction de ...](02_Chapitre02.md)
 - [ ... sort en quelques coups ... ](04_Chapitre04.md)
@@ -54,15 +65,16 @@ Rappel : les mots avec une couleur différente c’est des liens cliquables. �
 ### [**Lexique**](a-pAoriiu-jiuuijh_Volet1-lexique.md)
 
 ---
-**«*Il était une fois sous l'eau...* »**
 
-Tudidu tudidu tudidu... Le regard absent sur le logo; un téléphone barré.
+**« *Il était une fois sous l'eau...* »**
+
+Tudidu tudidu tudidu... Le regard absent sur le logo ; un téléphone barré.
 
 Rémi exaspéré, se retourne et dévisage celui qui décroche son portable. Ce n'est visiblement pas un simple pictogramme rayé en rouge qui va changer grand-chose à l'incivilité.
 
 Irrité, il continue sa course pour rejoindre son siège et passe cette voiture pour rejoindre la sienne.
 
-Pourtant, il y a bien un être humain qui le rappelle au départ et à chaque gare;
+Pourtant, il y a bien un être humain qui le rappelle au départ et à chaque gare ;
 
 « *Vous êtes invités à passer vos appels depuis les plateformes.* »
 
@@ -76,15 +88,15 @@ Les sièges sont gris et verts, le pictogramme interdiction de fumer bien visibl
 
 Rémi enjambe aux premiers rangs un gamin accroupi.
 
-L'enfant est absorbé par ses jouets à la mode: des étranges hommes poissons aux couleurs vives et aux sourires exagérés.
+L'enfant est absorbé par ses jouets à la mode : des étranges hommes poissons aux couleurs vives et aux sourires exagérés.
 
 Sa mère le gronde un peu. Elle le relève de force. Du bout des doigts il rattrape ses jouets.
 
 Il serre contre lui une peluche aux cheveux noirs et au large sourire sous un chapeau de paille.
 
-> *- Arrête donc de te traîner par terre veux-tu!*
->
-> *Ça suffit comme ça, je n'en peux vraiment plus!*
+> *- Arrête donc de te traîner par terre veux-tu !*
+> 
+> *Ça suffit comme ça, je n'en peux vraiment plus !*
 
 Ses yeux sont tout brillants, mais il ne pleure pas.
 
@@ -110,11 +122,11 @@ Ils sourient d'un sourire sincère.
 
 Rémi caresse le contour de la flèche, toujours cette même nostalgie.
 
-C'était une belle journée, quand ils ont pris la photo. Il la range doucement, avant de se mettre au boulot.
+C'était une belle journée, quand ils ont pris la photo. Il inspire profondément l'air frais puis la range doucement, avant de se mettre au boulot.
 
-Pour commencer, il prend son ordinateur, une petite boite en bois en acajou ciré, un bois très rouge avec peu de veines, qu'il l'aime beaucoup. La chaleur du bois l\'apaise immédiatement.
+Pour commencer, il prend son ordinateur, une petite boite en bois en acajou ciré, un bois très rouge avec peu de veines, qu'il l'aime beaucoup. La chaleur du bois l'apaise immédiatement.
 
-Il apprécie son contact. Il le caresse du bout des doigts, puis le met sur la tablette; à droite.
+Il apprécie son contact. Il le caresse du bout des doigts, puis le met sur la tablette ; à droite.
 
 Il pose sa mallette à côté de lui et sort une pochette en velours violet aux reflets vert.
 
@@ -144,11 +156,11 @@ Dans ses oreilles le petit « bip » caractéristique - son qu'il a gardé par n
 
 Bien sûr que, c'est inutile...c'est justement pour ça que c'est indispensable.
 
-Devant ses yeux, l'écran noir classique s'anime. Il a laissé le «Check» du matériel, réglé à sept secondes --- juste le temps de respirer.
+Devant ses yeux, l'écran noir classique s'anime. Il a laissé le « Check » du matériel, réglé à sept secondes --- juste le temps de respirer.
 
 Tout semble en ordre. L'ordinateur est prêt.
 
-Le regard de Rémi voit d'abord le fond d'écran dans le bureau à 150°; une cité sous-marine.
+Le regard de Rémi voit d'abord le fond d'écran dans le bureau à 150° ; une cité sous-marine.
 
 Entièrement lovée au creux d'une grotte immense, comme une perle nichée dans l'écrin d'un coquillage.
 
@@ -174,7 +186,7 @@ Il aime cet endroit.
 
 Peu à peu, son regard s'habitue.
 
-Il commence à distinguer le reste du bureau: des icônes, semi-transparentes aux couleurs pastel --- rose pâle et [héliotrope](https://encycolorpedia.fr/df73ff) --- qui flottent doucement autour du paysage.
+Il commence à distinguer le reste du bureau : des icônes, semi-transparentes aux couleurs pastel --- rose pâle et [héliotrope](https://encycolorpedia.fr/df73ff) --- qui flottent doucement autour du paysage.
 
 Rémi effleure l'icône du traitement de texte.
 
@@ -188,23 +200,23 @@ L'allégresse reprend Rémi, il se remet au travail.
 
 Et maintenant, où en était-il ?
 
-Un pleur! Retour au monde extérieur.
+Un pleur ! Retour au monde extérieur.
 
 Le gamin vient de se faire gronder sévèrement à force de jouer par terre, il étouffe son sanglot.
 
 Rémi examine son espace, cherche ce qui manque...
 
-Ah ! De la musique!
+Ah ! De la musique !
 
-Son regard glisse, son lecteur il est où?
+Son regard glisse, son lecteur il est où ?
 
-Un coup d'œil à droite. Rémi vient de trouver, il est en bas. Là, posé sur le toit d'un grand bâtiment\...
+Un coup d'œil à droite. Rémi vient de trouver, il est en bas. Là, posé sur le toit d'un grand bâtiment...
 
 Il descend, évite l'angle d'une tour, attrape la musique --- un œil oblong, l'icône d'une double bille irisée palpite doucement. Il saisit le lecteur pour choisir.
 
 Il hésite ... hummm... non... non... non...
 
-Voilà!
+Voilà !
 
 De ses [*préempteurs*](https://paoriiu.jiuuijh.fr/encyclopedie/#Préempteurs), main gracieuse, il active l'écoute.
 
@@ -216,33 +228,34 @@ Il aime beaucoup ce musicien. Il s'apaise.
 
 Il est heureux.
 
-Enfin, retour au boulot!
+Enfin, retour au boulot !
 
 Calmement Rémi relève la tête, l'espace de travail défile en reculant, rase le flanc d'un édifice.
 
 Le texte réapparaît, transparent, laissant deviner la cité derrière --- ses parois, ses objets flottants, son immensité. Il peut percevoir les bords de la grotte.
 
-Son œil s\'habitue aux objets qui flottent, révélant la grandeur de cette cité extraordinaire.
+Son œil s'habitue aux objets qui flottent, révélant la grandeur de cette cité extraordinaire.
 
-Il ne parvient pas à se l'imaginer au premier regard\... Mais à force d\'y plonger, plus elle est grandiose.
+Il ne parvient pas à se l'imaginer au premier regard... Mais à force d'y plonger, plus elle est grandiose.
 
 Immense.
 
-Ses dimensions sont... édifiantes. Délirantes!
+Ses dimensions sont... édifiantes. Délirantes !
 
 Peut-être des [lieues](https://fr.wikipedia.org/wiki/Lieue), difficile de deviner cette taille démesurée.
 
-L'attention de Rémi se fixe sur les lettres du texte qui flottent au-dessus de ce qui pourrait être un «hydro-port» --- au-dessus duquel semble transiter des milliers de petits points.
+L'attention de Rémi se fixe sur les lettres du texte qui flottent au-dessus de ce qui pourrait être un « hydro-port » --- au-dessus duquel semble transiter des milliers de petits points.
 
 Rémi relit l'entête de ce qu'il était en train d'écrire...
 
-Ah oui;
+Ah oui ;
 
-«*Il était une fois sous l'eau...*
-
+« *Il était une fois sous l'eau...*
 
 ## ↩️ [RETOUR A L INDEX](https://github.com/Dfalm-Original/Jiuuijh/blob/main/paoriiu/README.md)
+
 ----
+
 ----
 
 ### <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/CC-0-Violet.png" height="48"></a> Dfalm.<i>[Licence ](https://github.com/Dfalm-Original/COMFYui?tab=License-1-ov-file)</i><a href="https://fr.wikipedia.org/wiki/WTFPL"><img src="https://raw.githubusercontent.com/Dfalm-Original/COMFYui/main/images/WTFPL_logo.svg.png" height="48"></a>
